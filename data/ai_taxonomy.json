@@ -6725,27 +6725,6 @@
 "qa"
 ]
 },
-"cvpr-2026-workshop-wthe-5th-explainable-ai-f-vision-language-models-with-explain||cvpr-2026-workshop-wthe-5th-explainable-ai-f-vision-language-models-with-explain.pdf": {
-"narrative_style": "reasoning",
-"content_pref": [
-"insights",
-"comparative",
-"new_directions"
-],
-"visual_background": "plain",
-"visual_layout": [
-"title_body",
-"split",
-"grid",
-"visual_focused"
-],
-"visual_content": "visual_focused",
-"textual_style": [
-"qa",
-"sentence",
-"bullet"
-]
-},
 "eccv-2022-workshop-w4th-advances-in-image-ma-the-differentiable-camera-designing-cameras-t||aim2022_eccv_felixheide.pdf": {
 "narrative_style": "topic",
 "content_pref": [
@@ -7367,6 +7346,27 @@
 "textual_style": [
 "bullet",
 "sentence"
+]
+},
+"cvpr-2026-workshop-wthe-5th-explainable-ai-f-vision-language-models-with-explainable-bottleneck-layers||cvpr-2026-workshop-wthe-5th-explainable-ai-f-vision-language-models-with-explain.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"qa",
+"sentence",
+"bullet"
 ]
 }
 }
