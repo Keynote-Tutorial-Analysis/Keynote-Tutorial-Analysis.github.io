@@ -9,7 +9,7 @@ const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 const state = { units: [], filtered: [], taxonomy: { categories: [] },
-  current: null, rating: "", tax: {}, done: false };
+  current: null, rating: "", tax: {}, done: false, refs: [] };
 const viewer = { doc: null, pages: [], observer: null, onScroll: null };
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "vendor/pdf.worker.min.js";
 
@@ -39,7 +39,12 @@ const uid = u => `${u.deck_id}||${u.file}`;
 const annKey = u => "kbann:" + uid(u);
 function loadAnn(u) { try { return JSON.parse(localStorage.getItem(annKey(u))) || null; } catch (e) { return null; } }
 function saveAnn(u, ann) { try { localStorage.setItem(annKey(u), JSON.stringify(ann)); } catch (e) {} }
-function annState(ann) { return !ann ? "not_started" : ann.done ? "done" : (ann.rating || (ann.tax && Object.keys(ann.tax).length)) ? "in_progress" : "not_started"; }
+function annState(ann) {
+  if (!ann) return "not_started";
+  if (ann.done) return "done";
+  const has = ann.rating || (ann.tax && Object.keys(ann.tax).length) || (ann.references && ann.references.length);
+  return has ? "in_progress" : "not_started";
+}
 function pdfURL(u) { return CFG.HF_BASE + u.rel_path + "deck/" + encodeURIComponent(u.file); }
 
 // ---------- boot ----------
@@ -50,12 +55,15 @@ async function init() {
   catch (e) { $("#deck-list").innerHTML = `<div class="di-empty">Couldn't load data/units.csv</div>`; return; }
   const venues = [...new Set(state.units.map(u => u.venue).filter(Boolean))].sort();
   $("#f-venue").innerHTML = '<option value="">All venues</option>' + venues.map(v => `<option>${esc(v)}</option>`).join("");
+  const revs = [...new Set(state.units.map(u => u.reviewer).filter(Boolean))].sort((a, b) => (+a || 0) - (+b || 0));
+  $("#f-reviewer").innerHTML = '<option value="">All reviewers</option>' + revs.map(r => `<option value="${esc(r)}">Reviewer ${esc(r)}</option>`).join("");
   applyFilters();
   renderOverall();
 }
 function wire() {
-  ["search", "f-category", "f-venue", "f-status"].forEach(id => $("#" + id).addEventListener("input", applyFilters));
+  ["search", "f-category", "f-venue", "f-status", "f-reviewer"].forEach(id => $("#" + id).addEventListener("input", applyFilters));
   $("#f-scope").addEventListener("change", applyFilters);
+  $("#btn-add-ref").addEventListener("click", addRef);
   $("#btn-export").addEventListener("click", exportAnnotations);
   $("#btn-save").addEventListener("click", () => sendToSheet(persist(false), "Saved"));
   $("#btn-submit").addEventListener("click", submitReview);
@@ -75,8 +83,10 @@ function wire() {
 // ---------- sidebar ----------
 function applyFilters() {
   const q = $("#search").value.trim().toLowerCase(), cat = $("#f-category").value,
-    ven = $("#f-venue").value, st = $("#f-status").value, scope = $("#f-scope").checked;
+    ven = $("#f-venue").value, st = $("#f-status").value, scope = $("#f-scope").checked,
+    rev = $("#f-reviewer").value;
   state.filtered = state.units.filter(u => {
+    if (rev && String(u.reviewer) !== rev) return false;
     if (scope && u.scope && u.scope !== "in") return false;
     if (cat && u.category !== cat) return false;
     if (ven && u.venue !== ven) return false;
@@ -119,6 +129,7 @@ async function selectUnit(u) {
   state.tax = {};
   (state.taxonomy.categories || []).forEach(c => { state.tax[c.key] = new Set((ann.tax && ann.tax[c.key]) || []); });
   state.done = !!ann.done;
+  state.refs = (ann.references && ann.references.length) ? ann.references.map(r => ({ ...r })) : null; // null = seed from bundled
 
   $("#empty").hidden = true; $("#review").hidden = false;
   const catLabel = u.category === "tutorial" ? "Tutorial" : u.category === "keynote" ? "Keynote" : "Invited talk";
@@ -139,23 +150,59 @@ async function selectUnit(u) {
   else $("#viewer-holder").innerHTML = `<div class="viewer-msg">This file is <b>${esc(u.ext || "non-PDF")}</b> — <a class="btn" href="${pdfURL(u)}" target="_blank" rel="noopener">open it ↗</a></div>`;
 }
 
-// ---------- references (main only, per unit) ----------
+// ---------- references (editable: verify / edit / add) ----------
 async function renderRefs(u) {
-  const box = $("#refs-table"); box.innerHTML = '<div class="di-empty">Loading references…</div>';
-  let rows = [];
-  try {
-    const all = csvObjects(await fetchText(CFG.DATA + "refs/" + u.deck_id + "/references.csv"));
-    rows = all.filter(r => (r.provenance || "").endsWith(":central") &&
-      (!r.slide_file || r.slide_file === u.file) && (r.title || r.link));
-  } catch (e) { rows = []; }
-  if (u !== state.current) return;
-  $("#refs-summary").textContent = `${rows.length} main reference${rows.length === 1 ? "" : "s"} on this unit`;
-  box.innerHTML = rows.length ? rows.map(r => {
-    const ttl = r.title || (r.authors ? `${r.authors}${r.year ? ", " + r.year : ""}` : "(untitled citation)");
-    const link = r.link ? ` <a href="${esc(r.link)}" target="_blank" rel="noopener">link ↗</a>` : "";
-    const meta = [r.authors, r.year, r.arxiv_id].filter(Boolean).map(esc).join(" · ");
-    return `<div class="ref-row"><div class="rr-title">${esc(ttl)}${link}</div>${meta ? `<div class="rr-meta">${meta}</div>` : ""}</div>`;
-  }).join("") : '<div class="di-empty">No main references listed for this unit.</div>';
+  if (state.refs === null) {                 // seed from bundled main refs for this unit
+    $("#refs-table").innerHTML = '<div class="di-empty">Loading references…</div>';
+    let seed = [];
+    try {
+      const all = csvObjects(await fetchText(CFG.DATA + "refs/" + u.deck_id + "/references.csv"));
+      seed = all.filter(r => (r.provenance || "").endsWith(":central") && (!r.slide_file || r.slide_file === u.file))
+        .map(r => ({ title: r.title || "", authors: r.authors || "", year: r.year || "",
+                     arxiv_id: r.arxiv_id || "", link: r.link || "", verified: "" }));
+    } catch (e) { seed = []; }
+    if (u !== state.current) return;
+    state.refs = seed;
+  }
+  drawRefs();
+}
+function drawRefs() {
+  const box = $("#refs-table"); const n = state.refs.length;
+  const v = state.refs.filter(r => r.verified === "Y").length;
+  $("#refs-summary").textContent = `${n} reference${n === 1 ? "" : "s"} · ${v} verified`;
+  if (!n) { box.innerHTML = '<div class="di-empty">No references — use “+ Add reference”.</div>'; return; }
+  box.innerHTML = state.refs.map((r, i) => `
+    <div class="ref-row" data-i="${i}">
+      <input class="rr-f rr-title" data-k="title" value="${esc(r.title)}" placeholder="paper title (blank = author–year only)">
+      <div class="rr-sub">
+        <input class="rr-f" data-k="authors" value="${esc(r.authors)}" placeholder="authors">
+        <input class="rr-f rr-year" data-k="year" value="${esc(r.year)}" placeholder="year">
+        <input class="rr-f rr-link" data-k="link" value="${esc(r.link)}" placeholder="link / arXiv / DOI">
+      </div>
+      <div class="rr-controls">
+        <span class="verify-group" title="Is this paper actually referenced in the deck?">
+          <button type="button" class="vbtn${r.verified === 'Y' ? ' on y' : ''}" data-v="Y">Y</button>
+          <button type="button" class="vbtn${r.verified === 'partial' ? ' on p' : ''}" data-v="partial">~</button>
+          <button type="button" class="vbtn${r.verified === 'N' ? ' on n' : ''}" data-v="N">N</button>
+        </span>
+        <button type="button" class="rr-del" title="Remove this reference">✕</button>
+      </div>
+    </div>`).join("");
+  $$(".ref-row", box).forEach(row => {
+    const i = +row.dataset.i;
+    $$(".rr-f", row).forEach(inp => inp.addEventListener("input", () => { state.refs[i][inp.dataset.k] = inp.value; persist(false); }));
+    $$(".vbtn", row).forEach(b => b.addEventListener("click", () => {
+      state.refs[i].verified = state.refs[i].verified === b.dataset.v ? "" : b.dataset.v; drawRefs(); persist(false);
+    }));
+    row.querySelector(".rr-del").addEventListener("click", () => { state.refs.splice(i, 1); drawRefs(); persist(false); });
+  });
+}
+function addRef() {
+  if (!state.current || state.refs === null) return;
+  state.refs.push({ title: "", authors: "", year: "", arxiv_id: "", link: "", verified: "" });
+  drawRefs(); persist(false);
+  const rows = $$("#refs-table .ref-row"); const last = rows[rows.length - 1];
+  if (last) last.querySelector(".rr-title").focus();
 }
 
 // ---------- PDF viewer with selectable text layer ----------
@@ -310,8 +357,9 @@ function updateTaxSummary() {
 function serializeTax() { const o = {}; taxCats().forEach(c => { const s = [...(state.tax[c.key] || [])]; if (s.length) o[c.key] = s; }); return o; }
 function persist(done) {
   if (!state.current) return null;
-  const ann = { rating: state.rating, tax: serializeTax(), done: done === undefined ? state.done : done,
-    updated: new Date().toISOString() };
+  const ann = { rating: state.rating, tax: serializeTax(),
+    references: Array.isArray(state.refs) ? state.refs.map(r => ({ ...r })) : [],
+    done: done === undefined ? state.done : done, updated: new Date().toISOString() };
   state.done = ann.done;
   saveAnn(state.current, ann);
   renderDeckList(); renderOverall();
@@ -327,7 +375,7 @@ function pushToSheet(u, ann) {
   if (!CFG.SHEET_ENDPOINT || !u || !ann) return;
   const payload = { reviewer: reviewerId(), deck_id: u.deck_id, file: u.file, venue: u.venue,
     year: u.year, title: u.title, category: u.category, rating: ann.rating, done: !!ann.done,
-    taxonomy: ann.tax || {}, updated: ann.updated };
+    taxonomy: ann.tax || {}, references: ann.references || [], updated: ann.updated };
   try {
     fetch(CFG.SHEET_ENDPOINT, { method: "POST", mode: "no-cors",
       headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(payload) });
@@ -371,9 +419,9 @@ function hideSubmitWarning() { const el = $("#submit-warning"); if (el) el.hidde
 
 function exportAnnotations() {
   const out = [];
-  for (const u of state.units) { const a = loadAnn(u); if (a && (a.rating || a.done || (a.tax && Object.keys(a.tax).length)))
-    out.push({ deck_id: u.deck_id, file: u.file, title: u.title, venue: u.venue, year: u.year,
-      rating: a.rating || "", done: !!a.done, taxonomy: a.tax || {}, updated: a.updated || "" }); }
+  for (const u of state.units) { const a = loadAnn(u); if (a && (a.rating || a.done || (a.tax && Object.keys(a.tax).length) || (a.references && a.references.length)))
+    out.push({ deck_id: u.deck_id, file: u.file, title: u.title, venue: u.venue, year: u.year, reviewer: u.reviewer || "",
+      rating: a.rating || "", done: !!a.done, taxonomy: a.tax || {}, references: a.references || [], updated: a.updated || "" }); }
   const blob = new Blob([JSON.stringify(out, null, 2)], { type: "application/json" });
   const a = document.createElement("a"); a.href = URL.createObjectURL(blob);
   a.download = "annotations.json"; a.click(); URL.revokeObjectURL(a.href);

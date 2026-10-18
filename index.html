@@ -19,23 +19,24 @@
     <div class="filters">
       <input id="search" type="search" placeholder="Search title / venue…" autocomplete="off">
       <div class="filter-row">
+        <select id="f-reviewer"><option value="">All reviewers</option></select>
         <select id="f-category">
           <option value="">All types</option>
           <option value="keynote">Keynotes</option>
           <option value="invited_talk">Invited talks</option>
           <option value="tutorial">Tutorials</option>
         </select>
-        <select id="f-venue"><option value="">All venues</option></select>
       </div>
       <div class="filter-row">
+        <select id="f-venue"><option value="">All venues</option></select>
         <select id="f-status">
           <option value="">Any status</option>
           <option value="not_started">Not started</option>
           <option value="in_progress">In progress</option>
           <option value="done">Submitted</option>
         </select>
-        <label class="scope-toggle"><input type="checkbox" id="f-scope" checked> Target venues only</label>
       </div>
+      <label class="scope-toggle"><input type="checkbox" id="f-scope" checked> Target venues only</label>
     </div>
     <div id="deck-list" class="deck-list"></div>
   </aside>
@@ -91,6 +92,7 @@
           <div class="refs-section">
             <div class="refs-bar">
               <div class="refs-summary" id="refs-summary"></div>
+              <button id="btn-add-ref" class="btn btn-sm">+ Add reference</button>
             </div>
             <div id="refs-table" class="refs-table"></div>
           </div>

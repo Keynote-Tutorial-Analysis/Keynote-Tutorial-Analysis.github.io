@@ -469,8 +469,22 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .
 .linklike { border: 0; background: none; color: var(--accent); cursor: pointer; font: inherit; padding: 0; text-decoration: underline; }
 .scope-toggle { display: flex; align-items: center; gap: 5px; font-size: 12px; color: var(--ink-soft); white-space: nowrap; }
 .of-total { color: var(--ink-faint); }
-.ref-row { padding: 7px 4px; border-bottom: 1px solid var(--line); }
-.rr-title { font-size: 13px; font-weight: 600; color: var(--ink); }
-.rr-meta { font-size: 11.5px; color: var(--ink-soft); margin-top: 2px; }
 .reviewer-id { width: 100%; margin-top: 8px; padding: 6px 8px; border: 1px solid var(--line-strong);
   border-radius: 7px; font: inherit; font-size: 12.5px; background: var(--panel); color: var(--ink); }
+
+/* editable reference rows */
+.ref-row { padding: 8px 4px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 4px; }
+.rr-f { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 4px 7px; font: inherit; font-size: 12.5px; background: var(--panel); color: var(--ink); }
+.rr-f:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.rr-title { font-weight: 600; }
+.rr-sub { display: flex; gap: 5px; }
+.rr-sub .rr-year { max-width: 64px; }
+.rr-controls { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.verify-group { display: inline-flex; border: 1px solid var(--line-strong); border-radius: 7px; overflow: hidden; }
+.vbtn { border: 0; background: var(--panel); padding: 3px 10px; cursor: pointer; font: inherit; font-weight: 700; font-size: 12px; color: var(--ink-soft); border-right: 1px solid var(--line-strong); }
+.vbtn:last-child { border-right: 0; }
+.vbtn.on.y { background: var(--yes); color: #fff; }
+.vbtn.on.p { background: var(--partial); color: #fff; }
+.vbtn.on.n { background: var(--no); color: #fff; }
+.rr-del { border: 0; background: transparent; color: var(--ink-faint); cursor: pointer; font-size: 14px; padding: 2px 6px; border-radius: 6px; }
+.rr-del:hover { color: var(--no); background: var(--no-bg); }
