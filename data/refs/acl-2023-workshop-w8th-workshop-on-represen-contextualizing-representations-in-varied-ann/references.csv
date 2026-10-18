@@ -1,0 +1,17 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+swabha_repl4nlp_acl2023.pdf,Dataset Cartography,Swayamdipta et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) Dataset Cartography [Swayamdipta et al., EMNLP 2020]",references_csv
+swabha_repl4nlp_acl2023.pdf,WaNLI,"Liu, Swayamdipta et al.",2022,,,extracted_from_slides:central,,"[auto-evidence] (slide 14) WaNLI [Liu, Swayamdipta et al., EMNLP-Findings 2022]",references_csv
+swabha_repl4nlp_acl2023.pdf,Ambient (AMBIENT Benchmark),"Liu, ..., Swayamdipta et al.",2023,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) Ambient [Liu, …, Swayamdipta et al., arXiv 2023]",references_csv
+swabha_repl4nlp_acl2023.pdf,"The what, who, and why of toxicity annotations","Sap, Swayamdipta et al.",2022,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Sap, Swayamdipta et al., NAACL 2022",references_csv
+swabha_repl4nlp_acl2023.pdf,Stanford NLI (SNLI),Bowman et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Stanford NLI [Bowman et al., 2015]",references_csv
+swabha_repl4nlp_acl2023.pdf,MultiNLI,Williams et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) MultiNLI [Williams et al., 2018]",references_csv
+swabha_repl4nlp_acl2023.pdf,,Jiang & Marneffe,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Example from Jiang & Marneffe, 2022",references_csv
+swabha_repl4nlp_acl2023.pdf,Semantic Theory,Katz,1972,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Semantic Theory [Katz, 1972]",references_csv
+swabha_repl4nlp_acl2023.pdf,,Wang et al. (Diagnostics),2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Diagnostics [Wang et al., 2019]",references_csv
+swabha_repl4nlp_acl2023.pdf,,Pavlick & Kwiatkowski,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 17) [Pavlick & Kwiatkowski, 2019; Chen et al., 2020; Zhou et al., 2022; Davani et al., 2021]",references_csv
+swabha_repl4nlp_acl2023.pdf,Modern Racism Scale,McConahay,86,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Modern Racism Scale from McConahay ‘86,references_csv
+swabha_repl4nlp_acl2023.pdf,,Cowan et al.,02,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Scale from Cowan et al. ’02,references_csv
+swabha_repl4nlp_acl2023.pdf,Interpersonal Reactivity Index,Pulos et al.,04,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Interpersonal Reactivity Index from Pulos et al. ‘04,references_csv
+swabha_repl4nlp_acl2023.pdf,,Bouchard Jr. & McGue,03,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Scale from Bouchard Jr. & McGue ’03,references_csv
+swabha_repl4nlp_acl2023.pdf,,Steg et al.,14,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Scale from Steg et al. ’14,references_csv
+swabha_repl4nlp_acl2023.pdf,,Cambo,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 32) positionality (Cambo, 2021)",references_csv

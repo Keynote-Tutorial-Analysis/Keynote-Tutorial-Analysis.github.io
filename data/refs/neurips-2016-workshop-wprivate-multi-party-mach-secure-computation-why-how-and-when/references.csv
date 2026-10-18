@@ -1,0 +1,22 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+pmpml16_raykova.pdf,,Yao,86,,,extracted_from_slides:central,,[auto-evidence] (slide 25) Classical&[Yao86],references_csv
+pmpml16_raykova.pdf,BGW Construction,"Ben-Or, Goldwasser, Widgerson",,,,extracted_from_slides:central,,"[auto-evidence] (slide 16) o Ben-Or, Goldwasser, Widgerson",references_csv
+pmpml16_raykova.pdf,,,90,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) P&P&[BMR90],references_csv
+pmpml16_raykova.pdf,,,99,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) GRR3&[NPS99],references_csv
+pmpml16_raykova.pdf,Free XOR,,08,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) Free&XOR&[KS08],references_csv
+pmpml16_raykova.pdf,,,09,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) GRR2&[PSSW09],references_csv
+pmpml16_raykova.pdf,FlexOR,,14,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) FlexOR [KMR14],references_csv
+pmpml16_raykova.pdf,HalfGates,,15,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) HalfGates [ZRE15],references_csv
+pmpml16_raykova.pdf,"Threshold gates, garbling arithmetic operations",,16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Threshold&gates,&garbling&arithmetic&operations&[BMR16]",references_csv
+pmpml16_raykova.pdf,GMW Protocol,Goldreich-Micali-Wigderson,87,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 35) GMW Protocol [GMW87] (Goldreich-Micali-Wigderson),references_csv
+pmpml16_raykova.pdf,SPDZ,,12,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) SPDZ [DPSZ12], SPDZ-BMR [LPSY15], BMR-SHE",references_csv
+pmpml16_raykova.pdf,SPDZ-BMR,,15,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 35) SPDZ-BMR [LPSY15],references_csv
+pmpml16_raykova.pdf,BMR-SHE,,16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) BMR-SHE
+[LSS16]",references_csv
+pmpml16_raykova.pdf,Mascot,,16,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 35) Mascot [KOS16],references_csv
+pmpml16_raykova.pdf,Oblivious RAM,,96,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 43) Oblivious+RAM+[GO96],references_csv
+pmpml16_raykova.pdf,,,12,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Hierarchical-based: [GO96], [KLO12]",references_csv
+pmpml16_raykova.pdf,Tree ORAM,,11,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) Tree-based: Tree ORAM [SCSL11],references_csv
+pmpml16_raykova.pdf,Path ORAM,,13,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) Path ORAM [SDSCFRYD13],references_csv
+pmpml16_raykova.pdf,Circuit ORAM,,15,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) Circuit ORAM [WCS15],references_csv
+pmpml16_raykova.pdf,Secure Computation for Approximations,,06,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 46) [FIMNSW06],references_csv

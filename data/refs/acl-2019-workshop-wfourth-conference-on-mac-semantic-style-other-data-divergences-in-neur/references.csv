@@ -1,0 +1,59 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+wmt19_carpuat.pdf,Identifying Semantic Divergences in Parallel Text without Annotations,"Yogarshi Vyas, Xing Niu and Marine Carpuat",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Identifying Semantic Divergences in Parallel Text without
+Annotations. Yogarshi Vyas, Xing Niu and Marine Carpuat.
+NAACL 2018",references_csv
+wmt19_carpuat.pdf,Detecting Cross-Lingual Semantic Divergence for Neural Machine Translation,"Marine Carpuat, Yogarshi Vyas and Xing Niu",2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Detecting Cross-Lingual Semantic Divergence for Neural
+Machine Translation. Marine Carpuat, Yogarshi Vyas and
+Xing Niu. ACL Workshop on Neural Machine Translation
+2017",references_csv
+wmt19_carpuat.pdf,Curriculum Learning for Domain Adaptation in Neural Machine Translation,"Xuan Zhang, Pamela Shapiro, Gaurav Kumar, Paul McNamee, Marine Carpuat and Kevin Duh",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Curriculum Learning for Domain Adaptation in Neural
+Machine Translation. Xuan Zhang, Pamela Shapiro, Gaurav
+Kumar, Paul McNamee, Marine Carpuat and Kevin Duh.
+NAACL 2019",references_csv
+wmt19_carpuat.pdf,Flexible Reference Word Order for Neural Machine Translation,"Weijia Xu, Xing Niu, Marine Carpuat",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 45) Flexible Reference Word Order for
+Neural Machine Translation
+Weijia Xu, Xing Niu, Marine Carpuat.
+NAACL 2019",references_csv
+wmt19_carpuat.pdf,Multi-task Neural Models for Translating Between Styles Within and Across Languages,"Xing Niu, Sudha Rao & Marine Carpuat",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 76) Multi-task Neural Models for Translating Between
+Styles Within and Across Languages. Xing Niu,
+Sudha Rao & Marine Carpuat. COLING 2018.",references_csv
+wmt19_carpuat.pdf,A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output,"Xing Niu, Marianna Martindale & Marine Carpuat",2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 76) A Study of Style in Machine Translation:
+Controlling the Formality of Machine Translation
+Output. Xing Niu, Marianna Martindale & Marine
+Carpuat. EMNLP 2017.",references_csv
+wmt19_carpuat.pdf,Formality Style Transfer Within and Across Languages with Limited Supervision,Xing Niu,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 76) Formality Style Transfer Within and Across
+Languages with Limited Supervision. Xing Niu,
+PhD Thesis 2019.",references_csv
+wmt19_carpuat.pdf,,Dorr,1994,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) [Dorr 1994],references_csv
+wmt19_carpuat.pdf,Very Deep Pairwise Similarity Model,He & Lin,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) the “Very Deep Pairwise Similarity
+Model” [He & Lin 2016]",references_csv
+wmt19_carpuat.pdf,,Munteanu & Marcu,2006,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) [Munteanu & Marcu 2006],references_csv
+wmt19_carpuat.pdf,,Carpuat et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 19) supervised cross-lingual
+entailment classifier [Carpuat et al. 2017]",references_csv
+wmt19_carpuat.pdf,,Pham et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 23) Fixing divergences by deleting extra info
+[Pham et al. EMNLP 2018]",references_csv
+wmt19_carpuat.pdf,,Wang et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 23) Curriculum learning with noise & domain criteria
+[Wang et al. NAACL 2019]",references_csv
+wmt19_carpuat.pdf,,Richburg & Carpuat,unpublished,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) [Richburg & Carpuat, unpublished]",references_csv
+wmt19_carpuat.pdf,,Liang et al.,2006,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) Search-based Methods
+[Liang et al. 2006, Daumé et al. 2009, Leblond et al. 2017]",references_csv
+wmt19_carpuat.pdf,,Daumé et al.,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) [Liang et al. 2006, Daumé et al. 2009, Leblond et al. 2017]",references_csv
+wmt19_carpuat.pdf,,Ranzato et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) Reinforcement Learning with Sentence-Level Reward
+[Ranzato et al., 2015, Bahdanau et al., 2016]",references_csv
+wmt19_carpuat.pdf,,Bahdanau et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) [Ranzato et al., 2015, Bahdanau et al., 2016]",references_csv
+wmt19_carpuat.pdf,,Venkatraman et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) Scheduled Sampling
+[Venkatraman et al. 2015, Bengio et al. 2015, Goyal et al. 2017]",references_csv
+wmt19_carpuat.pdf,,Bengio et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 32) [Bengio et al., NeurIPS 2015]",references_csv
+wmt19_carpuat.pdf,,Goyal et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) [Venkatraman et al. 2015, Bengio et al. 2015, Goyal et al. 2017]",references_csv
+wmt19_carpuat.pdf,,Lewis et al.,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 48) conversational language [Lewis et al. 2015],references_csv
+wmt19_carpuat.pdf,,Sennrich et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 48) politeness (du vs. Sie) [Sennrich et al. 2016],references_csv
+wmt19_carpuat.pdf,,Rabinovich et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 48) personalization (gender) [Rabinovich et al. 2017],references_csv
+wmt19_carpuat.pdf,,"Niu, Martindale & Carpuat",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) [Niu, Martindale & Carpuat, EMNLP 2017]",references_csv
+wmt19_carpuat.pdf,,Rao and Tetreault,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 51) [Rao and Tetreault, 2018]",references_csv
+wmt19_carpuat.pdf,,Johnson et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) shared encoder, shared decoder as in
+multilingual NMT [Johnson et al. 2017]",references_csv
+wmt19_carpuat.pdf,,Moore & Lewis,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 55) Data selected
+[Moore & Lewis, 2010]",references_csv
+wmt19_carpuat.pdf,,Niu & Carpuat,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 64) Phrase-based MT
++ formality reranking
+[Niu & Carpuat 2017]",references_csv

@@ -1,0 +1,20 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+icmlmain_athey_2016.pptx,,Wager and Athey,2015,,,extracted_from_slides:central,,"[auto-evidence] (slide 39) Wager and Athey (2015)
+Use random forest",references_csv
+icmlmain_athey_2016.pptx,,"Athey, Imbens and Wager",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 40) Method IV: Residual Balancing
+Athey, Imbens and Wager (2016)",references_csv
+icmlmain_athey_2016.pptx,Causal Inference,Imbens and Rubin,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 2) Imbens and Rubin Causal Inference book (2015): synthesis of literature prior to big data/ML,references_csv
+icmlmain_athey_2016.pptx,Prediction policy problems,"Kleinberg, Ludwig, Mullainathan, Obermeyer",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Kleinberg, Ludwig, Mullainathan, Obermeyer (2015): Prediction policy problems",references_csv
+icmlmain_athey_2016.pptx,,Athey and Imbens,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 10) Athey and Imbens (2016) suggest:,references_csv
+icmlmain_athey_2016.pptx,,Athey and Haile,2002,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) Applications in auctions: see Athey and Haile (2002),references_csv
+icmlmain_athey_2016.pptx,,"Athey, Levin, and Seira",2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Athey, Levin, and Seira (2011)",references_csv
+icmlmain_athey_2016.pptx,,"Athey, Coey, and Levin",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Athey, Coey, and Levin (2013)",references_csv
+icmlmain_athey_2016.pptx,,Athey and Nekipelov,2012,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) Athey and Nekipelov (2012),references_csv
+icmlmain_athey_2016.pptx,,"Hill, Weiss, Zhai",2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) LASSO to estimate p.s.; e.g. Hill, Weiss, Zhai (2011)",references_csv
+icmlmain_athey_2016.pptx,,"Belloni, Chernozukov, Hansen",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 40) Belloni, Chernozukov, Hansen (2014):",references_csv
+icmlmain_athey_2016.pptx,,Imbens and Angrist,'94,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) See Imbens and Angrist (‘94); Angrist, Imbens, and Rubin (‘96)",references_csv
+icmlmain_athey_2016.pptx,Instrumental Variables with LASSO,"Belloni, Chernozhukov and Hansen",,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 48) See Belloni, Chernozhukov and Hansen on Instrumental Variables with LASSO",references_csv
+icmlmain_athey_2016.pptx,,"Ugander, Karrer, Backstrom, and Kleinberg",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) Causal inference in networks (Ugander, Karrer, Backstrom, and Kleinberg, 2013; Athey, Eckles, Imbens 2015)",references_csv
+icmlmain_athey_2016.pptx,,"Athey, Eckles, Imbens",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) Athey, Eckles, Imbens 2015)",references_csv
+icmlmain_athey_2016.pptx,,"Athey, Chetty, Imbens, Kang",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) Using short-term outcomes to evaluate treatment effects on long-term outcomes (Athey, Chetty, Imbens, Kang 2016)",references_csv
+icmlmain_athey_2016.pptx,,Athey and Imbens,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) Robustness of causal estimates (Athey and Imbens, 2015)",references_csv

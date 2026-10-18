@@ -1,0 +1,21 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclrmain_ma_2025.pdf,Learning Deep Representations of Data Distributions,Ma+PBWY,2025,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) Learning Deep Representations of Data Distributions, Ma+PBWY, 2025",references_csv
+iclrmain_ma_2025.pdf,ReduNet: A White-box Deep Network from the Principle of MCR^2,YCY+Ma,2022,,,extracted_from_slides:central,,"[auto-evidence] (slide 28) ReduNet: A White-box Deep Network from the Principle of MCR^2 [YCY+Ma, JMLR2022].",references_csv
+iclrmain_ma_2025.pdf,CRATE: White-box Transformer via Sparse Rate Reduction,YBP+Ma,2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 31) CRATE: White-box Transformer via Sparse Rate Reduction [YBP+Ma, JMLR2024].",references_csv
+iclrmain_ma_2025.pdf,SimDINO: Simplifying DINO via Coding Rate Regularization,,2025,,,extracted_from_slides:central,,[auto-evidence] (slide 38) SimDINO: Simplifying DINO via Coding Rate Regularization [ICML2025],references_csv
+iclrmain_ma_2025.pdf,Masked autoencoding with a whitebox architecture (CRATE-MAE),PBWY+Ma,2024,,,extracted_from_slides:central,,[auto-evidence] (slide 41) Masked autoencoding with a whitebox architecture,references_csv
+iclrmain_ma_2025.pdf,Unsupervised Learning of Structured Representations via Closed-Loop Transcription,"S. Tong, Yann LeCun, and Yi Ma",2022,2210.16782,,extracted_from_slides:central,,"[auto-evidence] (slide 43) S. Tong, Yann LeCun, and Yi Ma, arXiv:2210.16782, 2022.",references_csv
+iclrmain_ma_2025.pdf,A Brief History of Intelligence,Max Bennett,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) A Brief History of Intelligence, Max Bennett, 2023",references_csv
+iclrmain_ma_2025.pdf,High-dimensional Data Analysis with Low-Dimensional Models,Wright and Ma,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) High-dimensional Data Analysis with Low-Dimensional Models, Wright and Ma, 2022",references_csv
+iclrmain_ma_2025.pdf,Robust (face) recognition via sparsity,WY+Ma,2009,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 16) Robust (face) recognition via sparsity,references_csv
+iclrmain_ma_2025.pdf,Sparse Coding,W+Ma,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) Sparse Coding [W+Ma, 2022]",references_csv
+iclrmain_ma_2025.pdf,Segmentation of Mixed Data via Lossy Coding and Compression,Ma+DHW,2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Segmentation of Mixed Data via Lossy Coding and Compression [Ma+DHW, TPAMI2007].",references_csv
+iclrmain_ma_2025.pdf,,Gregor & LeCun,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) sparsity (Gregor & LeCun, 2010; Zhai et al., 2020)",references_csv
+iclrmain_ma_2025.pdf,,Zhai et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) (Gregor & LeCun, 2010; Zhai et al., 2020)",references_csv
+iclrmain_ma_2025.pdf,,Chan et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) et al., 2022), etc. Recent work",references_csv
+iclrmain_ma_2025.pdf,,Yu et al.,2023a;b,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Recent work (Yu et al., 2023a;b) has built white-box deep networks",references_csv
+iclrmain_ma_2025.pdf,Incremental Learning via Closed-Loop,TDWLY+Ma,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) [TDWLY+Ma,",references_csv
+iclrmain_ma_2025.pdf,Sparse coding in visual cortex,Olshausen,1996,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Sparse coding in visual cortex (Olshausen, Nature 1996)",references_csv
+iclrmain_ma_2025.pdf,Subspace embedding,Tsao,"2017, 2020",,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Subspace embedding (Tsao, Cell 2017, Nature 2020)",references_csv
+iclrmain_ma_2025.pdf,Predictive coding in visual cortex,Rao,1999,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Predictive coding in visual cortex (Rao, Nature Neuroscience 1999)",references_csv
+iclrmain_ma_2025.pdf,,Ma+TS,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 45) Ma+TS, FITEE 2022",references_csv

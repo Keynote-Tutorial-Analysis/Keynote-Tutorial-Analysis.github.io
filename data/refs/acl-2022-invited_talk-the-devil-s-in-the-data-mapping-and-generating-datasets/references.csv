@@ -1,0 +1,21 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+swabha_acl2022_devils_data.pdf,Annotation Artifacts in NLI,"G*., Swayamdipta*, L., S., B., S.",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) Annotation Artifacts in NLI [G*., Swayamdipta*, L., S., B., S., NAACL 2018]",references_csv
+swabha_acl2022_devils_data.pdf,Dataset Cartography,Swayamdipta et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Dataset Cartography [Swayamdipta et al., EMNLP 2020]",references_csv
+swabha_acl2022_devils_data.pdf,WANLI,"Liu., Swayamdipta, Smith and Choi",2022,,,extracted_from_slides:central,,"[auto-evidence] (slide 46) WANLI [Liu., Swayamdipta, Smith and Choi, ArXiV 2022]",references_csv
+swabha_acl2022_devils_data.pdf,Semantic Theory,Katz,1972,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) Semantic Theory [Katz, 1972]",references_csv
+swabha_acl2022_devils_data.pdf,,Bowman et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Stanford NLI [Bowman et al., 2015]",references_csv
+swabha_acl2022_devils_data.pdf,,Williams et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) MultiNLI [Williams et al., 2018]",references_csv
+swabha_acl2022_devils_data.pdf,,Liu et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 17) RoBERTa-Large [Liu et al. 2019],references_csv
+swabha_acl2022_devils_data.pdf,,Wang et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 37) Diagnostics [Wang et al.,
+2019]",references_csv
+swabha_acl2022_devils_data.pdf,Understanding Dataset Difficulty with -Usable Information,"Ethayarajh, Choi & Swayamdipta",2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) Understanding Dataset Difficulty
+with -Usable Information
+[Ethayarajh, Choi & Swayamdipta,
+ICML 2022]",references_csv
+swabha_acl2022_devils_data.pdf,G-DAUG: Generative Data Augmentation for Commonsense Reasoning,"Y. M., F., Swayamdipta, L., W., B., C., D",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 50) G-DAUG: Generative Data Augmentation for Commonsense Reasoning
+[Y. M., F., Swayamdipta, L., W., B., C., D EMNLP-findings, 2020]",references_csv
+swabha_acl2022_devils_data.pdf,,Schick & Schütze,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 50) [Schick & Schütze, 2021; Meng et al. 2022; West et al., 2021; Lee et
+al., 2021; Bartolo et al., 2021]",references_csv
+swabha_acl2022_devils_data.pdf,Reframing Human-AI for Generating Free-Text Explanations,"Wiegreffe, Hessel, Swayamdipta, Riedel & Choi",2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 63) Reframing Human-AI for Generating Free-Text Explanations
+[Wiegreffe, Hessel, Swayamdipta, Riedel & Choi, NAACL 2022]",references_csv
+swabha_acl2022_devils_data.pdf,,Pavlick & Kwiatkowski,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 83) [Pavlick & Kwiatkowski, 2019; Chen et al., 2020; Zhou et al., 2022; Davani et al., 2021]",references_csv

@@ -1,0 +1,15 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+vqa2021_ferrari.pdf,Localized Narratives,"J. Pont-Tuset, J. Uijlings, S. Changpinyo, R. Soricut, V. Ferrari",2020,,,extracted_from_slides:central,,[auto-evidence] (slide 2) J. Pont-Tuset · J. Uijlings · S. Changpinyo · R. Soricut · V. Ferrari,references_csv
+vqa2021_ferrari.pdf,Telling the What while Pointing to the Where: Multimodal Queries for Image Retrieval,"Beer Changpinyo, Jordi Pont-Tuset, Vittorio Ferrari, Radu Soricut",2021,,,extracted_from_slides:central,,[auto-evidence] (slide 39) Telling the What while Pointing to the Where:,references_csv
+vqa2021_ferrari.pdf,,Changpinyo et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 24) [Changpinyo et al.,references_csv
+vqa2021_ferrari.pdf,SPADE: Semantic image synthesis with spatially-adaptive normalization,,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 29) Semantic image synthesis with,references_csv
+vqa2021_ferrari.pdf,,Torresani++,10,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 42) Torresani++ 10,references_csv
+vqa2021_ferrari.pdf,,Wang++,14,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) Wang++ 14, Wang++ 16,",references_csv
+vqa2021_ferrari.pdf,,Faghri++,17,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) Faghri++ 17, Lee++ 18,",references_csv
+vqa2021_ferrari.pdf,Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts,,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual,references_csv
+vqa2021_ferrari.pdf,"Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers",,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 60) Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers (TACL 2021)",references_csv
+vqa2021_ferrari.pdf,Cross-Modal Contrastive Learning for Text-to-Image Generation,,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) Cross-Modal Contrastive Learning for Text-to-Image Generation (CVPR 2021),references_csv
+vqa2021_ferrari.pdf,Text-to-Image Generation Grounded by Fine-Grained User Attention,,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) Text-to-Image Generation Grounded by Fine-Grained User Attention (WACV 2021).,references_csv
+vqa2021_ferrari.pdf,"Talk, Don't Write: A Study of Direct Speech-Based Image Retrieval",,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) A Study of Direct Speech-Based Image Retrieval (INTERSPEECH 2021),references_csv
+vqa2021_ferrari.pdf,CoReNet: Coherent 3D scene reconstruction from a single RGB image,,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 67) CoReNet: Coherent 3D scene,references_csv
+vqa2021_ferrari.pdf,Sharf: Shape-conditioned Radiance Fields from a Single View,,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 67) Sharf: Shape-conditioned Radiance Fields,references_csv

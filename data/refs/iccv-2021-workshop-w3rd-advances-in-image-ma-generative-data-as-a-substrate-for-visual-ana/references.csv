@@ -1,0 +1,15 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+aim21_isola.pdf,Ensembling with Deep Generative Views,"Chai, Zhu, Shechtman, Isola, Zhang",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 11) Ensembling with Deep Generative Views [Chai, Zhu, Shechtman, Isola, Zhang, CVPR 2021]",references_csv
+aim21_isola.pdf,Explaining in Style: Training a GAN to explain a classifier,"Yossi Gandelsman, Michal Yarom, Amir Globerson, Gal Elidan, Yoav Wald, Michal Irani, Oran Lang, Avinatan Hassidim, Inbar Mosseri, Bill Freeman, Philip Isola",2021,,,extracted_from_slides:central,,[auto-evidence] (slide 30) Explaining in Style: Training a GAN to explain a classifie,references_csv
+aim21_isola.pdf,,Goodfellow et al.,2014,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) Goodfellow et al. 2014;,references_csv
+aim21_isola.pdf,StyleGAN2,Karras et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) StyleGAN2. Karras et al. 2020,references_csv
+aim21_isola.pdf,Cats and Dogs,Parkhi et al.,2012,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) Cats and Dogs. Parkhi et al. 2012,references_csv
+aim21_isola.pdf,,"Mao, Cha, Gupta, Wang, Yang, Vondrick",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) see also: [Mao, Cha, Gupta, Wang, Yang, Vondrick, 2020]",references_csv
+aim21_isola.pdf,,Sauer & Geiger,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) [Sauer & Geiger, 2021]",references_csv
+aim21_isola.pdf,,"Liu, Kailkhura, Loveland, Han",2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) [Liu, Kailkhura, Loveland, Han, 2019]",references_csv
+aim21_isola.pdf,,"Goetschalckx, Andonian, Oliva, Isola",2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) [Goetschalckx, Andonian, Oliva, Isola, 2019]",references_csv
+aim21_isola.pdf,,"Oktay, Vondrick, Torralba",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) [Oktay, Vondrick, Torralba, 2018]",references_csv
+aim21_isola.pdf,iGAN,Zhu et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) iGAN. Zhu et al. 2016,references_csv
+aim21_isola.pdf,GAN Inversion: A Survey,Xia et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) GAN Inversion: A Survey. Xia et al. 2021,references_csv
+aim21_isola.pdf,,Selvaraju et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 32) e.g., [Selvaraju et al. 2017]",references_csv
+aim21_isola.pdf,StyleSpace,"Wu, Lischinski, Shechtman",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 34) [“StyleSpace”: Wu, Lischinski, Shechtman 2020]",references_csv

@@ -1,0 +1,23 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+lld2017_mitchell.pdf,,Mitchell et al.,2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 6) [Mitchell et al., CACM 2017]",references_csv
+lld2017_mitchell.pdf,,Blum & Mitchell,1998,,,extracted_from_slides:central,,"[auto-evidence] (slide 13) Theorem (Blum & Mitchell, 1998):",references_csv
+lld2017_mitchell.pdf,PRA,"Lao, Mitchell, Cohen",2011,,,extracted_from_slides:central,,"[auto-evidence] (slide 25) PRA: [Lao, Mitchell, Cohen, EMNLP 2011]",references_csv
+lld2017_mitchell.pdf,,"Platanios et al. (Platanios, Blum, Mitchell)",2014,,,extracted_from_slides:central,,"[auto-evidence] (slide 38) [Platanios et al., 2014]",references_csv
+lld2017_mitchell.pdf,,Dasgupta et al,01,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) [Dasgupta et al; 01 ],references_csv
+lld2017_mitchell.pdf,,Balcan & Blum,08,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) [Balcan & Blum; 08],references_csv
+lld2017_mitchell.pdf,,Ganchev et al.,08,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) [Ganchev et al., 08]",references_csv
+lld2017_mitchell.pdf,,Sridharan & Kakade,08,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) [Sridharan & Kakade, 08]",references_csv
+lld2017_mitchell.pdf,,Wang & Zhou,ICML10,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) [Wang & Zhou, ICML10]",references_csv
+lld2017_mitchell.pdf,,Daume,2008,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) [Daume, 2008]",references_csv
+lld2017_mitchell.pdf,,"Bakhir et al., eds.",2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) [Bakhir et al., eds. 2007]",references_csv
+lld2017_mitchell.pdf,,Roth et al.,2008,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) [Roth et al., 2008]",references_csv
+lld2017_mitchell.pdf,,Taskar et al.,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) [Taskar et al., 2009]",references_csv
+lld2017_mitchell.pdf,,Carlson et al.,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) [Carlson et al., 2009]",references_csv
+lld2017_mitchell.pdf,,"Pujara, et al.",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) [Pujara, et al., 2013] [Platanios et al., 2017]",references_csv
+lld2017_mitchell.pdf,,Hui & Walter,1980,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) [Hui & Walter, 1980; Collins & Huynh, 2014]",references_csv
+lld2017_mitchell.pdf,Estimating Accuracy from Unlabeled Data: A Bayesian Approach,Platanios et. al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) “Estimating
+Accuracy from Unlabeled Data: A Bayesian
+Approach”, ICML, Platanios et. al., 2016",references_csv
+lld2017_mitchell.pdf,Estimating Accuracy from Unlabeled Data: A Logical Approach,Platanios et. al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) “Estimating Accuracy from
+Unlabeled Data: A Logical Approach,” NIPS,
+Platanios et. al, 2017",references_csv

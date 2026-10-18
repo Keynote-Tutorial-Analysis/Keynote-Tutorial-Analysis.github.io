@@ -1,0 +1,63 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,SummEval: Re-evaluating Summarization Evaluation,Fabbri et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 3) SummEval: Re-evaluating
+Summarization Evaluation
+Fabbri et al., 2020",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,"SummVis: Interactive Visual Analysis of Models, Data, and Evaluation",Vig et al.,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 21) SummVis: Interactive Visual
+Analysis of Models, Data, and
+Evaluation
+Vig et al., 2021",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,ROUGE-N,Lin,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) ROUGE-N (Lin, 2004): Lexical overlap with a reference summary",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,,Hardy et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) different
+ROUGE packages) as noted in Hardy et al. (2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,,Peyrard,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) not
+representative of modern systems (Peyrard, 2019).",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,ROUGE-WE,Ng and Abrecht,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) ROUGE-WE (Ng and Abrecht, 2015)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,S3,Peyrard et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) S3 (Peyrard
+et al., 2017)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,BertScore,Zhang* et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) BertScore (Zhang* et al., 2020)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,MoverScore,Zhao et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) MoverScore (Zhao et
+al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Sentence Mover’s Similarity,Clark et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Sentence Mover’s Similarity (Clark et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,SummaQA,Scialom et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) SummaQA (Scialom et al.,
+2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,BLANC,Vasilyev et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) BLANC (Vasilyev et al., 2020)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,SUPERT,Gao et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) SUPERT (Gao et al., 2020)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,BLEU,Papineni et al.,2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) BLEU (Papineni et al., 2002)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,CHRF,Popović,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) CHRF
+(Popović, 2015)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,METEOR,Lavie and Agarwal,2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) METEOR (Lavie and Agarwal, 2007)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,CIDEr,Vedantam et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) CIDEr (Vedantam et al., 2015)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,,Grusky et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) Data Statistics: Grusky et al. (2018),references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,NEUSUM,Zhou et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) NEUSUM (Zhou et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,BanditSum,Dong et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) BanditSum (Dong et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,LATENT,Zhang et al.,2018b,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) LATENT (Zhang et al., 2018b)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,REFRESH,Narayan et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) REFRESH (Narayan et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,RNES,Wu and Hu,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) RNES (Wu and Hu, 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,JECS,Xu and Durrett,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) JECS (Xu and Durrett, 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,STRASS,Bouscarrat et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) STRASS (Bouscarrat et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Pointer Generator,See et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Pointer Generator (See et al., 2017)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,ROUGESal,Pasunuru and Bansal,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) ROUGESal (Pasunuru and Bansal, 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Fast-abs-rl,Chen and Bansal,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Fast-abs-rl (Chen and Bansal, 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Multi-task (Ent + QG ),Guo et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Multi-task (Ent + QG ) (Guo et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Bottom-Up,Gehrmann et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Bottom-Up (Gehrmann et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Closed book decoder,Jiang and Bansal,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Closed book decoder (Jiang and Bansal, 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Improve-abs,Kryściński et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Improve-abs (Kryściński et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,SENECA,Sharma et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) SENECA (Sharma et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Unified-ext-abs,Hsu et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Unified-ext-abs (Hsu et al., 2018)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,NeuralTD,Böhm et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) NeuralTD (Böhm et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,T5,Raffel et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) T5 (Raffel et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,UniLM,Dong et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) UniLM (Dong et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,BertSum-abs,Liu and Lapata,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) BertSum-abs (Liu and Lapata, 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,BART,Lewis et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) BART (Lewis et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,GPT-2,Ziegler et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) GPT-2 (Ziegler et al., 2019)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,Pegasus,Zhang et al.,2019a,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Pegasus (Zhang et al., 2019a)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,,Louis and Nenkova,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Kendall’s tau rank for system-level ranking as in
+Louis and Nenkova, 2013",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,spaCy,Honnibal et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) Static word embeddings provided by spaCy
+(Honnibal et al., 2020)",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,RoBERTa,Liu et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) Contextual embeddings from a pretrained
+RoBERTa (Liu et al., 2019) model",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,MixQG: Neural Question Generation with Mixed Answer Types,,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 35) MixQG: Neural Question Generation with Mixed Answer Types,references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,,Kim et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) Kim et al. (2021) proposed the task of veriﬁcation of
+colloquial claims",references_csv
+emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf,FEVER,Thorne et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) the FEVER (Thorne et al., 2018) claims",references_csv

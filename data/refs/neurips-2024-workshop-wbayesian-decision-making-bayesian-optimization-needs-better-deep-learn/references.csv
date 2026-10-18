@@ -1,0 +1,15 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+bdu2024_gardner.pdf,,,2022,,,extracted_from_slides:central,,"[auto-evidence] (slide 19) Our paper (NeurIPS 2022):
+• Use high dim. BO (local BO)
+• Joint ELBO over VAE and SVGP:",references_csv
+bdu2024_gardner.pdf,,,2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 21) Challenge 2: High Throughput
+(NeurIPS 2024)",references_csv
+bdu2024_gardner.pdf,,,2023,,,extracted_from_slides:central,,"[auto-evidence] (slide 29) Challenge 3: Portfolio Risk
+(AISTATS 2023)",references_csv
+bdu2024_gardner.pdf,,Maddox et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) (Maddox et al., 2021; Vakili et al., 2021;",references_csv
+bdu2024_gardner.pdf,,Maus et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Maus et al., 2022; Stanton et al., 2022;",references_csv
+bdu2024_gardner.pdf,,Moss et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Moss et al., 2023)",references_csv
+bdu2024_gardner.pdf,,Lacoste-,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) (Flavor of loss calibrated VI;
+
+Lacoste-",references_csv
+bdu2024_gardner.pdf,,Stokes et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) Virtual screening (e.g., Stokes et al., 2020; Liu et al., 2023): 3-5% success",references_csv

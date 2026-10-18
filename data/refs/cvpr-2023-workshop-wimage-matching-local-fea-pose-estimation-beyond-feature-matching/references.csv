@@ -1,0 +1,12 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+imw2023_brachmann.pdf,Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses,"Brachmann, Cavallari, Prisacariu",2023,,,extracted_from_slides:central,,"[auto-evidence] (slide 14) Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses
+Brachmann, Cavallari, Prisacariu (CVPR23 Highlight)",references_csv
+imw2023_brachmann.pdf,Map-free Visual Relocalization: Metric Pose Relative to a Single Image,Arnold et al.,2022,,https://research.nianticlabs.com/mapfree-reloc-benchmark,extracted_from_slides:central,,"[auto-evidence] (slide 27) “Map-free Visual Relocalization: Metric Pose Relative to a Single Image”, ECCV22",references_csv
+imw2023_brachmann.pdf,Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task,Bhowmik et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) “Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task” Bhowmik et al., CVPR’20 (oral)",references_csv
+imw2023_brachmann.pdf,From Coarse to Fine: Robust Hierarchical Localization at Large Scale,Sarlin et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) e.g. “From Coarse to Fine: Robust Hierarchical Localization at Large Scale”, Sarlin et al., CVPR’19",references_csv
+imw2023_brachmann.pdf,Scene Coordinate Regression Forests for Camera Relocalization in RGB-D Images,Shotton et al.,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Scene Coordinate Regression Forests for Camera Relocalization in RGB-D Images, Shotton et al., CVPR’13",references_csv
+imw2023_brachmann.pdf,RelocNet: Continuous Metric Learning Relocalisation using Neural Nets,Balntas et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 19) RelocNet: Continuous Metric Learning
+Relocalisation using Neural Nets
+Balntas et al., ECCV 2018",references_csv
+imw2023_brachmann.pdf,To Learn or Not to Learn: Visual Localization from Essential Matrices,Zhou at al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) “To Learn or Not to Learn: Visual Localization from Essential Matrices”, Zhou at al., ICRA’20",references_csv
+imw2023_brachmann.pdf,ExReNet,,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) ExReNet, ICRA21",references_csv

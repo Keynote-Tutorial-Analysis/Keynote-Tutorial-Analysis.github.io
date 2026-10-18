@@ -1,0 +1,118 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 8; (uncredited figures: ST pipeline, model architectures, attention plots, BLEU curves)) Collage of paper figures next to 'Room for advanced research... 99% of this tutorial'",ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9; C-STAR, Verbmobil, Nespole) First spontaneous ST systems (C-STAR, Verbmobil, Nespole,...)",ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9; STR-DUST, TC-STAR, GALE) First open-domain ST systems (STR-DUST, TC-STAR, GALE)",ai_reference_eval
+End-to-end-ST.pdf,,Duong et al.,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 10; Duong et al., 2016) (Duong et al., 2016, Berard et al., 2016, Weiss et al., 2017, ...)",ai_reference_eval
+End-to-end-ST.pdf,,Bérard et al.,2016,,,ai_reference_eval:central,,"[ai-ref] (slides 10,42; Berard et al., 2016 / Bérard et al., 2016) End-to-end SLT (Bérard et al., 2016; Weiss et al., 2017)",ai_reference_eval
+End-to-end-ST.pdf,,Weiss et al.,2017,,,ai_reference_eval:central,,"[ai-ref] (slides 10,42,60,61,90,91,102,134; Weiss et al., 2017) End-to-end SLT (Bérard et al., 2016; Weiss et al., 2017)",ai_reference_eval
+End-to-end-ST.pdf,,Di Gangi et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 10,60,61,264; Di Gangi et al., 2019) 2019: ST adaptation of Transformer (Di Gangi et al., 2019)",ai_reference_eval
+End-to-end-ST.pdf,,Waibel et al.,1991,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27; Waibel et al. 1991) (Waibel et al. 1991; Vidal, 1997; Ney, 1999; ...",ai_reference_eval
+End-to-end-ST.pdf,,Vidal,1997,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27; Vidal, 1997) Vidal, 1997",ai_reference_eval
+End-to-end-ST.pdf,,Ney,1999,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27; Ney, 1999) Ney, 1999",ai_reference_eval
+End-to-end-ST.pdf,,Saleem et al.,2004,,,ai_reference_eval:mentioned,,[ai-ref] (slides 27; Saleem et al. 2004) Saleem et al. 2004,ai_reference_eval
+End-to-end-ST.pdf,,Matusov et al.,2005,,,ai_reference_eval:mentioned,,[ai-ref] (slides 27; Matusov et al. 2005) Matusov et al. 2005,ai_reference_eval
+End-to-end-ST.pdf,,Bertoldi and Federico,2005,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27; Bertoldi and Federico, 2005) Bertoldi and Federico, 2005",ai_reference_eval
+End-to-end-ST.pdf,,Quan et al.,2005,,,ai_reference_eval:mentioned,,[ai-ref] (slides 27; Quan et al. 2005) Quan et al. 2005,ai_reference_eval
+End-to-end-ST.pdf,,Kumar et al.,2014,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27,37; Kumar et al. 2014) Kumar et al. 2014; Sperber et al. 2017",ai_reference_eval
+End-to-end-ST.pdf,,,2004,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27,28; IWSLT Eval Campaigns 2004-) IWSLT Evaluation Campaigns (2004-present): ASR, MT, ST tasks",ai_reference_eval
+End-to-end-ST.pdf,,Wang et al.,2010,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; Wang et al. 2010) (Wang et al. 2010; Cho et al. 2013/2014),ai_reference_eval
+End-to-end-ST.pdf,,Cho et al.,2013/2014,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; Cho et al. 2013/2014) (Wang et al. 2010; Cho et al. 2013/2014),ai_reference_eval
+End-to-end-ST.pdf,,Cho et al.,2012,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; Cho et al. 2012) (Cho et al. 2012; Cho et al. 2017),ai_reference_eval
+End-to-end-ST.pdf,,Cho et al.,2017,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; Cho et al. 2017) (Cho et al. 2012; Cho et al. 2017),ai_reference_eval
+End-to-end-ST.pdf,,Tsvetkov et al.,2014,,,ai_reference_eval:mentioned,,[ai-ref] (slides 36; Tsvetkov et al. 2014) (Tsvetkov et al. 2014; Ruiz et al. 2015; Sperber et al. 2017),ai_reference_eval
+End-to-end-ST.pdf,,Ruiz et al.,2015,,,ai_reference_eval:mentioned,,[ai-ref] (slides 36; Ruiz et al. 2015) Ruiz et al. 2015,ai_reference_eval
+End-to-end-ST.pdf,,Sperber et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36,37; Sperber et al. 2017) Sperber et al. 2017",ai_reference_eval
+End-to-end-ST.pdf,,Post et al.,2013,,,ai_reference_eval:mentioned,,[ai-ref] (slides 37; Post et al. 2013) (Post et al. 2013; Kumar et al. 2014; Sperber et al. 2017),ai_reference_eval
+End-to-end-ST.pdf,,Ansari et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 43; IWSLT 2020 (Ansari et al., 2020)) IWSLT 2020 (Ansari et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Niehues et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 57,58,59; IWSLT Evaluation Campaign (Niehues et al., 2018 ...)) IWSLT Evaluation Campaign (Niehues et al., 2018, Niehues et al., 2019, Ansari et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Niehues et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 57,58,59; Niehues et al., 2019) IWSLT Evaluation Campaign (... Niehues et al., 2019 ...)",ai_reference_eval
+End-to-end-ST.pdf,,Ansari et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 57,58,59; Ansari et al., 2020) IWSLT Evaluation Campaign (... Ansari et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Jia et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 60,61; Jia et al., 2019) Most of the papers (Weiss et al., 2017, Jia et al., 2019, Di Gangi et al., 2019)",ai_reference_eval
+End-to-end-ST.pdf,,Sperber et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 68,91,141; Sperber et al., (2019)) Sperber et al., (2019) consider the encoder output as an intermediate representation",ai_reference_eval
+End-to-end-ST.pdf,,Karakanta et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 73; Karakanta et al. (2020)) Karakanta et al. (2020): the direct access to the audio pauses improves subtitles' quality,ai_reference_eval
+End-to-end-ST.pdf,,Gaido et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 73; Gaido et al. (2020)) Gaido et al. (2020): vocal characteristics can guide e2e systems in modeling gender,ai_reference_eval
+End-to-end-ST.pdf,,Baevski et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 79; Wav2Vec 2.0 (Baevski et al., 2020); well-known) E.g. Wav2Vec 2.0 (Baevski et al., 2020); figure captioned Baevski et al. 2020",ai_reference_eval
+End-to-end-ST.pdf,,Hannun et al.,2014,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 81; Noise injection (Hannun et al., 2014)) Noise injection (Hannun et al., 2014)",ai_reference_eval
+End-to-end-ST.pdf,,Ko et al.,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 81; Speed perturbation (Ko et al., 2015)) Speed perturbation (Ko et al., 2015)",ai_reference_eval
+End-to-end-ST.pdf,,Park et al. (shown as Spark),2019,,,ai_reference_eval:central,,"[ai-ref] (slides 81,82,83,84; SpecAugment (Spark et al., 2019)) SpecAugment (Spark et al., 2019); dedicated SpecAugment slides on time/frequency masking",ai_reference_eval
+End-to-end-ST.pdf,,Bahar et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 81; Also applied in ST (Bahar et al, 2019)) Also applied in ST (Bahar et al, 2019)",ai_reference_eval
+End-to-end-ST.pdf,,Bansal et al.,2018,,,ai_reference_eval:mentioned,,[ai-ref] (slides 90; (Weiss et al. 2017; Bansal et al. 2018)) (Weiss et al. 2017; Bansal et al. 2018) on Dimensionality Reduction slide,ai_reference_eval
+End-to-end-ST.pdf,,Zhang et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 91,93; Zhang et al. 2017) Linear projection, ASR: (Zhang et al. 2017; Sperber et al. 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Sperber et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 91,102; Sperber et al. 2018) (Zhang et al. 2017; Sperber et al. 2018); BPE (Sperber et al., 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Salesky et al.,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 91,92,189,190,193; Salesky et al. 2019) (Salesky et al. 2019) under Dimensionality Reduction Impact plot",ai_reference_eval
+End-to-end-ST.pdf,,Salesky et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 91,187,188,189,193; Salesky et al. 2020) ... Salesky et al. 2020)",ai_reference_eval
+End-to-end-ST.pdf,"Listen, Attend, and Spell",Chan et al.,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 91; Listen, Attend, and Spell (Chan et al. 2015); well-known) Listen, Attend, and Spell (Chan et al. 2015)",ai_reference_eval
+End-to-end-ST.pdf,,Pham et al.,2018,,,ai_reference_eval:mentioned,,[ai-ref] (slides 93; Pham et al. 2018) (Zhang et al. 2017; Pham et al. 2018),ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 93; CTC [19] / CTC/LM + speed perturbation [19] (table row)) CTC [19] 17.4; CTC/LM + speed perturbation [19] 13.7,ai_reference_eval
+End-to-end-ST.pdf,,DiGangi et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 94; DiGangi et al. 2019) (DiGangi et al. 2019; Huang et al. 2020),ai_reference_eval
+End-to-end-ST.pdf,,Huang et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 94; Huang et al. 2020) (DiGangi et al. 2019; Huang et al. 2020),ai_reference_eval
+End-to-end-ST.pdf,,Bansal et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 102; Bansal et al., 2018 (word output)) Word (Bansal et al., 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Bérard et al.,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 102; Bérard et al., 2016 (character output)) Character (Bérard et al., 2016; Weiss et al., 2017)",ai_reference_eval
+End-to-end-ST.pdf,,Di Gangi et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 110; Di Gangi et al., 2020) Translation performance (Di Gangi et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Cattoni et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 117,118,119,120,121,122,123,124; MuST-C (Cattoni et al., 2021)) MuST-C (Cattoni et al., 2021) En-> 14 lang. TED talks",ai_reference_eval
+End-to-end-ST.pdf,,Tohyama et al.,2005,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118; (no name) Tohyama et al., 2005) (no name) (Tohyama et al., 2005) En<->Jp 182hrs",ai_reference_eval
+End-to-end-ST.pdf,,Paulik and Waibel,2009,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118; (no name) Paulik and Waibel, 2009) (no name) (Paulik and Waibel, 2009)",ai_reference_eval
+End-to-end-ST.pdf,,Post,2013,,,ai_reference_eval:mentioned,,[ai-ref] (slides 118; Fisher (Post 2013)) Fisher (Post 2013) Es->En 160hrs,ai_reference_eval
+End-to-end-ST.pdf,,Shimizu et al.,2014,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118; STC (Shimizu et al., 2014)) STC (Shimizu et al., 2014)",ai_reference_eval
+End-to-end-ST.pdf,,Sanabria et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,120; How2 (Sanabria et al., 2018)) How2 (Sanabria et al., 2018) instructional videos",ai_reference_eval
+End-to-end-ST.pdf,,Niehues et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,120; IWSLT 2018 (Niehues et al., 2018)) IWSLT 2018 (Niehues et al., 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Kocabiyikoglu et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,120; LIBRI-TRANS (Kocabiyikoglu et al., 2018)) LIBRI-TRANS (Kocabiyikoglu et al., 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Wang et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,119,120,121,122; CoVoST (Wang et al., 2020)) CoVoST (Wang et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Iranzo-Sanchez et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,119,121,122; Europarl-ST (Iranzo-Sanchez et al., 2020)) Europarl-ST (Iranzo-Sanchez et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Beilharz et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,119; LibriVoxDeEn (Beilharz et al., 2020)) LibriVoxDeEn (Beilharz et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Zanon Boito et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,119,121,122; MaSS (Zanon Boito et a., 2020)) MaSS (Zanon Boito et a., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Baidu,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,119; BSTC (Baidu, 2020)) BSTC (Baidu, 2020) Zh->En 50hrs",ai_reference_eval
+End-to-end-ST.pdf,,Salesky et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 118,119,121,122,123,124; Multilingual TEDx (Salesky et al., 2021)) Multilingual TEDx (Salesky et al., 2021)",ai_reference_eval
+End-to-end-ST.pdf,,"Caruana, R.",1998,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 127; Caruana, R. (1998)) Multi-task learning improves generalization ... — Caruana, R. (1998)",ai_reference_eval
+End-to-end-ST.pdf,Deep Learning,,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 128; Deep Learning, 2016 (page 526); well-known) — Page 526, Deep Learning, 2016.",ai_reference_eval
+End-to-end-ST.pdf,,Hori et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 135; Hori et al, 2017) ASR using CTC loss on encoder (Hori et al, 2017)",ai_reference_eval
+End-to-end-ST.pdf,,Bahra et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 135; Bahra et al, 2019) (Bahra et al, 2019)",ai_reference_eval
+End-to-end-ST.pdf,,Berard et al,2018,,,ai_reference_eval:central,,"[ai-ref] (slides 136; (Berard et al, 2018)) Multi-task learning ... (Berard et al, 2018)",ai_reference_eval
+End-to-end-ST.pdf,,"Anastasopoulos, Chiang",2018,,,ai_reference_eval:central,,"[ai-ref] (slides 139,140; (Anastasopoulos Chiang, 2018)) Cascade/Triangle: (Anastasopoulos Chiang, 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Le et al,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 142; (Le et al, 2020)) Dual Decoder ... (Le et al, 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Sperber et al,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 143; (Sperber et al, 2020)) Concat ... (Sperber et al, 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Bansal et al.,2018,,,ai_reference_eval:central,,"[ai-ref] (slides 145; Encoder pre-training (Bansal et al., 2018)) Encoder pre-training (Bansal et al., 2018) <--> Automatic Speech Recognition",ai_reference_eval
+End-to-end-ST.pdf,,Bérard et al.,2018,,,ai_reference_eval:central,,"[ai-ref] (slides 145; Decoder pre-training (Bérard et al., 2018)) Decoder pre-training (Bérard et al., 2018) <--> Machine Translation",ai_reference_eval
+End-to-end-ST.pdf,,Ly et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 154,155; wav2vect (Ly et al., 2020)) general-purpose acoustic models: wav2vect (Ly et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Wu et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 154,155; BERT or mBART (Wu et al., 2020); well-known) general-purpose language models: BERT or mBART (Wu et al., 2020)",ai_reference_eval
+End-to-end-ST.pdf,Knowledge distillation for sequences,Kim and Rush,2016,,,ai_reference_eval:central,,"[ai-ref] (slides 163; Knowledge distillation for sequences (Kim and Rush, 2016)) Knowledge distillation for sequences (Kim and Rush, 2016)",ai_reference_eval
+End-to-end-ST.pdf,,Liu et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 164; Proposed by Liu et al. (2019)) Word-Level KD: Proposed by Liu et al. (2019),ai_reference_eval
+End-to-end-ST.pdf,,Gaido et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 180,181; KD Methods (Gaido et al., 2020)) KD Methods (Gaido et al., 2020) bar chart Baseline/Word-KD/Seq-KD/Seq-Inter",ai_reference_eval
+End-to-end-ST.pdf,,Liu et al.,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 182; Pre-training vs KD (Liu et al., 2019)) Pre-training vs KD (Liu et al., 2019)",ai_reference_eval
+End-to-end-ST.pdf,,Zhang et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 190,192; Adaptive feature selection (AFS) (Zhang et al. 2020)) Adaptive feature selection (AFS)* (Zhang et al. 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Gaido et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 190,192; CTC loss applied in encoder (Gaido et al. 2021)) CTC loss applied in encoder (Gaido et al. 2021)",ai_reference_eval
+End-to-end-ST.pdf,,Hannun et al.,2017,,,ai_reference_eval:mentioned,,[ai-ref] (slides 191; (Hannun et al. 2017) - https://distill.pub/2017/ctc) How CTC collapsing works figure; (Hannun et al. 2017) https://distill.pub/2017/ctc,ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 192; Librispeech English-French) Librispeech English-French,ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 192; MuST-C English-German+) MuST-C English-German+,ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 193; Fisher Spanish-English (160 hours)) Fisher Spanish-English (160 hours),ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 197,198,199,200; BLEU; well-known) BLEU: geometric mean of n-gram precision, brevity penalty",ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 197,201,202,203; Word error rate (WER); well-known) Word error rate (WER) ... WER = (S+D+I)/N",ai_reference_eval
+End-to-end-ST.pdf,,Matuzov et al.,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 226; Levenshtein distance (Matuzov et al., 2015)) Alignment and segmentation in one step using the Levenshtein distance (Matuzov et al., 2015).",ai_reference_eval
+End-to-end-ST.pdf,Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,Bentivogli et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 236,237,238; Bentivogli et al., ""Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus"", ACL 2020) Bentivogli et al., ""Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus"", ACL 2020",ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 236; Derived from MuST-C (2 language directions En->It, En->Fr)) Derived from MuST-C (2 language directions En->It, En->Fr)",ai_reference_eval
+End-to-end-ST.pdf,Breeding Gender-aware Direct Speech Translation Systems,Gaido et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 239,240; Gaido et al., ""Breeding Gender-aware Direct Speech Translation Systems"", Coling 2020) Gaido et al., ""Breeding Gender-aware Direct Speech Translation Systems"", Coling 2020",ai_reference_eval
+End-to-end-ST.pdf,Automatic Sentence Segmentation and Punctuation Prediction for Spoken Language Translation,Matusov et al.,2006,,,ai_reference_eval:central,,"[ai-ref] (slides 245; Matusov et al.: ""Automatic Sentence Segmentation and Punctuation Prediction for Spoken Language Translation"", IWSLT '06) Matusov et al.: ""Automatic Sentence Segmentation and Punctuation Prediction for Spoken Language Translation"", IWSLT '06",ai_reference_eval
+End-to-end-ST.pdf,SRPOL's system for the IWSLT 2020 end-to-end speech translation task,Potapczyk and Przybysz,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 251,252; Potapczyk and Przybysz: ""SRPOL's system for the IWSLT 2020 end-to-end speech translation task"", IWSLT 2020) Potapczyk and Przybysz: ""SRPOL's system for the IWSLT 2020 end-to-end speech translation task"", IWSLT 2020",ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 253,254,255; Europarl-ST en-de / en-it) x-axis labels: MuST-C en-de, Europarl-ST en-de, MuST-C en-it, Europarl-ST en-it",ai_reference_eval
+End-to-end-ST.pdf,,Escolano et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 263; (e.g. Escolano et al. 2020)) Individual encoder and decoder for each language (e.g. Escolano et al. 2020),ai_reference_eval
+End-to-end-ST.pdf,,Inaguma et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 264; Inaguma et al., 2019) Inaguma et al., 2019",ai_reference_eval
+End-to-end-ST.pdf,,Joshi et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 272,273; Joshi et al. (2020)) Language resource distribution of Joshi et al. (2020)",ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 274; MuST-C; mTEDx; CoVoST) MuST-C (1); mTEDx (8); CoVoST (21),ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 274; Wikipron (117); Epitran (63)) Wikipron (117); Epitran (63),ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 275; wav2vec 2.0 — XLSR (Figure 1: The XLSR approach); well-known) wav2vec 2.0 — XLSR; Figure 1: The XLSR approach,ai_reference_eval
+End-to-end-ST.pdf,,Baevski et al.; Liu et al.; Li et al.,2020; 2020; 2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 275; (Baevski et al. 2020; Liu et al. 2020; Li et al. 2021)) (Baevski et al. 2020; Liu et al. 2020; Li et al. 2021),ai_reference_eval
+End-to-end-ST.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 275; mBART; well-known) mBART decoder box,ai_reference_eval
+End-to-end-ST.pdf,,Matusov et al.; Lakew et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 283; (Matusov et al., 2019; Lakew et al., 2019)) Previous works focused only on length-matching (Matusov et al., 2019; Lakew et al., 2019)",ai_reference_eval
+End-to-end-ST.pdf,,Lison and Tiedemann,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 287; OpenSubtitles (Lison and Tiedemann, 2016); well-known) OpenSubtitles (Lison and Tiedemann, 2016) -- 60 languages",ai_reference_eval
+End-to-end-ST.pdf,,Pryzant et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 287; JESC (Pryzant et al., 2018)) JESC (Pryzant et al., 2018) -- Ja-En",ai_reference_eval
+End-to-end-ST.pdf,,Karakanta et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 287; Must-Cinema (Karakanta et al., 2020)) Must-Cinema (Karakanta et al., 2020) -- En->7 languages",ai_reference_eval
+End-to-end-ST.pdf,,Karakanta et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 288,289; Karakanta et al., 2020 - IWSLT) Karakanta et al., 2020 - IWSLT",ai_reference_eval
+End-to-end-ST.pdf,,Oda et al.,2014,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 292; Oda et al., 2014) Mainly used in cascaded approaches (e.g. Oda et al., 2014)",ai_reference_eval
+End-to-end-ST.pdf,,Niehues et al.; Arivazhagan et al.,2018; 2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 293; (Niehues et al, 2018; Arivazhagan et al, 2020)) Cascade (Niehues et al, 2018; Arivazhagan et al, 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Weller et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 293; (Weller et al, 2021)) End-to-end (Weller et al, 2021)",ai_reference_eval
+End-to-end-ST.pdf,,Ma et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 296,298; Wait-k policy / Fixed schedule (Ma et al, 2019)) Fixed schedule (Ma et al, 2019); Wait-k policy",ai_reference_eval
+End-to-end-ST.pdf,,Ma et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 297; (Ma et al. 2020)) Estimate word boundaries on the source side (Ma et al. 2020),ai_reference_eval
+End-to-end-ST.pdf,,Ren et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 297; CTC Loss (Ren et al, 2020)) Predict using CTC Loss (Ren et al, 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Cho et al.; Gu et al.; Dalvi et al.,2016; 2017; 2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 298; (Cho et al, 2016; Gu et al, 2017; Dalvi et al, 2018)) Dynamic decision (Cho et al, 2016; Gu et al, 2017; Dalvi et al, 2018)",ai_reference_eval
+End-to-end-ST.pdf,,Liu et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 300; Local agreement (Liu et al, 2020)) Local agreement (Liu et al, 2020)",ai_reference_eval
+End-to-end-ST.pdf,,Yao et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 300; Variation (Yao et al., 2020)) Variation (Yao et al., 2020)",ai_reference_eval

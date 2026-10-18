@@ -1,0 +1,12 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+vqa2020_kiela.pdf,Adversarial NLI: A New Benchmark for Natural Language Understanding,,,,adversarialnli.com,extracted_from_slides:central,,"[auto-evidence] (slide 12) Adversarial NLI
+A New Benchmark for Natural Language Understanding",references_csv
+vqa2020_kiela.pdf,The Hateful Memes Challenge,,,,ai.facebook.com/hatefulmemes,extracted_from_slides:central,,"[auto-evidence] (slide 6) 2. The Hateful Memes Challenge
+A new dataset and competition for multimodal
+reasoning and understanding",references_csv
+vqa2020_kiela.pdf,MNIST,LeCun et al.,94,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) MNIST (LeCun et al. 94; Bottou et al. 94),references_csv
+vqa2020_kiela.pdf,,Ciresan et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) ""Near-human performance"" in 2012/13 (Ciresan et al.; Wang et al.).",references_csv
+vqa2020_kiela.pdf,ImageNet,Deng et al.,09,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) ImageNet (Deng et al. 09; Russakovsky et al. 15),references_csv
+vqa2020_kiela.pdf,,He et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) ""Super-human performance"" in 2015 (He et al.)",references_csv
+vqa2020_kiela.pdf,GLUE,Wang et al.,18/19,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) GLUE (Wang et al. 18/19),references_csv
+vqa2020_kiela.pdf,,Liu et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) ""Surpasses human performance"" in 2019 (Liu et al.)",references_csv

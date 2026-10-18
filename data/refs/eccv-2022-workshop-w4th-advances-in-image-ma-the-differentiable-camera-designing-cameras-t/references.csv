@@ -1,0 +1,7 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+aim2022_eccv_felixheide.pdf,,Ronneberger,15,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 17) [Ronneberger15],references_csv
+aim2022_eccv_felixheide.pdf,,Ren,15,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) [Ren15, Geiger13]",references_csv
+aim2022_eccv_felixheide.pdf,,Geary,2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) [Geary2002,Garrard2005,",references_csv
+aim2022_eccv_felixheide.pdf,,Walker,2008,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Walker2008,Sun2015]",references_csv
+aim2022_eccv_felixheide.pdf,,Zhang,18,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 36) ℒTASK = ℒ1 + ℒPERCEPTUAL [Zhang18],references_csv
+aim2022_eccv_felixheide.pdf,,Strauss et al.,1992,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 59) [Strauss et al., 1992]",references_csv

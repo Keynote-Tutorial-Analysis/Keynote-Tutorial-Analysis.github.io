@@ -1,0 +1,5 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+sgrl_mohammad.pdf,,"Wei Yang, Xiaolong Wang, Ali Farhadi, Abhinav Gupta & Roozbeh Mottaghi",,,,extracted_from_slides:central,,"[auto-evidence] (slide 5) Wei Yang, Xiaolong Wang, Ali Farhadi, Abhinav Gupta & Roozbeh Mottaghi",references_csv
+sgrl_mohammad.pdf,,Krishna et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) We extract relationships between objects from the Visual Genome (Krishna et al., 2017) dataset.",references_csv
+sgrl_mohammad.pdf,,Kipf & Welling,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) normalization on A following (Kipf & Welling, 2017)",references_csv
+sgrl_mohammad.pdf,,Anderson et al.,2018a,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 28) Success weighted by Path ... defined by Anderson et al. (2018a),references_csv

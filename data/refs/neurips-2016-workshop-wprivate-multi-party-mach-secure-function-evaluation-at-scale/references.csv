@@ -1,0 +1,20 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+pmpml16_ioannidis.pdf,GraphSC: Parallel secure computation made easy.,"Kartik Nayak, Xiao Shaun Wang, Stratis Ioannidis, Udi Weinsberg, Nina Taft, and Elaine Shi",2015,,,extracted_from_slides:central,,"[auto-evidence] (slide 60) ""GraphSC: Parallel secure computation made easy.""",references_csv
+pmpml16_ioannidis.pdf,,"Gordon, Katz, Kolesnikov, Krell, Malkin, Raykova, Vahlis",2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Gordon,$Katz,$Kolesnikov,$Krell,$Malkin,$Raykova,$VahlisL$CCS$2012]",references_csv
+pmpml16_ioannidis.pdf,,"Lu, Ostrofsky",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Lu,$OstrofskyL$EUROCRYPT$2013]",references_csv
+pmpml16_ioannidis.pdf,,"Gentry, Halevi, Raykova, Wichs",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Gentry,$Halevi,$Raykova,$WichsL$FOCS$2014]",references_csv
+pmpml16_ioannidis.pdf,,"Liu, Huang, Shi, Katz, Hicks",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Liu,$Huang,$Shi,$Katz,$HicksL$IEEE$S&P$2014]",references_csv
+pmpml16_ioannidis.pdf,,"Zahur, Wang, Raykova, Gascon, Doerner, Evans, Katz",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Zahur,$Wang,$Raykova,$Gascon,$Doerner,$Evans,$KatzL$IEEE$S&P$2016]",references_csv
+pmpml16_ioannidis.pdf,,"Boyle, Chung, Pass",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Boyle,$Chung,$PassL$TCC$2016]",references_csv
+pmpml16_ioannidis.pdf,,"Chen, Lin, Tessaro",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Chen,$Lin,$TessaroL$TCC$2016]",references_csv
+pmpml16_ioannidis.pdf,,"De Cock, Dowsley, Nascimento, Newman",PMPML16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) [De Cock, Dowsley, Nascimento, Newman, PMPML16]",references_csv
+pmpml16_ioannidis.pdf,,"Takabi, Hesamifard, Ghasemi",PMPML16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) [Takabi, Hesamifard, Ghasemi, PMPML16]",references_csv
+pmpml16_ioannidis.pdf,,"Tian, Jayaraman, Gu, Evans",PMPML16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) [Tian, Jayaraman, Gu, Evans, PMPML16]",references_csv
+pmpml16_ioannidis.pdf,,"Schoppmann, Gascon, Raykova, Evans, Zahur, Doerner, Balle",PMPML16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) [Schoppmann,$Gascon,$Raykova,$Evans,$Zahur,$Doerner,$Balle, PMPML16]",references_csv
+pmpml16_ioannidis.pdf,,"Malewicz, Austern, Bik, Dehnert, Horn, Leiser, Czajkowski",2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) [Malewicz,$Austern,$Bik,$Dehnert,$Horn,$Leiser,$CzajkowskiL$SIGMOD$2010]",references_csv
+pmpml16_ioannidis.pdf,,"Low, Bickson, Gonzalez, Guestrin, Kyrola, Hellerstein",2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) [Low,$ Bickson,$Gonzalez,$Guestrin,$Kyrola,$$HellersteinL$PVLDB$2012]",references_csv
+pmpml16_ioannidis.pdf,,Ching,2011,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) [ChingL Hadoop$Summit$2011],references_csv
+pmpml16_ioannidis.pdf,,"Weinsberg, Bhagat, Ioannidis, Taft",2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) Can be quite revealing [Weinsberg, Bhagat, Ioannidis, Taft, RecSys 2012]",references_csv
+pmpml16_ioannidis.pdf,,"Liu, Wang, Nayak, Huang, Shi",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) [Liu,$Wang,$Nayak,$Huang,$ShiL$IEEE$S&P,$2015]",references_csv
+pmpml16_ioannidis.pdf,Privacy-preserving matrix factorization.,"Nikolaenko, Valeria, Stratis Ioannidis, Udi Weinsberg, Marc Joye, Nina Taft, and Dan Boneh",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 60) ""Privacy-preserving matrix factorization.""",references_csv
+pmpml16_ioannidis.pdf,Secure Function Evaluation using an FPGA Overlay Architecture,"Xin Fang, Stratis Ioannidis, Miriam Leeser",2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) Secure Function Evaluation using an FPGA Overlay Architecture,references_csv

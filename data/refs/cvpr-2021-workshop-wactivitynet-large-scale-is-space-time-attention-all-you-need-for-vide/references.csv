@@ -1,0 +1,18 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,Attention is All You Need,Vaswani et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) Attention is All You Need,references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,,Feichtenhofer et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) SlowFast Networks
+[Feichtenhofer et al. 2019]",references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,,Feichtenhofer,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Expanded 3D Networks
+[Feichtenhofer 2020]",references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,,Carreira et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Inflated 3D Networks
+[Carreira et al. 2018]",references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,,Tran et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Channel Separated Networks
+[Tran et al. 2019]",references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,,Tran et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) R(2+1)D Networks
+[Tran et al. 2018]",references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,,Wang et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Correlation Networks
+[Wang et al. 2020]",references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,Dosovitskiy et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips,Miech et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 29) Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips,references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,Long-Short Temporal Contrastive Learning of Video Transformers,Wang et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 39) Long-Short Temporal Contrastive Learning of Video Transformers,references_csv
+cvpr2021_activitynet_bertasius_spacetime_attention.pdf,Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers,Patrick et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 40) Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers,references_csv

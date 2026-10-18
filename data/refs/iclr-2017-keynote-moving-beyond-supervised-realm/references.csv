@@ -1,0 +1,9 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclr2017_barzilay.pdf,,Wang et al.,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) 290 keywords from Wang et al., 2011",references_csv
+iclr2017_barzilay.pdf,,Chen et al.,2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) mSDA: marginalized stacked denoising autoencoder (Chen et al., 2012)",references_csv
+iclr2017_barzilay.pdf,,Zaidan et al.,2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 62) in contrast to (Zaidan et al., 2007; Marshall et al.,2015; Zhang et al., 2016)",references_csv
+iclr2017_barzilay.pdf,,Thrun,1995,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 62) in contrast to (Thrun, 1995; Craven and Shavlik, 1996; Ribeiro et al., 2016)",references_csv
+iclr2017_barzilay.pdf,,Williams,1992,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) a type of REINFORCE learning
+(Williams, 1992)",references_csv
+iclr2017_barzilay.pdf,,McAuley et al,2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 72) multi-aspect beer reviews from BeerAdvocate
+(McAuley et al, 2012) 1.5m in total",references_csv

@@ -1,0 +1,12 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+wkc_anandkumar_icml2020.pptx,Tensor Decompositions for Learning Latent Variable Models,A. Anandkumar et al,2014,,,extracted_from_slides:central,,"[auto-evidence] (slide 11) A. Anandkumar etal, Tensor Decompositions for Learning Latent Variable Models, JMLR 2014.",references_csv
+wkc_anandkumar_icml2020.pptx,Long-term Video Prediction with Convolutional Tensor-train LSTM,"Jiahao Su, Wonmin Byeon, Furong Huang, Jan Kautz, Anima Anandkumar",,,,extracted_from_slides:central,,"[auto-evidence] (slide 23) Convolutional Tensor-train LSTM 
+Jiahao Su, Wonmin Byeon, Furong Huang, Jan Kautz, Anima Anandkumar",references_csv
+wkc_anandkumar_icml2020.pptx,,,,2001.05070,https://arxiv.org/pdf/2001.05070.pdf,extracted_from_slides:central,,"[auto-evidence] (slide 27) Generalization via tensors 
+https://arxiv.org/pdf/2001.05070.pdf",references_csv
+wkc_anandkumar_icml2020.pptx,Space Saving in Deep Tensorized Networks,"Jean Kossaifi, Zachary Lipton, Aran Khanna, Tommaso Furlanello",,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) Space Saving in Deep Tensorized Networks
+Jean Kossaifi
+Zachary Lipton
+Aran Khanna
+Tommaso Furlanello",references_csv
+wkc_anandkumar_icml2020.pptx,Optimizing Tensor Contractions in CCSD (T) for Efficient Execution on GPUs,"Kim, Jinsung, et al.",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) Kim, Jinsung, et al. ""Optimizing Tensor Contractions in CCSD (T) for Efficient Execution on GPUs."" (2018).",references_csv

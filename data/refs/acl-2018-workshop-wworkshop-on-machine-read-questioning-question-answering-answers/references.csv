@@ -1,0 +1,8 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mrqa2018_sameer.pdf,,,2016,,,extracted_from_slides:central,,[auto-evidence] (slide 16) LIME: Linear Explanations,references_csv
+mrqa2018_sameer.pdf,,,2018,,,extracted_from_slides:central,,[auto-evidence] (slide 24) Anchors: Sufficient Conditions,references_csv
+mrqa2018_sameer.pdf,,,2018,,,extracted_from_slides:central,,[auto-evidence] (slide 43) SEARS: Adversarial Rules,references_csv
+mrqa2018_sameer.pdf,,Zhu et al,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) Visual7A [Zhu et al 2016],references_csv
+mrqa2018_sameer.pdf,,Seo et al,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) BiDAF [Seo et al 2017],references_csv
+mrqa2018_sameer.pdf,,Jia and Liang,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Jia and Liang, EMNLP 2017",references_csv
+mrqa2018_sameer.pdf,,Mudrakarta et al,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Mudrakarta et al ACL 2018,references_csv

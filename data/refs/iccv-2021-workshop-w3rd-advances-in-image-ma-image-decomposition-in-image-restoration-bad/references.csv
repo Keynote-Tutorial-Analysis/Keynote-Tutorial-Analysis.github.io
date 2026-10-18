@@ -1,0 +1,6 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+aim21_robbytan.pdf,Decomposition Network for Nighttime Glow removal,,2020,,,extracted_from_slides:central,,[auto-evidence] (slide 9) Decomposition Network: Night Glow (ECCV’20),references_csv
+aim21_robbytan.pdf,Decomposition Network for Nighttime Glare removal,,2021,,,extracted_from_slides:central,,[auto-evidence] (slide 16) Decomposition Network: Night Glare (CVPR’21),references_csv
+aim21_robbytan.pdf,Decomposition Network for Rain Streaks removal,,2021,,,extracted_from_slides:central,,[auto-evidence] (slide 23) Decomposition Network: Rain Streaks,references_csv
+aim21_robbytan.pdf,Decomposition Network for Rain Veiling Effect removal,,2021,,,extracted_from_slides:central,,[auto-evidence] (slide 24) Decomposition Network: Rain Veiling Effect,references_csv
+aim21_robbytan.pdf,DC-ShadowNet: Decomposition in Shadow Removal,,2021,,,extracted_from_slides:central,,[auto-evidence] (slide 28) Decomposition in Shadow Removal,references_csv

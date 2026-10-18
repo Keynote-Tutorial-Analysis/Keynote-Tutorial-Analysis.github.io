@@ -1,0 +1,5 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+aim2022_eccv_gordonwetzstein.pdf,Efficient Geometry-aware 3D Generative Adversarial Networks,Chan et al.,2022,,,extracted_from_slides:central,,[auto-evidence] (slide 5) Efficient Geometry-aware 3D Generative Adversarial Networks,references_csv
+aim2022_eccv_gordonwetzstein.pdf,GNARF: Generative Neural Articulated Radiance Fields,Bergman et al.,2022,,,extracted_from_slides:central,,[auto-evidence] (slide 37) GNARF: Generative Neural Articulated Radiance Fields,references_csv
+aim2022_eccv_gordonwetzstein.pdf,,Mildenhall et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Mildenhall et al., ECCV 2020",references_csv
+aim2022_eccv_gordonwetzstein.pdf,Controllable Portrait Image Animation via 3D GAN Inversion,Lin et al.,2022,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Controllable Portrait Image Animation via 3D GAN Inversion,references_csv

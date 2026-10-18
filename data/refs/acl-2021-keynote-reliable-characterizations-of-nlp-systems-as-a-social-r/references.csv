@@ -1,0 +1,38 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+potts-acl2021.pdf,Dynabench: Rethinking Benchmarking in NLP,"Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen, Grusha Prasad, Amanpreet Singh, Pratik Ringshia, Zhiyi Ma, Tristan Thrush, Sebastian Riedel, Zeerak Waseem, Pontus Stenetorp, Robin Jia, Mohit Bansal, Christopher Potts and Adina Williams",2021,,,extracted_from_slides:central,,[auto-evidence] (slide 23) Dynabench: Rethinking Benchmarking in NLP,references_csv
+potts-acl2021.pdf,Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank,"Richard Socher, Alex Perelygin, Jean Y. Wu, Jason Chuang, Christopher D. Manning, Andrew Y. Ng and Christopher Potts",2013,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Recursive Deep Models for Semantic Compositionality
+Over a Sentiment Treebank",references_csv
+potts-acl2021.pdf,The Values Encoded in Machine Learning Research,"Pratyusha Kalluri, Dallas Card, Ravit Dotan, Michelle Bao, Abeba Birhane, William Agnew",2021,2106.15590,,extracted_from_slides:central,,[auto-evidence] (slide 31) The Values Encoded in Machine Learning Research,references_csv
+potts-acl2021.pdf,Dynaboard: An evaluation-as-a-service platform for holistic next-generation benchmarking,Ma et al.,2021,,,extracted_from_slides:central,,[auto-evidence] (slide 35) Ma et al. 2021; https://dynabench.org,references_csv
+potts-acl2021.pdf,Enabling language models to fill in the blanks,"Chris Donahue, Mina Lee, and Percy Liang.",2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) Donahue et al. 2020,references_csv
+potts-acl2021.pdf,Government by Algorithm: Artificial Intelligence in Federal Administrative Agencies,"David Freeman Engstrom, Daniel E. Ho, Catherine M. Sharkey, Mariano-Florentino Cuéllar",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Government by Algorithm:
+Artificial Intelligence in Federal
+Administrative Agencies",references_csv
+potts-acl2021.pdf,"Truth, Lies, and Automation: How Language Models Could Change Disinformation","Ben Buchanan, Andrew Lohn, Micah Musser, Katerina Sedova",2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Truth, Lies, and
+Automation",references_csv
+potts-acl2021.pdf,All that's 'human' is not gold: Evaluating human evaluation of generated text,Clark et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) Clark et al. 2021,references_csv
+potts-acl2021.pdf,,Edsall,"1975, 1981",,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Edsall 1975, 1981",references_csv
+potts-acl2021.pdf,Targeting the benchmark: On methodology in current natural language processing research,Schlangen,2020,2007.04792,,extracted_from_slides:mentioned,,[auto-evidence] (slide 16) Schlangen 2020,references_csv
+potts-acl2021.pdf,,Zellers et al.,"2018, 2019",,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) (Zellers et al. 2018, 2019)",references_csv
+potts-acl2021.pdf,Adversarial NLI: A new benchmark for natural language understanding,Nie et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) 2. Adversarial NLI
+
+(Nie et al. 2020)",references_csv
+potts-acl2021.pdf,Beat the AI: Investigating adversarial human annotation for reading comprehension,Bartolo et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) 3. Beat the AI
+
+(Bartolo et al. 2020)",references_csv
+potts-acl2021.pdf,Learning from the worst: Dynamically generated datasets to improve online hate detection,Vidgen et al.,2020,2012.15761,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) 4. Dynabench Hate Speech
+
+(Vidgen et al. 2020)",references_csv
+potts-acl2021.pdf,DynaSent: A dynamic benchmark for sentiment analysis,Potts et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) 5. DynaSent
+
+(Potts et al. 2021)",references_csv
+potts-acl2021.pdf,Datasheets for datasets,Gebru et al.,2018,1803.09010,,extracted_from_slides:mentioned,,[auto-evidence] (slide 26) Gebru et al. 2018,references_csv
+potts-acl2021.pdf,,Dodge et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 34) Dodge et al. 2019; Ethayarajh and Jurafsky 2020,references_csv
+potts-acl2021.pdf,Utility is in the eye of the user: A critique of NLP leaderboards,Ethayarajh and Jurafsky,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 34) Dodge et al. 2019; Ethayarajh and Jurafsky 2020,references_csv
+potts-acl2021.pdf,Rethinking search: Making experts out of dilettantes,Metzler et al.,2021,2105.02274,,extracted_from_slides:mentioned,,[auto-evidence] (slide 39) Metzler et al. 2021,references_csv
+potts-acl2021.pdf,A moderate proposal for radically better AI-powered Web search,Khattab et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 40) Khattab et al. 2021,references_csv
+potts-acl2021.pdf,Inherent disagreements in human textual inferences,Pavlick and Kwiatkowski,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 41) Pavlick and Kwiatkowski 2019,references_csv
+potts-acl2021.pdf,Why AI is harder than we think,Mitchell,2021,2104.12871,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 47) Mitchell 2021; Lipton
+and Steinhardt 2019",references_csv
+potts-acl2021.pdf,Troubling trends in machine learning scholarship,Lipton and Steinhardt,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 47) Lipton
+and Steinhardt 2019",references_csv

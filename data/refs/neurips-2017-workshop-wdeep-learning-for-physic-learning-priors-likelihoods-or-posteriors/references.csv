@@ -1,0 +1,27 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+dlps2017_murray.pdf,Fast ε-free Inference of Simulation Models with Bayesian Conditional Density Estimation,Papamakarios and Murray,2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 10) with Bayesian Conditional Density Estimation
+Papamakarios and Murray (NIPS, 2016)",references_csv
+dlps2017_murray.pdf,,"Busha, Marshall, Wechsler, Klypin and Primack",2011,1011.2203v3,,extracted_from_slides:central,,"[auto-evidence] (slide 16) Busha, Marshall, Wechsler, Klypin and Primack (2011)
+APJ 743:40",references_csv
+dlps2017_murray.pdf,,Hinton et al.,1995,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Hinton et al. (1995, Science) — Wake Sleep, Helmholtz machine",references_csv
+dlps2017_murray.pdf,,Morris,2001,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Morris (2001, UAI) — Recognition Networks",references_csv
+dlps2017_murray.pdf,,Blum & Francois,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Blum & Francois (2010, S&C) — Conditional Gaussian, neural nets",references_csv
+dlps2017_murray.pdf,,"Fan, Nott, Sisson",2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Fan, Nott, Sisson (2012, Stat) — Mixture of experts",references_csv
+dlps2017_murray.pdf,,"Mitrović, Dino Sejdinović, Teh",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Teh (2016, ICML) — Kernel regression",references_csv
+dlps2017_murray.pdf,,Lueckmann et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Lueckmann et al. (NIPS, 2017)",references_csv
+dlps2017_murray.pdf,Mixture Density Networks,Bishop,1994,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 11) Mixture Density Networks,references_csv
+dlps2017_murray.pdf,,"Cranmer, Pavez, Louppe",2016,1506.02169,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Cf Cranmer, Pavez, Louppe (2016) arXiv:1506.02169",references_csv
+dlps2017_murray.pdf,,Larochelle and Murray,2011,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 29) Larochelle and Murray (2011),references_csv
+dlps2017_murray.pdf,,"Uría, Murray, and Larochelle",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) Murray, and Larochelle (2013, 2014)",references_csv
+dlps2017_murray.pdf,,"Germain, Gregor, Murray, Larochelle",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) Germain, Gregor, Murray, Larochelle (2015)",references_csv
+dlps2017_murray.pdf,,Frey et al.,1996,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Frey et al. (NIPS 1996), Frey (book, 1998)",references_csv
+dlps2017_murray.pdf,,Bengio and Bengio,2000,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Bengio and Bengio (NIPS, 2000)",references_csv
+dlps2017_murray.pdf,,Li and Stephens,2003,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Li and Stephens (Genetics, 2003)",references_csv
+dlps2017_murray.pdf,Approximate Bayesian Computation via regression density estimation,Fan et al.,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) Approximate Bayesian Computation via regression density estimation,
+Fan et al., Stat 2013",references_csv
+dlps2017_murray.pdf,,Zoran and Weiss,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 37) Zoran and Weiss, ICCV 2011",references_csv
+dlps2017_murray.pdf,Extreme deconvolution,"Bovy, Hogg, Roweis",2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) Bovy, Hogg, Roweis 2011 — Extreme deconvolution",references_csv
+dlps2017_murray.pdf,Replacing Standard Galaxy Profiles with Mixtures of Gaussians,Hogg & Lang,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) Hogg & Lang, 2013 — Replacing Standard Galaxy Profiles
+with Mixtures of Gaussians",references_csv
+dlps2017_murray.pdf,Gaussian Process Density Sampler,"Adams, Murray and MacKay",2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Gaussian Process Density Sampler
+Adams, Murray and MacKay (2009).",references_csv

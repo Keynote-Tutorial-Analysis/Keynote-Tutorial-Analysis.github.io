@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Slide-Deck Annotation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside id="sidebar">
+    <header class="side-head">
+      <div class="brand">Slide-Deck Annotation</div>
+      <div id="overall" class="overall"></div>
+      <input id="reviewer-id" class="reviewer-id" placeholder="your name / email" autocomplete="off">
+      <div class="local-note" title="Saved in your browser; also sent to the shared sheet if one is configured.">
+        <span id="sync-note">Saved in your browser</span> · <button id="btn-export" class="linklike">Export</button>
+      </div>
+    </header>
+    <div class="filters">
+      <input id="search" type="search" placeholder="Search title / venue…" autocomplete="off">
+      <div class="filter-row">
+        <select id="f-category">
+          <option value="">All types</option>
+          <option value="keynote">Keynotes</option>
+          <option value="invited_talk">Invited talks</option>
+          <option value="tutorial">Tutorials</option>
+        </select>
+        <select id="f-venue"><option value="">All venues</option></select>
+      </div>
+      <div class="filter-row">
+        <select id="f-status">
+          <option value="">Any status</option>
+          <option value="not_started">Not started</option>
+          <option value="in_progress">In progress</option>
+          <option value="done">Submitted</option>
+        </select>
+        <label class="scope-toggle"><input type="checkbox" id="f-scope" checked> Target venues only</label>
+      </div>
+    </div>
+    <div id="deck-list" class="deck-list"></div>
+  </aside>
+
+  <main id="main">
+    <div id="empty" class="empty-state"><div class="empty-inner">
+      <h1>Slide-deck annotation</h1>
+      <p>Pick a deck on the left. Read the slides (you can select text), answer the question, mark the
+         taxonomy, then <b>Confirm &amp; submit</b>. Your work is stored in this browser — use
+         <b>Export my annotations</b> to download it.</p>
+    </div></div>
+
+    <section id="review" hidden>
+      <header class="deck-head">
+        <div class="deck-title-wrap">
+          <div class="deck-badges" id="deck-badges"></div>
+          <h1 id="deck-title"></h1>
+          <div class="deck-sub" id="deck-sub"></div>
+        </div>
+        <div class="deck-controls">
+          <div class="deck-rating" id="deck-rating">
+            <span class="dr-label">Are all references written and annotated?</span>
+            <div class="rate-group" role="group">
+              <button data-r="yes" class="r-btn r-y">Yes</button>
+              <button data-r="no" class="r-btn r-n">No</button>
+              <button data-r="irrelevant" class="r-btn r-irr">Irrelevant slide deck</button>
+            </div>
+          </div>
+          <div class="deck-actions">
+            <span id="save-state" class="save-state"></span>
+            <button id="btn-save" class="btn">Save draft</button>
+            <button id="btn-submit" class="btn btn-primary">Confirm &amp; submit</button>
+          </div>
+        </div>
+      </header>
+      <div id="submit-warning" class="submit-warning" hidden></div>
+
+      <div class="split">
+        <div class="pane pane-viewer">
+          <div class="viewer-bar">
+            <span id="file-label" class="file-label"></span>
+            <div class="page-jump">
+              <button id="prev-page" class="btn btn-sm">◀</button>
+              <input id="page-input" type="number" min="1" value="1">
+              <button id="next-page" class="btn btn-sm">▶</button>
+            </div>
+            <a id="open-ext" class="btn btn-sm" target="_blank" rel="noopener">Open ↗</a>
+          </div>
+          <div id="viewer-holder" class="viewer-holder"></div>
+        </div>
+
+        <div class="pane pane-refs">
+          <div class="refs-section">
+            <div class="refs-bar">
+              <div class="refs-summary" id="refs-summary"></div>
+            </div>
+            <div id="refs-table" class="refs-table"></div>
+          </div>
+          <section id="tax-panel" class="tax-panel">
+            <button id="tax-toggle" class="tax-toggle" type="button">
+              <span class="tax-caret" aria-hidden="true">▾</span>
+              <span class="tax-head-label">Taxonomy</span>
+              <span id="tax-summary" class="tax-summary"></span>
+            </button>
+            <div id="tax-body" class="tax-body"></div>
+          </section>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="config.js"></script>
+  <script src="vendor/pdf.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

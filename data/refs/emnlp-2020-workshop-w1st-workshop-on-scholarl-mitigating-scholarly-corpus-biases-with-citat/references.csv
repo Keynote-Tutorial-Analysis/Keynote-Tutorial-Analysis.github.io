@@ -1,0 +1,9 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+sdp2020_emnlp_kuansan_wang.pdf,Mitigating scholarly corpus biases with citations: A case study on CORD-19,,2020,,10.3389/frma.2020.596624,extracted_from_slides:central,,[auto-evidence] (slide 2) DOI: 10.3389/frma.2020.596624,references_csv
+sdp2020_emnlp_kuansan_wang.pdf,Networks of Scientific Papers,"Price, D.",1965,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Price, D., ""Networks of Scientific Papers"", Science 1965",references_csv
+sdp2020_emnlp_kuansan_wang.pdf,,Albert and Barabasi,1999,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Preferential attachment, Albert and Barabasi, Science 1999",references_csv
+sdp2020_emnlp_kuansan_wang.pdf,,Caldarelli et al.,2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Individual node fitness, Caldarelli et al., Physical Review Letters, 2002",references_csv
+sdp2020_emnlp_kuansan_wang.pdf,,Papadopoulos et al.,2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Latent space model, Papadopoulos et al., Nature 2012",references_csv
+sdp2020_emnlp_kuansan_wang.pdf,,Overgoor et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Discrete choice, Overgoor et al., WWW-2019",references_csv
+sdp2020_emnlp_kuansan_wang.pdf,A century of physics,Sinatra et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Enclosure graph (Sinatra et al., ""A century of physics"", Nature Physics, 2015)",references_csv
+sdp2020_emnlp_kuansan_wang.pdf,ImageNet classification with deep convolutional neural network,,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) ImageNet classification with deep convolutional neural network,references_csv

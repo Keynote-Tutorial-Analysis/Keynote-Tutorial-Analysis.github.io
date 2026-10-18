@@ -1,0 +1,16 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclr2017_graves.pdf,Hybrid computing using a neural network with dynamic external memory,"Graves, Wayne et. al.",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 5) Hybrid computing using a neural network with dynamic external memory,
+Graves, Wayne et. al., Nature, 2016",references_csv
+iclr2017_graves.pdf,Adaptive Computation Time With Recurrent Neural Networks,Graves,2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 18) Adaptive Computation Time With Recurrent Neural Networks, Graves (2016)",references_csv
+iclr2017_graves.pdf,Decoupled Neural Interfaces using Synthetic Gradients,Jaderberg et. al.,2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) Decoupled Neural Interfaces using Synthetic Gradients.
+Jaderberg et. al. (2016)",references_csv
+iclr2017_graves.pdf,Neural Machine Translation by Jointly Learning to Align and Translate,Bahdanau et. al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Neural Machine Translation by Jointly Learning to Align and Translate, Bahdanau et. al. (2014)",references_csv
+iclr2017_graves.pdf,Memory Networks,Weston et. al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Memory Networks, Weston et. al. (2014)",references_csv
+iclr2017_graves.pdf,Neural Turing Machines,"Graves, Wayne, Danihelka",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Neural Turing Machines, Graves, Wayne, Danihelka (2014)",references_csv
+iclr2017_graves.pdf,Ask me anything: dynamic memory networks for natural language processing,Kumar et. al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Ask me anything: dynamic memory networks for natural language processing, Kumar et. al. (2015)",references_csv
+iclr2017_graves.pdf,End-to-end memory networks,Sukhbaatar et. al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) End-to-end memory networks, Sukhbaatar et. al. (2015)",references_csv
+iclr2017_graves.pdf,Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes,"Rae, Hunt et. al.",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes, Rae, Hunt et. al. (2016)",references_csv
+iclr2017_graves.pdf,,"Vinyals, Jozefowicz",,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) Vinyals, Jozefowicz - unpublished (yet)",references_csv
+iclr2017_graves.pdf,Spatially Adaptive Computation Time for Residual Networks,Figurnov et. al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) Spatially Adaptive Computation Time for Residual Networks, Figurnov et. al, 2016",references_csv
+iclr2017_graves.pdf,Training recurrent networks online without backtracking,Ollivier et. al.,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 26) Training recurrent net-works online without backtracking. Ollivier et. al. (2015),references_csv
+iclr2017_graves.pdf,Long Short-Term Memory,Hochreiter and Schmidhuber,1997,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 26) Long Short-Term Memory. Hochreiter and Schmidhuber (1997),references_csv

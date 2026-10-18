@@ -1,0 +1,11 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+gretton_icml2026_testing.pdf,,"G, Smola, Bousquet, Herbrich, Belitski, Augath, Murayama, Pauls, Scheolkopf, Logothetis",2005,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) G, Smola, Bousquet, Herbrich, Belitski, Augath, Murayama, Pauls, Scheolkopf, Logothetis (AISTATS 2005)",references_csv
+gretton_icml2026_testing.pdf,,"G, Bousquet, Smola, Schoelkopf",2005,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) [A]; G, Bousquet, Smola, Schoelkopf (ALT 2005)",references_csv
+gretton_icml2026_testing.pdf,,"G, Fukumizu, Teo, Song, Schoelkopf, Smola",2007,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) [B] G, Fukumizu, Teo, Song, Schoelkopf, Smola (NeurIPS 2007)",references_csv
+gretton_icml2026_testing.pdf,,"Zhang, Peters, Janzing, Schoelkopf",2011,,,extracted_from_slides:central,,"[auto-evidence] (slide 51) [A] Zhang, Peters, Janzing, Schoelkopf (2011)",references_csv
+gretton_icml2026_testing.pdf,,"He, Pogodin, Li, Deka, G, Sutherland",2025,,,extracted_from_slides:central,,"[auto-evidence] (slide 48) [A] He, Pogodin, Li, Deka, G, Sutherland (2025)",references_csv
+gretton_icml2026_testing.pdf,,"Pogodin, Schrab, Li, Sutherland, G",2026,,,extracted_from_slides:central,,"[auto-evidence] (slide 74) [A] Pogodin, Schrab, Li, Sutherland, G (2026)",references_csv
+gretton_icml2026_testing.pdf,,G.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) [C] G. ArXiv, 2015",references_csv
+gretton_icml2026_testing.pdf,,Lyons,2013,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) [D] Lyons (Annals of Probability 2013),references_csv
+gretton_icml2026_testing.pdf,,Paninski,2003,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) The MI has no unbiased estimator [Paninski, 2003, Proposition 8]",references_csv
+gretton_icml2026_testing.pdf,,Daudin,1980,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 48) [B] Daudin (1980),references_csv

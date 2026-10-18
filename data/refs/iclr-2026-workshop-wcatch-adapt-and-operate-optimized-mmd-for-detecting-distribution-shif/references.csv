@@ -1,0 +1,7 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+gretton_iclr2026_cao.pdf,MMD Aggregated Two-Sample Test,"Schrab, Kim, Albert, Laurent, Guedj, G",2023,,,extracted_from_slides:central,,"[auto-evidence] (slide 34) [Schrab, Kim, Albert, Laurent, Guedj, G, JMLR 2023, Prop. 1]",references_csv
+gretton_iclr2026_cao.pdf,MMD Fuse,"Schrab, Biggs, G",2023,,,extracted_from_slides:central,,"[auto-evidence] (slide 45) [Schrab, Biggs, G. 2023]",references_csv
+gretton_iclr2026_cao.pdf,,"G, Borgwardt, Rasch, Schoelkopf, Smola",2012,,,extracted_from_slides:central,,"[auto-evidence] (slide 16) [G, Borgwardt, Rasch, Schoelkopf, Smola, JMLR 2012]",references_csv
+gretton_iclr2026_cao.pdf,,"Sriperumbudur, G, Fukumizu, Schoelkopf, Lanckriet",2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) [Sriperumbudur, G, Fukumizu, Schoelkopf, Lanckriet, JMLR 2010]",references_csv
+gretton_iclr2026_cao.pdf,Learning multiple layers of features from tiny images,"Krizhevsky, Hinton",2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Krizhevsky, Hinton, Learning multiple layers of features from tiny images. (2009)",references_csv
+gretton_iclr2026_cao.pdf,Do CIFAR-10 Classifiers Generalize to CIFAR-10?,"Recht, Roelofs, Schmidt, Shankar",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Recht, Roelofs, Schmidt, Shankar, Do CIFAR-10 Classifiers Generalize to CIFAR-10? (2018).",references_csv

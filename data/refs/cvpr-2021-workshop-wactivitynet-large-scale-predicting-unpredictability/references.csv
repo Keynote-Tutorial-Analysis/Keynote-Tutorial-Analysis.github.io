@@ -1,0 +1,36 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,,"Suris, Liu, Vondrick",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 5) Suris, Liu, Vondrick. CVPR 2021.",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Hyperbolic neural networks,Ganea et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Ganea et al.
+“Hyperbolic neural networks”
+NeurIPS 2018",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Hyperbolic Entailment Cones for Learning Hierarchical Embeddings,Ganea et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Ganea et al.
+“Hyperbolic Entailment Cones for
+Learning Hierarchical Embeddings”
+ICLR 2018",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Poincaré Embeddings for Learning Hierarchical Representations,Nickel and Kiela,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Nickel and Kiela
+“Poincaré Embeddings for
+Learning Hierarchical
+Representations”
+NeurIPS 2017",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Hyperbolic visual embedding learning for zero-shot recognition,Liu et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Liu et al.
+“Hyperbolic visual embedding
+learning for zero-shot
+recognition”
+CVPR 2020",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Searching for actions in the hyperbole,Long et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Long et al.,
+“Searching for actions in the hyperbole”
+CVPR 2020",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Hyperbolic image embeddings,Khrulkov et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Khrulkov et al.
+“Hyperbolic image embeddings”
+CVPR 2020",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Poincare Glove: Hyperbolic Word Embeddings,"Tifrea, Alexandru, Gary Becigneul, and Octavian-Eugen Ganea",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Tifrea, Alexandru, Gary Becigneul, and Octavian-Eugen Ganea. ""Poincare Glove:
+Hyperbolic Word Embeddings."" International Conference on Learning
+Representations. 2018.",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Hyperbolic attention networks,Gulcehre et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Gulcehre et al.,
+“Hyperbolic attention networks”
+ICLR 2019",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Escher in the Sky,Renata Kallosh and Andrei Linde,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Renata Kallosh and Andrei Linde. “Escher in the Sky”. Comptes Rendus Physique 16 (2015),
+914-927",references_csv
+cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf,Large-margin classification in hyperbolic space,"Cho, Hyunghoon, et al.",2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 28) Cho, Hyunghoon, et al. ""Large-margin classification in hyperbolic
+space."" The 22nd International Conference on Artificial Intelligence and
+Statistics. PMLR, 2019.",references_csv

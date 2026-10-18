@@ -1,0 +1,30 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+chodera_iclr2022_mldd.pdf,,"Hauser, Negron, Albanese, Ray, Steinbrecher, Abel, Chodera, Wang.",2018,,https://doi.org/10.1038/s42003-018-0075-x,extracted_from_slides:central,,"[auto-evidence] (slide 7) Hauser, Negron, Albanese, Ray, Steinbrecher, Abel, Chodera, Wang.
+Communications Biology 1:70, 2018",references_csv
+chodera_iclr2022_mldd.pdf,gimlet: graph convolutional networks for partial charge assignment,,,1909.07903,https://arxiv.org/abs/1909.07903,extracted_from_slides:central,,"[auto-evidence] (slide 45) gimlet: graph convolutional networks for partial charge assignment
+preprint: https://arxiv.org/abs/1909.07903",references_csv
+chodera_iclr2022_mldd.pdf,espaloma: end-to-end differentiable assignment of force field parameters,,,2010.01196,https://arxiv.org/abs/2010.01196,extracted_from_slides:central,,"[auto-evidence] (slide 45) espaloma: end-to-end differentiable assignment of force field parameters
+preprint: https://arxiv.org/abs/2010.01196",references_csv
+chodera_iclr2022_mldd.pdf,qmlify: hybrid QML/MM alchemical free energy calculations for protein-ligand binding,"Rufa, Bruce Macdonald, Fass, Wieder, Grinaway, Roitberg, Isayev, and Chodera.",,,https://doi.org/10.1101/2020.07.29.227959,extracted_from_slides:central,,"[auto-evidence] (slide 45) qmlify: hybrid QML/MM alchemical free energy calculations for protein-ligand binding
+preprint: https://doi.org/10.1101/2020.07.29.227959",references_csv
+chodera_iclr2022_mldd.pdf,neutromeratio: alchemical free energy calculations with fully QML potentials for tautomer ratio prediction,,,,https://doi.org/10.1101/2020.10.24.353318,extracted_from_slides:central,,"[auto-evidence] (slide 45) neutromeratio: alchemical free energy calculations with fully QML potentials for tautomer ratio prediction
+preprint: https://doi.org/10.1101/2020.10.24.353318",references_csv
+chodera_iclr2022_mldd.pdf,,Wang et al. (Schrödinger),2015,,https://doi.org/10.1021/ja512751q,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Wang et al. (Schrödinger) JACS 137:2695, 2015",references_csv
+chodera_iclr2022_mldd.pdf,,Aldeghi et al.,2017,,https://doi.org/10.1021/jacs.6b11467,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Aldeghi et al. JACS 139:946, 2017.",references_csv
+chodera_iclr2022_mldd.pdf,,"Schindler, Baumann, Blum et al.",2020,,https://doi.org/10.1021/acs.jcim.0c00900,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Schindler, Baumann, Blum et al. JCIM 11:5457, 2020",references_csv
+chodera_iclr2022_mldd.pdf,,"Moraca, Negri, de Olivera, Abel",2019,,https://doi.org/10.1021/acs.jcim.9b00106,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Moraca, Negri, de Olivera, Abel JCIM 2019",references_csv
+chodera_iclr2022_mldd.pdf,,"Aldeghi, Gapsys, de Groot.",2018,,https://doi.org/10.1021/acscentsci.8b00717,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Aldeghi, Gapsys, de Groot. ACS Central Science 4:1708, 2018",references_csv
+chodera_iclr2022_mldd.pdf,,"Gapsys, Michielssens, Seeliger, and de Groot.",2016,,https://doi.org/10.1002/anie.201510054,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Gapsys, Michielssens, Seeliger, and de Groot. Angew Chem 55:7364, 2016",references_csv
+chodera_iclr2022_mldd.pdf,,"Shan, Kim, Eastwood, Dror, Seeliger, Shaw.",2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Shan, Kim, Eastwood, Dror, Seeliger, Shaw. JACS 133:9181, 2011",references_csv
+chodera_iclr2022_mldd.pdf,Molecular dynamics simulations and drug discovery,"Durrant, McCammon.",2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Durrant, McCammon. Molecular dynamics simulations and drug discovery. BMC Biology, 2011",references_csv
+chodera_iclr2022_mldd.pdf,,"Wang J, Wolf RM, Caldwell JW, Kollman PA, and Case DA.",2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Wang J, Wolf RM, Caldwell JW, Kollman PA, and Case DA. J Comput Chem 25:1157, 2004.",references_csv
+chodera_iclr2022_mldd.pdf,,Zhou Z,,1706.09916,,extracted_from_slides:mentioned,,[auto-evidence] (slide 18) Figure adapted from Zhou Z,references_csv
+chodera_iclr2022_mldd.pdf,,Bleiziffer et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 18) as in Bleiziffer et,references_csv
+chodera_iclr2022_mldd.pdf,,"Smith, Isayev, Roitberg.",2017,,http://doi.org/10.1039/c6sc05720a,extracted_from_slides:mentioned,,"[auto-evidence] (slide 33) Smith, Isayev, Roitberg. Chemical Science 8:3192, 2017.",references_csv
+chodera_iclr2022_mldd.pdf,,,,2201.08110,https://arxiv.org/abs/2201.08110,extracted_from_slides:mentioned,,[auto-evidence] (slide 39) paper: https://arxiv.org/abs/2201.08110,references_csv
+chodera_iclr2022_mldd.pdf,,Unke and Meuwly,,,https://doi.org/10.1021/acs.jctc.9b00181,extracted_from_slides:mentioned,,"[auto-evidence] (slide 47) Unke and Meuwly
+https://doi.org/10.1021/acs.jctc.9b00181",references_csv
+chodera_iclr2022_mldd.pdf,,"Ko, Finkler, Goedecker, and Behler",,,https://doi.org/10.1038/s41467-020-20427-2,extracted_from_slides:mentioned,,"[auto-evidence] (slide 47) Ko, Finkler, Goedecker, and Behler
+https://doi.org/10.1038/s41467-020-20427-2",references_csv
+chodera_iclr2022_mldd.pdf,,,2008,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) Nature Biotech 26:127, 2008",references_csv
+chodera_iclr2022_mldd.pdf,,Shao et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 50) Shao et al., J Med Chem 56(3), 640–659",references_csv

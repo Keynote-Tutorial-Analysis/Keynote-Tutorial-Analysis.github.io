@@ -1,0 +1,7 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+imw2022_malisiewicz.pdf,SuperPoint: Self-Supervised Interest Point Detection and Description,"DeTone, D., Malisiewicz, T., Rabinovich, A.",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 6) DeTone, D., Malisiewicz, T., Rabinovich, A. SuperPoint: Self-Supervised Interest Point Detection and Description.
+In CVPR Deep Learning for Visual SLAM Workshop, 2018.",references_csv
+imw2022_malisiewicz.pdf,SuperGlue: Learning Feature Matching with Graph Neural Networks,"Sarlin, P.E., DeTone, D., Malisiewicz, T., Rabinovich, A.",2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 21) Sarlin, P.E., DeTone, D., Malisiewicz, T., Rabinovich, A. SuperGlue: Learning Feature Matching with Graph Neural
+Networks. In CVPR, 2020.",references_csv
+imw2022_malisiewicz.pdf,Toward Geometric DeepSLAM,"DeTone, D., Malisiewicz, T., Rabinovich, A.",2017,1707.07410,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) DeTone, D., Malisiewicz, T., Rabinovich, A. Toward Geometric DeepSLAM. In arXiv:1707.07410. July, 2017.",references_csv
+imw2022_malisiewicz.pdf,,Cadena et al,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Photo Credit: Cadena et al 2016,references_csv

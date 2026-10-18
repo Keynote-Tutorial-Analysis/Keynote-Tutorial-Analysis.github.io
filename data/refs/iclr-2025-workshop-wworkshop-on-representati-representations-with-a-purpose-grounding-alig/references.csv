@@ -1,0 +1,33 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+wkd_schrimpf_iclr2025.pdf,,Schrimpf et al.,2020,,,extracted_from_slides:central,,[auto-evidence] (slide 9) Schrimpf et al. (Neuron 2020),references_csv
+wkd_schrimpf_iclr2025.pdf,,"Rajalingham*, Issa*, et al.",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 13) Rajalingham*, Issa*, et al. (JNeuro 2018)",references_csv
+wkd_schrimpf_iclr2025.pdf,,"Schrimpf*, Kubilius*, et al.",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 25) Schrimpf*, Kubilius*, et al. 2018",references_csv
+wkd_schrimpf_iclr2025.pdf,,"Yamins*, Hong*, et al.",2014,,,extracted_from_slides:central,,"[auto-evidence] (slide 26) cf. Yamins*, Hong*, et al. 2014",references_csv
+wkd_schrimpf_iclr2025.pdf,,Schrimpf et al.,2021,,,extracted_from_slides:central,,[auto-evidence] (slide 28) Schrimpf et al. (PNAS 2021),references_csv
+wkd_schrimpf_iclr2025.pdf,,Gokce & Schrimpf,2024,,,extracted_from_slides:central,,[auto-evidence] (slide 38) Gokce & Schrimpf 2024,references_csv
+wkd_schrimpf_iclr2025.pdf,,Rathi & Mehrer et al.,2024,,,extracted_from_slides:central,,[auto-evidence] (slide 41) Rathi & Mehrer et al. 2024,references_csv
+wkd_schrimpf_iclr2025.pdf,,"Bashivan*, Kar*, et al.",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 46) Bashivan*, Kar*, et al. (Science 2019)",references_csv
+wkd_schrimpf_iclr2025.pdf,,Schrimpf et al.,2024,,,extracted_from_slides:central,,[auto-evidence] (slide 51) Schrimpf et al. 2024,references_csv
+wkd_schrimpf_iclr2025.pdf,,"Kubilius*, Schrimpf*, et al.",2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Kubilius*, Schrimpf*, et al. 2019",references_csv
+wkd_schrimpf_iclr2025.pdf,,Aw et al.,2024,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 29) Aw et al. (COLM 2024),references_csv
+wkd_schrimpf_iclr2025.pdf,,AlKhamissi et al.,2024,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) AlKhamissi et al. 2024,references_csv
+wkd_schrimpf_iclr2025.pdf,,"Kell*, Yamins*, et al.",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) Kell*, Yamins*, et al. (2018)",references_csv
+wkd_schrimpf_iclr2025.pdf,,Cacheteux et al.,2022,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 31) Cacheteux et al. (2022),references_csv
+wkd_schrimpf_iclr2025.pdf,,Vargas et al.,2023,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 31) Vargas et al. (2023),references_csv
+wkd_schrimpf_iclr2025.pdf,,"Linsley*, Rodriguez*, et al.",2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) Linsley*, Rodriguez*, et al. 2023",references_csv
+wkd_schrimpf_iclr2025.pdf,,Kaplan & McCandlish et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 36) Kaplan & McCandlish et al. 2020,references_csv
+wkd_schrimpf_iclr2025.pdf,,Lonnqvist et al.,2025,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 37) Lonnqvist et al. 2025,references_csv
+wkd_schrimpf_iclr2025.pdf,,Muttenthaler et al.,2023,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 37) see also Muttenthaler et al. 2023,references_csv
+wkd_schrimpf_iclr2025.pdf,,"Dapello*, Marques*, et al.",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 40) Dapello*, Marques*, et al. (NeurIPS 2020 Spotlight)",references_csv
+wkd_schrimpf_iclr2025.pdf,,"Dapello*, Kar*, et al.",2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 40) Dapello*, Kar*, et al. (ICLR 2023 Oral)",references_csv
+wkd_schrimpf_iclr2025.pdf,,"Geiger*, Schrimpf*, et al.",2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 40) Geiger*, Schrimpf*, et al. (ICLR 2022 Spotlight)",references_csv
+wkd_schrimpf_iclr2025.pdf,,Zhuang et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 40) Zhuang et al. (PNAS 2021),references_csv
+wkd_schrimpf_iclr2025.pdf,,I Gusti Bagus et al.,2023,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 40) I Gusti Bagus et al.(SVRHM 2023),references_csv
+wkd_schrimpf_iclr2025.pdf,,Margalit et al.,2023,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 41) See also Margalit et al. 2023,references_csv
+wkd_schrimpf_iclr2025.pdf,,Margalit et al.,2024,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 50) Margalit et al. 2024,references_csv
+wkd_schrimpf_iclr2025.pdf,,Tuckute et al.,2023,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 46) Tuckute et al. (Nature Human Behavior 2023),references_csv
+wkd_schrimpf_iclr2025.pdf,,Chen et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 47) Chen et al. 2020,references_csv
+wkd_schrimpf_iclr2025.pdf,,Beauchamp et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 47) Beauchamp et al. 2020,references_csv
+wkd_schrimpf_iclr2025.pdf,,Fernández et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 47) Fernández et al. 2021,references_csv
+wkd_schrimpf_iclr2025.pdf,,Lee et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) Lee et al. 2020,",references_csv
+wkd_schrimpf_iclr2025.pdf,,Afraz et al.,2006,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 54) (Afraz et al. 2006),references_csv

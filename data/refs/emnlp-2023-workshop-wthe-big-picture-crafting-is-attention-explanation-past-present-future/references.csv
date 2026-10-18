@@ -1,0 +1,44 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Attention is not Explanation,"Jain, S., & Wallace, B.C.",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 15) Jain, S., & Wallace, B.C. (2019). Attention is not Explanation. NAACL-HLT.",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Attention is not not Explanation,"Wiegreffe, S., & Pinter, Y.",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 30) Wiegreffe, S.*, & Pinter, Y.* (2019). Attention is not not Explanation. EMNLP.",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,"Mullenbach, Wiegreffe, Duke, Sun, and Eisenstein",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Mullenbach, Wiegreﬀe, Duke, Sun, and Eisenstein. NAACL 2018.",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Serrano & Smith,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 28) Concurrent Relevant Work: Serrano & Smith,references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Ehsan et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Rationale generation (Ehsan et al. 2019,",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Riedl,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Rationale generation (Ehsan et al. 2019,
+Riedl 2019)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Lipton,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) Goal: understanding how models
+make predictions (Lipton 2016, Rudin 2018)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Rudin,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) make predictions (Lipton 2016, Rudin 2018)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Is Attention Explanation? An Introduction to the Debate,,2022,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 70) Checkout survey Is Attention Explanation? An Introduction to the Debate (2022),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Grimsley et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) (Grimsley et al. 2020, Sun & Lu 2020)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Vashishth et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) (Vashishth et al. 2019, Pruthi et al. 2020)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Jacovi & Goldberg,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) How to evaluate faithfulness?
+(Jacovi & Goldberg 2020)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Mohankumar et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) How to improve faithfulness?
+(Mohankumar et al. 2020, Tutek &
+Snajder 2020)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,,Tutek & Snajder,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) (Mohankumar et al. 2020, Tutek &
+Snajder 2020)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,On Identiﬁability in Transformers,Brunner et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 80) On Identiﬁability in Transformers (Brunner et al. 2020),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Learning to Deceive with Attention-Based Explanations,Pruthi et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 80) Learning to Deceive with Attention-Based Explanations (Pruthi et al. 2020),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Effective Attention Sheds Light On Interpretability,Sun & Marasović,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 81) Effective Attention Sheds Light On Interpretability (Sun & Marasović 2021),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Quantifying Attention Flow in Transformers,Abnar & Zuidema,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 81) Quantifying Attention Flow in Transformers (Abnar & Zuidema 2020),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Attention Flows are Shapley Value Explanations,Ethayarajh & Jurafsky,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 81) Attention Flows are Shapley Value Explanations (Ethayarajh & Jurafsky
+2021)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,"Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned",Voita et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 82) Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy
+Lifting, the Rest Can Be Pruned (Voita et al. 2019)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Are Sixteen Heads Really Better than One?,Michel et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 82) Are Sixteen Heads Really Better than One? (Michel et al. 2019),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Revealing the Dark Secrets of BERT,Kovaleva et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 82) Revealing the Dark Secrets of BERT (Kovaleva et al. 2019),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Self-Attention Attribution: Interpreting Information Interactions Inside Transformer,Hao et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 82) Self-Attention Attribution: Interpreting Information Interactions Inside
+Transformer (Hao et al. 2021)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Analyzing the Structure of Attention in a Transformer Language Model,Vig & Belinkov,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 83) Analyzing the Structure of Attention in a Transformer Language Model (Vig
+& Belinkov 2019)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,What Does BERT Look At? An Analysis of BERT's Attention,Clark et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 83) What Does BERT Look At? An Analysis of BERT's Attention (Clark et al.
+2019)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Attention is Not Only a Weight: Analyzing Transformers with Vector Norms,Kobayashi et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 83) Attention is Not Only a Weight: Analyzing Transformers with Vector Norms
+(Kobayashi et al. 2020)",references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,A Mathematical Framework for Transformer Circuits,Elhage et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 84) A Mathematical Framework for Transformer Circuits (Elhage et al. 2021),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,In-context Learning and Induction Heads,Olsson et al.,2022,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 84) In-context Learning and Induction Heads (Olsson et al. 2022),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Locating and editing factual associations in GPT,Meng et al.,2022,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 84) Locating and editing factual associations in GPT (Meng et al. 2022),references_csv
+emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf,Attention Satisﬁes: A Constraint-Satisfaction Lens on Factual Errors of Language Models,Yuksekgonul et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 85) Attention Satisﬁes: A Constraint-Satisfaction Lens on Factual Errors of
+Language Models (Yuksekgonul et al. 2023)",references_csv

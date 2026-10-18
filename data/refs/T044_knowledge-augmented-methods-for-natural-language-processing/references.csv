@@ -1,0 +1,294 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+PART3_Knowledge_NLG.pdf,A survey of knowledge-enhanced text generation,"W Yu, C Zhu, Z Li, Z Hu, Q Wang, H Ji",2022,,,ai_reference_eval:central,,"[ai-ref] (slides 2,16; A survey of knowledge-enhanced text generation (W Yu ... ACM CSUR 2022)) A survey of knowledge-enhanced text generation. In ACM Computing Survey",ai_reference_eval
+PART3_Knowledge_NLG.pdf,"Knowledge-enriched Text Generation Survey, Tutorial and Reading",,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 2; Knowledge-enriched Text Generation Survey, Tutorial and Reading (GitHub KENLG-Reading)) github.com/wyu97/KENLG-Reading",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,17,19,41; T5 (Google logo); well-known) Google logo with T5; Examples include BART, T5, GPT-2/GPT-3, UniLM",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,17,23,41; BART (facebook logo); well-known) facebook BART",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,14,17,19; GPT-2, GPT-3 (OpenAI logo); well-known) OpenAI GPT-2, GPT-3",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,17; UniLM, Turing-NLG (Microsoft logo)) Microsoft UniLM, Turing-NLG",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 5; Megatron LM (NVIDIA logo)) NVIDIA Megatron LM,ai_reference_eval
+PART3_Knowledge_NLG.pdf,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,"Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7,8,14,24,25,26; BERT paper (Semantic Scholar screenshot: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al., NAACL 2019); well-known) Input: BERT paper full text; TLDR from semantic scholar",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9,15,16; Wikipedia / Wiktionary / Wikidata knowledge sources) Wikipedia, Wiktionary, Wikidata logos on Hawaiian Kingdom example",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 10; ROCStories (story generation dataset)) (ROCStories) Input: ... (ROCStories) Output:,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 10,11,15,16,30; ConceptNet (sub-KG on ConceptNet); well-known) A sub-KG on ConceptNet",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Question and Answer Test-Train Overlap in Open-Domain QA Datasets,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 13; [1] Question and Answer Test-Train Overlap in Open-Domain QA Datasets. EACL 2021 (table of overlap)) [1] Question and Answer Test-Train Overlap in Open-Domain QA Datasets. EACL 2021.,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14,19; GPT-3, T5-11B, GLaM-1.2T (expensive to train)) They are often expensive to train (e.g., GPT-3, T5-11B, GLaM-1.2T)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14,19; GLaM-1.2T (Close-book SoTA)) Close-book SoTA GLaM-1.2T",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 15,16; DBpedia, YAGO, Freebase, AMiner, OpenMind (OMCS), UMLS, ARC knowledge resources) logos: DBpedia, yago, Freebase, AMiner, OPEN MIND Common Sense, UMLS, ARC",ai_reference_eval
+PART3_Knowledge_NLG.pdf,A Survey of Knowledge-Intensive Natural Language Processing,Yin et al.,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 16; A Survey of Knowledge-Intensive Natural Language Processing (Yin et al., on arXiv 2022)) A Survey of Knowledge-Intensive Natural Language Processing (Yin et al., on arXiv 2022)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 17,20; KG-BART [AAAI 2021]) KG-BART [AAAI 2021]",ai_reference_eval
+PART3_Knowledge_NLG.pdf,JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 17,20,21,22,23; JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. ACL'21) JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs. ACL'21",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 19; Open-book SoTA chart/table (RAG, KG-FiD, Unik-QA, UDT-QA, PE-3hop, UnikQA-990M, KGFiD-994M, UDTQA-990M)) UnikQA-990M, KGFiD-994M, UDTQA-990M; chart labels RAG, KG-FiD, UDT-QA, PE-3hop",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Language Generation with Multi-Hop Reasoning on Commonsense KG,,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 20,30,31,32,33; GRF [EMNLP 2020] / Language Generation with Multi-Hop Reasoning on Commonsense KG, In EMNLP'20) Language Generation with Multi-Hop Reasoning on Commonsense KG, In EMNLP'20",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Diversifying Content Generation with Mixture of Knowledge Graph Experts,,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 20,34,35,36,37,38; KGMoE / MoKGE: Diversifying Content Generation with Mixture of Knowledge Graph Experts. ACL'22) Diversifying Content Generation with Mixture of Knowledge Graph Experts. ACL'22",ai_reference_eval
+PART3_Knowledge_NLG.pdf,REALM: Retrieval-Augmented Language Model Pre-Training,,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 20,24,25,26,27,28,29,43; REALM: Retrieval-Augmented Language Model Pre-Training. ICML'20) REALM: Retrieval-Augmented Language Model Pre-Training. ICML'20",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 20,39,40,41,42,43; RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Neurips'20; well-known) Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Neurips'20",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 20,42,43; FiD / Leveraging Passage Retrieval with Generative Models for ODQA. In EACL'21) Leveraging Passage Retrieval with Generative Models for ODQA. In EACL'21",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 20; Re-T5 [ACL 2021]) Re-T5 [ACL 2021],ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 23; KGPT / SOTA-NPT baselines (JointGT result table)) SOTA-NPT, KGPT 177M rows (with footnote marks)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 23; WebNLG / WebQuestions / PathQuestions datasets) Results on three text generation tasks, including WebNLG, WebQuestions and PathQuestions",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Roberts et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 29; Closed-book T5 (base/large/11b) (Roberts et al., 2020)) T5 (11b) (Roberts et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Min et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 29,43; HardEM (Min et al., 2019a)) HardEM (Min et al., 2019a)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Min et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 29,43; GraphRetriever (Min et al., 2019b)) GraphRetriever (Min et al., 2019b)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Asai et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 29,43; PathRetriever (Asai et al., 2019)) PathRetriever (Asai et al., 2019)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 29,41; Open QA benchmarks NQ / WebQuestions / CuratedTrec (REALM table); well-known) NQ, WQ, CT columns",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 30,32; alpha-NLG / abductive NLG dataset; EG (explanation generation) dataset) Dataset: alpha-NLG, EG",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 31; R-GCN encoder (GRF)) Encoder: R-GCN,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Bhagavatula et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 32; COMeT-Txt-GPT2 / COMeT-Emb-GPT2 (Bhagavatula et al. (2020))) we use the generation results from Bhagavatula et al. (2020),ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 32,33; GPT2-FT / GPT2-OMCS-FT baselines) GPT2-FT, GPT2-OMCS-FT",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 33,37; ComVE (commonsense validation and explanation)) Case study on Explanation Generation (ComVE)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37,38; CVAE / Truncated sampling / Nucleus sampling baselines) CVAE, Truncated sampling, Nucleus sampling",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 41; Trivial QA, MS-MARCO datasets; FEVER (MS-MARCO SotA [4], FEVER-3 [68], FEVER-2 [57])) MS-MARCO SotA is [4], FEVER-3 is [68] and FEVER-2 is [57]",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 41; T5-11B [52], T5-11B+SSM [52] (closed book)) Closed Book T5-11B [52]",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 41; REALM [20]) REALM [20],ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 41,43; DPR [26]) DPR [26]",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 42; The figure is from FiD [1] paper) The figure is from FiD [1] paper,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Chen et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; DrQA (Chen et al., 2017)) DrQA (Chen et al., 2017)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Wang et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; Multi-Passage BERT (Wang et al., 2019)) Multi-Passage BERT (Wang et al., 2019)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Asai et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; Path Retriever (Asai et al., 2020)) Path Retriever (Asai et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Lee et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; ORQA (Lee et al., 2019)) ORQA (Lee et al., 2019)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Guu et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; REALM (Guu et al., 2020)) REALM (Guu et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Karpukhin et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43,53,54; DPR (Karpukhin et al., 2020); well-known) DPR (Karpukhin et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Min et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; SpanSeqGen (Min et al., 2020)) SpanSeqGen (Min et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Lewis et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 43; RAG (Lewis et al., 2020)) RAG (Lewis et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain QA,,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 46,50,51; Unik-QA NAACL 2022) UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain QA. -- NAACL 2022",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Open Domain Question Answering with A Unified Knowledge Interface,,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 46,52,53,54; UDT-QA ACL 2022 / Open Domain Question Answering with A Unified Knowledge Interface) Open Domain Question Answering with A Unified Knowledge Interface -- ACL 2022",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47,50,51,52,55,59,60; NQ (Natural Questions); well-known) open-domain QA datasets (e.g., NQ, TriviaQA, WebQ)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47,48,50,52,60; TriviaQA; well-known) (TriviaQA) Miami Beach in Florida borders which ocean?",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,50,52,54; WebQ (WebQuestions); well-known) WebQ - three most popular open-domain QA benchmarks",ai_reference_eval
+PART3_Knowledge_NLG.pdf,The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; [1] The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus. arXiv 12/18/2021. Meta AI.) [1] The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus. arXiv on 12/18/2021. Meta AI.,ai_reference_eval
+PART3_Knowledge_NLG.pdf,Internet-augmented language models for open-domain question answering,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; [2] Internet-augmented language models for open-domain question answering. arXiv 03/10/2022. Google Research.) [2] Internet-augmented language models for open-domain question answering. arXiv on 03/10/2022,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; HotpotQA) table column HotpotQA,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 48,49,50,51; Wikipedia / Wikitable / Wikidata / Wiktionary / Freebase as knowledge sources; well-known) Wikipedia, Wiktionary, Wikidata logos; Freebase & Wikidata",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 51,52,59,60; Fusion-in-decoder (FiD) reader; well-known) Fusion-in-decoder Reader; SoTA on NQ and TriviaQA is FiD",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 52; PE3Hop (SoTA on WebQA)) SoTA on WebQA is PE3Hop,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; Retrieval-free baseline / SoTA superscripts 1,3,4 (table from UniK-QA paper)) Table: Exact match results on the test set; superscripts 1,3,4",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Cheng et al.,2021b,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 53,54; UnitedQA (Cheng et al., 2021b)) UnitedQA (Cheng et al., 2021b)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Agarwal et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 54; KEALM (Agarwal et al., 2021)) KEALM (Agarwal et al., 2021)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Oguz et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 54; UnitK-QA (Oguz et al., 2020)) UnitK-QA (Oguz et al., 2020)",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 54; DART (data-to-text dataset)) The verbalizer is trained on DART, which is a data-to-text dataset",ai_reference_eval
+PART3_Knowledge_NLG.pdf,"Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization",Cao et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 55; Cao et al., ACL 2018 / [1] Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization) [1] Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization. ACL 2018",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Retrieval Augmentation Reduces Hallucination in Conversation,Shuster et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 55,56; Shuster et al., EMNLP 2021 / [2] Retrieval Augmentation Reduces Hallucination in Conversation) [2] Retrieval Augmentation Reduces Hallucination in Conversation. EMNLP 2021.",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 55,56; BART-large; well-known) 68% of generated responses from BART-large contain hallucination",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 55; GPT3 hallucination examples (#1, #2); well-known) #1 Hallucination in GPT3; #2 Hallucination in GPT3",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 56; RAG-Token / FiD-RAG DPR (table rows, from Shuster et al.)) RAG-Token; FiD-RAG DPR",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,2021,,,ai_reference_eval:central,,[ai-ref] (slides 57; Use Graph-enhanced NLG model for Taxonomy Construction - KDD'21) Use Graph-enhanced NLG model for Taxonomy Construction - KDD'21,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,2021,,,ai_reference_eval:central,,[ai-ref] (slides 58; Use Graph-enhanced NLG for Document-level Event Extraction - NAACL'21) Use Graph-enhanced NLG for Document-level Event Extraction- NAACL'21,ai_reference_eval
+PART3_Knowledge_NLG.pdf,KG-FiD: Infusing Knowledge Graph in FiD for Open-Domain QA,,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 59,60; KG-FiD: Infusing Knowledge Graph in FiD for Open-Domain QA. -- ACL 2022) KG-FiD: Infusing Knowledge Graph in FiD for Open-Domain QA. -- ACL 2022",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 60; Table 3 baselines: T5, GPT-3 (few-shot), RIDER, RECONSIDER, Graph-Retriever, Path-Retriever, KAQA, UniK-QA, REALM, RAG, Joint Top-K) Model rows: RIDER, RECONSIDER, Graph-Retriever, Path-Retriever, KAQA, REALM, RAG, Joint Top-K",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 60; T5; well-known) T5 11B 36.6,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 60; GPT-3 (few-shot); well-known) GPT-3 (few-shot) 175B 29.9,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 60; REALM; well-known) REALM 330M 40.4,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 60; RAG; well-known) RAG 626M 44.5,ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Shen et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 61; [1] Shen et al., Mixture Models for ..., ICML 2019) [1] Shen et al., Mixture Models for ..., ICML 2019",ai_reference_eval
+PART3_Knowledge_NLG.pdf,,Yu et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 61; [2] Yu et al., Sentence-Permuted ..., In EMNLP 2020) [2] Yu et al., Sentence-Permuted ... , In EMNLP 2020",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Diversifying Content Generation for Commonsense Reasoning,Yu et al.,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 61,62; [3] Yu et al., Diversifying Content Generation for Commonsense Reasoning. ACL 2022) Yu et al., Diversifying Content Generation for Commonsense Reasoning. ACL 2022",ai_reference_eval
+PART3_Knowledge_NLG.pdf,Explanations for CommonsenseQA: New Dataset and Models,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 63; [1] Explanations for CommonsenseQA: New Dataset and Models. AKBC 2021.) [1] Explanations for CommonsenseQA: New Dataset and Models. AKBC 2021.,ai_reference_eval
+PART4_Knowledge_CR.pdf,,Kiela et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 2; Credit: Kiela et al., 2021) (Credit: Kiela et al., 2021) benchmark saturation chart",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 2,5,7,8,11,16,18,21,23; BERT; well-known) (1) BERT; Masked LMs (e.g., BERT)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,7,11; GPT-x; well-known) (2) GPT-x",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Lewis et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,7,11,13,44,45; BART (Lewis et al., 2019); well-known) BART (Lewis et al., 2019)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Raffel et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,7,10,11,13,44,45; T5 (Raffel et al., 2019); well-known) T5-Base/T5-Large (Raffel et al., 2019)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,7,11; (uncredited figure) BERT/GPT/BART encoder-decoder diagrams) Bidirectional Encoder / Autoregressive Decoder diagram lifted from BART paper, no credit",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Petroni et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; LAMA (Petroni et al. 2019); well-known) LAMA (Petroni et al. 2019),ai_reference_eval
+PART4_Knowledge_CR.pdf,,Lin et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; NumerSense (Lin et al. 2020)) NumerSense (Lin et al. 2020),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; AllenNLP (demo)) (demo w/ AllenNLP),ai_reference_eval
+PART4_Knowledge_CR.pdf,,Trinh & Le,2018,,,ai_reference_eval:mentioned,,[ai-ref] (slides 9; Trinh & Le (2018) RNN-based LMs on WSC-237) Trinh & Le (2018); RNN-based LMs on WSC-237 acc: 63.7%,ai_reference_eval
+PART4_Knowledge_CR.pdf,,Khashabi et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 10,12; UNIFIED-QA (Khashabi et al. 2020)) UNIFIED-QA A T5-based multi-task LM for QA (Khashabi et al. 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Talmor et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 12,26,41,45; CommonsenseQA (Talmor et al. 2019); well-known) CommonsenseQA (Talmor et al. 2019)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Sap et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; Social IQA (Sap et al. 2019)) Social IQA (Sap et al. 2019),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; COPA) Causal COPA,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; PIQA) Physical PIQA,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; WinoGrande; well-known) General CommonsenseQA WinoGrande,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; MC-TACO) Temporal MC-TACO,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 13,27,30,31,32,33,34,35,36,37,38,39; OpenCSR / DrFact (NAACL 2021)) OpenCSR (NAACL 2021); DrFact (NAACL 2021)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 13,40,41,42,43,44,45,51; CommonGen (EMNLP 2020)) CommonGen (EMNLP 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 13; GPT2 (CommonGen baseline output); well-known) GPT2: A dog throws a frisbee at a football player.,ai_reference_eval
+PART4_Knowledge_CR.pdf,,Dong et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 13,44,45,47; UniLM; well-known) UniLM (Dong et al., 2019)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 14,15,16,17,18,28; ConceptNet; well-known) ConceptNet logo / knowledge graph",ai_reference_eval
+PART4_Knowledge_CR.pdf,KagNet: Knowledge-Aware Graph Neural Networks,Lin et al.,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 14,18,19,20,21,22,24,26; KagNet (EMNLP 2019; Lin et al., 2019)) KagNet: Knowledge-Aware Graph Neural Networks",ai_reference_eval
+PART4_Knowledge_CR.pdf,Multi-Hop Graph Relation Nets,Feng et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 14,23,24,26; MHGRN (EMNLP 2020; Feng et al., 2020)) MHGRN (EMNLP 20); Multi-Hop Graph Relation Nets",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 14,25,26,51; QA-GNN (NAACL 2021)) QA-GNN (NAACL 2021)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14,51; GreaseLM (ICLR 2022)) GreaseLM (ICLR 2022)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14,51; GSC (ICLR 2022)) GSC (ICLR 2022)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; GPT-Finetuning / GPT (fine-tuned); well-known) GPT-Finetuning 45.5,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; BIDAF++) BIDAF++ 32,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; QACOMPARE+GLOVE / QABILINEAR+GLOVE) QACOMPARE+GLOVE 25.7; QABILINEAR+GLOVE 31.5,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; ESIM (+ELMo / +GloVe)) ESIM+ELMO 32.8; ESIM+GLOVE 34.1,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; ELMo; well-known) ESIM+ELMO,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; GloVe; well-known) ESIM+GLOVE,ai_reference_eval
+PART4_Knowledge_CR.pdf,,Schlichtkrull et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 24,26; Relational GNN (e.g., R-GCN) / RGCN (Schlichtkrull et al., 2018); well-known) + RGCN (Schlichtkrull et al., 2018)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 26,45; RoBERTa-large; well-known) RoBERTa-large (w/o KG)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Wang et al.,2019a,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 26; GconAttn (Wang et al., 2019a)) + GconAttn (Wang et al., 2019a)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Santoro et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 26; RN (Santoro et al., 2017)) + RN (Santoro et al., 2017)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Lin et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 26; Lin et al. (2019) data split) following the data split of Lin et al. (2019),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28,32; GenericsKB) Unstructured Commonsense Knowledge Base (e.g., GenericsKB)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 31; HotpotQA; well-known) A multi-hop, factoid question from HotpotQA",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35,37,38; BM25 (off-the-shelf); well-known) BM25 (off-the-shelf)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35,37,38; DPR (EMNLP 2020); well-known) DPR (EMNLP 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35,37,38; DrKIT (ICLR 2020)) DrKIT (ICLR 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36,38; ARC) Reformatted 3 Multiple-Choice QA Datasets (ARC, OBQA, QASC)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36,38; OBQA) (ARC, OBQA, QASC)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36,38; QASC) (ARC, OBQA, QASC)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 40,47,48,51; KG-BART (AAAI 2021)) KG-BART (AAAI 2021)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 40; KGR^4 (AAAI2022)) KGR^4 (AAAI2022),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 40; I&V (ICLR 2022)) I&V (ICLR 2022),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 41; SWAG) CommonsenseQA, SWAG.",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Gu et al.,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44,45; bRNN-CopyNet (Gu et al., 2016)) bRNN-CopyNet (Gu et al., 2016)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44,45; Trans-CopyNet / MeanPooling-CopyNet) Trans-CopyNet; MeanPooling-CopyNet",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Gu et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44; LevenTrans. (Gu et al., 2019)) LevenTrans. (Gu et al., 2019)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Susanto et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44,45; ConstLeven (Susanto et al., 2020)) ConstLeven (Susanto et al., 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Radford et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44,45; GPT-2 (Radford et al., 2019); well-known) GPT-2 (Radford et al., 2019)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Bao et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44,45; BERT-Gen (Bao et al., 2020)) BERT-Gen (Bao et al., 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Bao et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 44; UniLM-v2 (Bao et al., 2020)) UniLM-v2 (Bao et al., 2020)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 46,49,51; KGR^4 (AAAI 2022)) KGR^4 (AAAI 2022)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2022,,,ai_reference_eval:central,,"[ai-ref] (slides 46,50,51; Imagine & Verbalize (ICLR 2022)) Imagine & Verbalize (ICLR 2022)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,MSRA and Microsoft Ads,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46; KFCNet (MSRA and Microsoft Ads, EMNLP'21)) KFCNet ... Paper (EMNLP'21)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,MSRA and Microsoft Ads,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46; KFC (v1) (MSRA and Microsoft Ads, EMNLP'21)) KFC (v1) ... Paper (EMNLP'21)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Anonymous,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46; R^3-BART (Anonymous, under review)) R^3-BART Anonymous (under review)",ai_reference_eval
+PART4_Knowledge_CR.pdf,,Anonymous,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46; WittGEN + T5-large (Anonymous, under review)) WittGEN + T5-large",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47; T5; well-known) [T5]: Fish are caught in a net in the river",ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; GPT-2; well-known) [GPT-2]: A fish is catching in a net,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; BART; well-known) [BART]: A man catches a fish with a net,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 48; TransE; well-known) TransE box in KG-BART architecture,ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 51; KagNet (EMNLP 2019)) KagNet (EMNLP 2019),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 51; MHGRN (EMNLP 2020)) MHGRN (EMNLP 2020),ai_reference_eval
+PART4_Knowledge_CR.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 51; DrFact (NAACL 2021)) DrFact (NAACL 2021),ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 7; Diagram from medium.com/analytics-vidhya/openai-gpt-3-language-models-are-few-shot-learners) Diagram from https://medium.com/analytics-vidhya/openai-gpt-3-language-models-are-few-shot-learners-82531b3d3122,ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7,11; GPT-3; well-known) GPT-3 bar 175,000; 'Large language models, e.g., GPT-3' with OpenAI GPT-3 image",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; BERT-BASE / BERT-LARGE; well-known) chart labels BERT-BASE 110, BERT-LARGE 340",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; ALBERT-BASE / ALBERT-LARGE) chart labels ALBERT-BASE 12, ALBERT-LARGE 18",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 7; DistilBERT) chart label DistilBERT 66,ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; XLNet-BASE / XLNet-LARGE) chart labels XLNet-BASE 110, XLNET-LARGE 340",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; RoBERTa-BASE / RoBERTa-LARGE; well-known) chart labels RoBERTa-BASE 125, RoBERTa-LARGE 355",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; GPT-2; well-known) chart label GPT-2 1,500",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; T5; well-known) chart label T5 11,000",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; Turing-NLG) chart label Turing-NLG 17,000",ai_reference_eval
+PART1_Introduction.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 13; (uncredited figure: graph attention aggregation diagram)) Graph embeddings figure with h1..h6, alpha weights, concat/avg (GAT-style)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 3,9; Wikipedia (logo); well-known) WIKIPEDIA logo: Unstructured Documents",ai_reference_eval
+PART2_Knowledge_NLU.pdf,A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models,"Yin, Da, et al.",2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4,18,19,20; Yin, Da, et al. ""A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models"" Spa-NLP workshop @ ACL 2022) Yin, Da, et al. ""A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models.""; later 'From Yin et al., 2022'",ai_reference_eval
+PART2_Knowledge_NLU.pdf,Relational World Knowledge Representation in Contextual Language Models: A Review,"Safavi, Tara, and Danai Koutra",2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; Safavi, Tara, and Danai Koutra. ""Relational World Knowledge Representation in Contextual Language Models: A Review"" EMNLP 2021) Safavi, Tara, and Danai Koutra. ""Relational World Knowledge Representation in Contextual Language Models: A Review."" EMNLP 2021.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Kwiatkowski et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 6; NaturalQuestions (Kwiatkowski et al., 2019)) NaturalQuestions (Kwiatkowski et al., 2019)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Talmor et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 6; CommonsenseQA (Talmor et al., 2018)) CommonsenseQA (Talmor et al., 2018)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Guo and Barbosa,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; WNED-WIKI (Guo and Barbosa, 2018)) WNED-WIKI (Guo and Barbosa, 2018)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Berant et al.,2013,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 7; WebQuestions (Berant et al., 2013)) WebQuestions (Berant et al., 2013)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Thorne et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 8; FEVER (Thorne et al., 2018)) FEVER (Thorne et al., 2018)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Dinan et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 8; Wizard of Wikipedia (Dinan et al., 2019)) Wizard of Wikipedia (Dinan et al., 2019)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Levesque,2011,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 8; Winograd challenge (Levesque, 2011)) Winograd challenge (Levesque, 2011)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Zellers et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 8; Hellaswag (Zellers et al., 2019)) Hellaswag (Zellers et al., 2019)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9,13; Wikidata (logo); well-known) WIKIDATA logo: Structured Knowledge Graph",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9,19; Wiktionary (logo)) WIKTIONARY logo: Semi-Structured Dictionary",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 10; Freebase (logo); well-known) Freebase logo under General Knowledge Sources,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 10; DBpedia (logo); well-known) DBpedia logo under General Knowledge Sources,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 10; YAGO (logo); well-known) yago select knowledge logo,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 11; UMLS (Unified Medical Language System) logo; well-known) UMLS Unified Medical Language System logo,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 11; AMiner (logo)) AMiner logo under Domain-Specific Knowledge,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; OpenMind Common Sense (logo)) OPEN MIND Common Sense logo,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 12,19; ConceptNet (logo); well-known) ConceptNet logo",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; TransOMCS) TransOMCS,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; Commonsense Knowledge Graph (CSKG)) Commonsense Knowledge Graph(CSKG),ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; ATOMIC) ATOMIC | Human Interaction,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; ATOMIC 2020) ATOMIC^20_20 | Human Interaction,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; ASER) ASER | Eventuality,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; ARC) ARC | Science,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Yu et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14,22; JAKET (Yu et al., 2020)) String match: JAKET (Yu et al., 2020); JAKET: Use GNN to process part of KG",ai_reference_eval
+PART2_Knowledge_NLU.pdf,ERNIE: Enhanced Language Representation with Informative Entities,"Zhang, Zhengyan, et al.",2019,,,ai_reference_eval:central,,"[ai-ref] (slides 14,17,20,21,22,23,24,25,26,27,34; ERNIE (Zhang et al., 2019)) Zhang, Zhengyan, et al. ""ERNIE: Enhanced Language Representation with Informative Entities."" ACL 2019.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,Entities as Experts: Sparse Memory Access with Entity Supervision,"Févry, Thibault, et al.",2020,,,ai_reference_eval:central,,"[ai-ref] (slides 14,17,20,21,22,23,24,25,26,27,28,29,30,34; Entity-as-Experts (Févry et al., 2020)) Févry, Thibault, et al. ""Entities as Experts: Sparse Memory Access with Entity Supervision."" EMNLP 2020.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Chen et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 15,28; DrQA (Chen et al., 2017)) Sparse feature retrieval (e.g., tf-idf): DrQA (Chen et al., 2017)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,Dense Passage Retrieval for Open-Domain Question Answering,"Karpukhin, Vladimir, et al.",2020,,,ai_reference_eval:central,,"[ai-ref] (slides 15,16,20,21,22,26,27,28,29,33; DPR (Karpukhin et al., 2020); well-known) Karpukhin, Vladimir, et al. ""Dense Passage Retrieval for Open-Domain Question Answering."" EMNLP 2020.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Yao et al.,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 15,17,20,22; KFormer (Yao et al., 2022)) Hybrid retrieval (sparse + dense): KFormer (Yao et al., 2022)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Wang et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 16,17; KEPLER (Wang et al., 2019)) KEPLER (Wang et al., 2019): Integrate entity embedding losses like TransE",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 16,17,23; TransE; well-known) ERNIE (TransE); Compute TransE embeddings from Wikidata",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 16; RoBERTa; well-known) RoBERTa embedding of description <s> token,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 16; ColBERT) ColBERT: Encode every word as a contextual vector for retrieval,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 16,24,26,28,30; BERT; well-known) DPR: Use BERT to encode every passage as a vector",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Qin et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 17; ERICA (Qin et al., 2021)) ERICA (Qin et al., 2021): Contrastive learning on entities and relations",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Agarwal et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 17; KELM (Agarwal et al., 2020)) KELM(Agarwal et al., 2020): Linearize KG to natural sentences",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 17; Salient Span Masking) Salient Span Masking: Mask entities and let the model predict them,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Xiong et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 17; ORQA (Xiong et al., 2020)) ORQA (Xiong et al., 2020): Replace entities with negative samples",ai_reference_eval
+PART2_Knowledge_NLU.pdf,Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention,"Xu, Yichong, et al.",2022,,,ai_reference_eval:central,,"[ai-ref] (slides 18,20,21,24,25; KEAR (Xu et al., 2021)) Xu, Yichong, et al. ""Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention."" IJCAI 2022.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,De Cao et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 18; GENRE (De Cao et al., 2020)) GENRE (De Cao et al., 2020): Train generation on entity linking",ai_reference_eval
+PART2_Knowledge_NLU.pdf,REALM: Retrieval-Augmented Language Model Pre-Training,"Guu, Kelvin, et al.",2020,,,ai_reference_eval:central,,"[ai-ref] (slides 19,20,21,22,28,29,30,31; REALM; well-known) Guu, Kelvin, et al. ""Realm: Retrieval-augmented language model pre-training."" ICML 2020.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,Adaptable and Interpretable Neural Memory Over Symbolic Knowledge,"Verga, Pat, et al.",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 20,21,22,32,33; FILM) Verga, Pat, et al. ""Adaptable and interpretable neural memoryover symbolic knowledge."" ACL 2021.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 21,25; Dict-BERT) Dict-BERT (representative papers list)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,REINA: Training Data is More Valuable than You Think,,,,,ai_reference_eval:central,,"[ai-ref] (slides 21,22,37,43,44,45; REINA) REINA: Training Data is More Valuable than You Think",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Izacard and Grave,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 21,40; FiD (Izacard and Grave, 2021)) DPR & FiD; FiD (Izacard and Grave, 2021) 51.4",ai_reference_eval
+PART2_Knowledge_NLU.pdf,K-BERT: Enabling Language Representation with Knowledge Graph,"Liu, Weijie, et al.",2020,,,ai_reference_eval:central,,"[ai-ref] (slides 22,34,35,36,37; K-BERT) Liu, Weijie, et al. ""K-bert: Enabling language representation with knowledge graph."" AAAI 2020.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,Improving language models by retrieving from trillions of tokens,"Borgeaud, Sebastian, et al.",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 22,37,40; RETRO) Borgeaud, Sebastian, et al. ""Improving language models by retrieving from trillions of tokens."" arXiv 2021.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,WebGPT: Browser-assisted question-answering with human feedback,"Nakano, Reiichiro, et al.",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 22,37,41,42; WebGPT) Nakano, Reiichiro, et al. ""WebGPT: Browser-assisted question-answering with human feedback."" arXiv 2021.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 23; TAGME) Use TAGME to link text to entities,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 24; OpenBookQA, CommonsenseQA, RiddleSense, Rainbow datasets) OpenBookQA CommonsenseQA RiddleSense, Rainbow ...",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 25; Bob Dylan / ERNIE results: FIGER entity typing, FewRel, TACRED, GLUE; well-known) Results on FIGER (Entity Typing); Relation Classification Results; GLUE Results",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 25; KEAR comparison rows: GPT-3, RoBERTa, ALBERT, ELECTRA, DeBERTa, T5, UnifiedQA, BERT+OMCS, KEDGN, MHGRN, HGN, KCR, KD, SFR, DEKCOR) Test set: BERT+OMCS, RoBERTa+KEDGN, ALBERT+HGN, UnifiedQA, ALBERT+KCR, DEKCOR",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 28; BM25; well-known) None BM25 / BM25 + DPR,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Lee et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28,30; BM25+BERT (Lee et al., 2019)) BM25+BERT (Lee et al., 2019)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Lee et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28,30; ORQA (Lee et al., 2019)) ORQA (Lee et al., 2019)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Min et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28,30; HardEM (Min et al., 2019a)) HardEM (Min et al., 2019a)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Min et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28,30; GraphRetriever (Min et al., 2019b)) GraphRetriever (Min et al., 2019b)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Asai et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28,30; PathRetriever (Asai et al., 2020)) PathRetriever (Asai et al., 2020)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Roberts et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 30; T5 (Roberts et al., 2020)) T5 (base) (Roberts et al., 2020)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 31,33,48; LAMA probe; well-known) Results on LAMA probe and Open-domain QA",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 31; EaE result table baselines: BM25+BERT, ORQA, GR, T5, RELIC) BM25+BERT, ORQA, GR, T5-11B+SSM, RELIC",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 31,33; TriviaQA; well-known) TriviaQA Dev / Wiki Test; TriviaQA Full Dataset",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Lewis et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 31,40; RAG (Lewis et al., 2020)) RAG (Lewis et al., 2020) 44.5",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; WebQuestionsSP) WebQuestionsSP Full Dataset,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 33; FILM table baselines: K-Adapter, BERT-KNN, RAG, EmQL, T5-11B, BART-Large) K-Adapter, BERT-KNN, RAG, DPR, FID, EmQL",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; K-BERT result table: CN-DBpedia, HowNet, MedicalKG, Google BERT; XNLI, LCQMC, Weibo datasets) K-BERT (HowNet), K-BERT (CN-DBpedia), K-BERT (MedicalKG)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Sachan et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 40; EMDR2 (Sachan et al., 2021)) EMDR2 (Sachan et al., 2021) 52.5",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,Izacard et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 40; FiD + Distill. (Izacard et al., 2020)) FiD + Distill. (Izacard et al., 2020) 54.7",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 41,42; GPT-3; well-known) Teach a GPT-3 model to use a web browser",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 42; TruthfulQA) Results on TruthfulQA,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 42; ELI5) Results on ELI5,ai_reference_eval
+PART2_Knowledge_NLU.pdf,Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data,"Wang, Shuohang, et al.",2022,,,ai_reference_eval:central,,"[ai-ref] (slides 46,47; Wang, Shuohang, et al. ""Training Data is More Valuable than You Think..."" ACL 2022 (REINA)) Wang, Shuohang, et al. ""Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data."" ACL 2022.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47; Seq2Seq (BART/PEGASUS); well-known) Seq2Seq (BART/PEGASUS)",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47; BART; well-known) Seq2Seq (BART); BART-base / BART-large rows",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47; PEGASUS; well-known) PEGASUS rows in summarization table",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47; Seq2Seq (mBART); well-known) Seq2Seq (mBART); mBART row in WMT16 table",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,47; Encoder (DeBERTa); well-known) Encoder (DeBERTa); DeBERTa rows",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; Earlier SOTA) Earlier SOTA row in summarization table,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; Transformer-XL; well-known) Transformer-XL 18.30 (WikiText103),ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; kNN-LM) kNN-LM 15.79 (WikiText103),ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; GPT-2; well-known) GPT-2 17.48 18.34,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; XLM; well-known) XLM row in WMT16 table,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; CALM) CALM 71.8 82.4 76.9 (test set),ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; UNICORN) UNICORN 79.3 87.3 90.1 (test set),ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; DEKCOR) DEKCOR 83.3 (test set; shown as DEKCOR),ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; BigPatent) BigPatent column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; XSum) XSum column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; WikiHow) WikiHow column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; Multi-News) Multi-News column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; NEWSROOM) NEWSROOM column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; CSQA) CSQA column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; aNLI) aNLI column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; PIQA) PIQA column,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 47; WikiText103 / WikiText2; well-known) WikiText103, WikiText2",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 47; WMT16; well-known) WMT16 en2tr tr2en en2de de2en,ai_reference_eval
+PART2_Knowledge_NLU.pdf,Kformer: Knowledge Injection in Transformer Feed-Forward Layers,"Yao, Yunzhi, et al.",2022,,,ai_reference_eval:central,,"[ai-ref] (slides 48; Yao, Yunzhi, et al. ""Kformer: Knowledge Injection in Transformer Feed-Forward Layers."" arXiv 2022) Yao, Yunzhi, et al. ""Kformer: Knowledge Injection in Transformer Feed-Forward Layers."" arXiv 2022.",ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 48; ElasticSearch; well-known) retrieve top facts using ElasticSearch,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 48; SocialIQA) Improvements on SocialIQA,ai_reference_eval
+PART2_Knowledge_NLU.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 48; MedQA) MedQA,ai_reference_eval
+PART5_Conclusion.pdf,,,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; ERNIE (ACL'19); well-known) ERNIE (ACL'19),ai_reference_eval
+PART5_Conclusion.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; KEAR (IJCAI'22)) KEAR (IJCAI'22),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; EaE (EMNLP'20)) EaE (EMNLP'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; FILM (ACL'21)) FILM (ACL'21),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; K-BERT (AAAI'20); well-known) K-BERT (AAAI'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; DPR (EMNLP'20); well-known) DPR (EMNLP'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; REALM (ICML'20); well-known) REALM (ICML'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; REINA (ACL'22)) REINA (ACL'22),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; RETRO ('21); well-known) RETRO ('21),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 2; WebGPT ('21); well-known) WebGPT ('21),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; GRF (EMNLP'20)) GRF (EMNLP'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2018,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; CCM (IJCAI'18)) CCM (IJCAI'18),ai_reference_eval
+PART5_Conclusion.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; MoKGE (ACL'22)) MoKGE (ACL'22),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; RAG (NeurIPS'20); well-known) RAG (NeurIPS'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; RE-T5 (ACL'21)) RE-T5 (ACL'21),ai_reference_eval
+PART5_Conclusion.pdf,,,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; CMR (ACL'19)) CMR (ACL'19),ai_reference_eval
+PART5_Conclusion.pdf,,,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; KagNet (EMNLP'19)) KagNet (EMNLP'19),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; MHGRN (EMNLP'20)) MHGRN (EMNLP'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; QA-GNN (NAACL'21)) QA-GNN (NAACL'21),ai_reference_eval
+PART5_Conclusion.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; GreaseLM (ICLR'22)) GreaseLM (ICLR'22),ai_reference_eval
+PART5_Conclusion.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; GSC (ICLR'22)) GSC (ICLR'22),ai_reference_eval
+PART5_Conclusion.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; CommonGen (EMNLP'20)) CommonGen (EMNLP'20),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; KFCNet (EMNLP'21)) KFCNet (EMNLP'21),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; KG-BART (AAAI'21)) KG-BART (AAAI'21),ai_reference_eval
+PART5_Conclusion.pdf,,,2022,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; I&V (ICLR'22)) I&V (ICLR'22),ai_reference_eval
+PART5_Conclusion.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 4; DrFact (NAACL'21)) DrFact (NAACL'21),ai_reference_eval

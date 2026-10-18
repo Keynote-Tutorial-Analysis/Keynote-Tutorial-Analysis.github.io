@@ -1,0 +1,39 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+wkc_rieck_icml2022.pdf,Triangulation of the Manifold of Class One,S. S. Cairns,1935,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) S. S. Cairns, ‘Triangulation of the Manifold of Class One’, Bulletin of the American Mathematical
+Society 41.8, 1935, pp. 549–552",references_csv
+wkc_rieck_icml2022.pdf,On C1-Complexes,J. H. C. Whitehead,1940,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) J. H. C. Whitehead, ‘On 𝐶 1 -Complexes’, Annals of Mathematics 41.4, 1940, pp. 809–824",references_csv
+wkc_rieck_icml2022.pdf,Topological persistence and simplification,"H. Edelsbrunner, D. Letscher and A. J. Zomorodian",2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) H. Edelsbrunner, D. Letscher and A. J. Zomorodian, ‘Topological persistence and simplification’, Discrete &
+Computational Geometry 28.4, 2002, pp. 511–533",references_csv
+wkc_rieck_icml2022.pdf,A Distance for Similarity Classes of Submanifolds of a Euclidean Space,P. Frosini,1990,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) P. Frosini, ‘A Distance for Similarity Classes of Submanifolds of a Euclidean Space’, Bulletin of
+the Australian Mathematical Society 42.3, 1990, pp. 407–415",references_csv
+wkc_rieck_icml2022.pdf,The Framed Morse Complex and its Invariants,S. A. Barannikov,1994,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) S. A. Barannikov, ‘The Framed Morse Complex and its Invariants’, Advances in Soviet Mathematics 21, 1994, pp. 93–115",references_csv
+wkc_rieck_icml2022.pdf,Size Functions from a Categorical Viewpoint,"F. Cagliari, M. Ferri and P. Pozzi",2001,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) F. Cagliari, M. Ferri and P. Pozzi, ‘Size Functions from a Categorical Viewpoint’, Acta Applicandae
+Mathematica 67.3, 2001, pp. 225–235",references_csv
+wkc_rieck_icml2022.pdf,Topological Function Optimization for Continuous Shape Matching,"A. Poulenard, P. Skraba and M. Ovsjanikov",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) A. Poulenard, P. Skraba and M. Ovsjanikov, ‘Topological Function Optimization for Continuous Shape Matching’,
+Computer Graphics Forum 37.5, 2018, pp. 13–25",references_csv
+wkc_rieck_icml2022.pdf,Topological Autoencoders,"M. Moor, M. Horn, B. Rieck and K. Borgwardt",2020,1906.00722,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) M. Moor∗ , M. Horn∗ , B. Rieck† and K. Borgwardt† , ‘Topological Autoencoders’, Proceedings of the 37th International
+Conference on Machine Learning (ICML), 2020, pp. 7045–7054, arXiv: 1906.00722 [cs.LG]",references_csv
+wkc_rieck_icml2022.pdf,Optimizing persistent homology based functions,"M. Carrière, F. Chazal, M. Glisse, Y. Ike, H. Kannan and Y. Umeda",2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 43) M. Carrière, F. Chazal, M. Glisse, Y. Ike, H. Kannan and Y. Umeda, ‘Optimizing persistent homology based
+functions’, Proceedings of the 38th International Conference on Machine Learning (ICML), 2021, pp. 1294–1303",references_csv
+wkc_rieck_icml2022.pdf,Persistent Homology Transform for Modeling Shapes and Surfaces,"K. Turner, S. Mukherjee and D. M. Boyer",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 55) K. Turner, S. Mukherjee and D. M. Boyer, ‘Persistent Homology Transform for Modeling Shapes and Surfaces’,
+Information and Inference 3.4, 2014, pp. 310–344",references_csv
+wkc_rieck_icml2022.pdf,Filtration Curves for Graph Representation,"L. O’Bray, B. Rieck and K. Borgwardt",2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 56) L. O’Bray∗ , B. Rieck∗ and K. Borgwardt, ‘Filtration Curves for Graph Representation’, Proceedings of the 27th ACM SIGKDD",references_csv
+wkc_rieck_icml2022.pdf,From Geometry to Topology: Inverse Theorems for Distributed Persistence,"E. Solomon, A. Wagner and P. Bendich",2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 57) E. Solomon, A. Wagner and P. Bendich, ‘From Geometry to Topology: Inverse Theorems for Distributed Persistence’,
+38th International Symposium on Computational Geometry (SoCG 2022)",references_csv
+wkc_rieck_icml2022.pdf,Capturing Shape Information with Multi-Scale Topological Loss Terms for 3D Reconstruction,"D. J. E. Waibel, S. Atwell, M. Meier, C. Marr and B. Rieck",2022,2203.01703,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 58) D. J. E. Waibel, S. Atwell, M. Meier, C. Marr and B. Rieck, ‘Capturing Shape Information with Multi-Scale Topological
+Loss Terms for 3D Reconstruction’, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022, arXiv:
+2203.01703 [cs.CV], in press",references_csv
+wkc_rieck_icml2022.pdf,Deep learning with topological signatures,"C. Hofer, R. Kwitt, M. Niethammer and A. Uhl",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 59) C. Hofer, R. Kwitt, M. Niethammer and A. Uhl, ‘Deep learning with topological signatures’,
+Advances in Neural Information Processing Systems",references_csv
+wkc_rieck_icml2022.pdf,PersLay: A Neural Network Layer for Persistence Diagrams and New Graph Topological Signatures,"M. Carrière, F. Chazal, Y. Ike, T. Lacombe, M. Royer and Y. Umeda",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 59) M. Carrière, F. Chazal, Y. Ike, T. Lacombe, M. Royer and Y. Umeda, ‘PersLay: A Neural Network
+Layer for Persistence Diagrams and New Graph Topological Signatures’",references_csv
+wkc_rieck_icml2022.pdf,PLLay: Efficient Topological Layer based on Persistent Landscapes,"K. Kim, J. Kim, M. Zaheer, J. Kim, F. Chazal and L. Wasserman",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 59) K. Kim, J. Kim, M. Zaheer, J. Kim, F. Chazal and L. Wasserman, ‘PLLay: Efficient Topological
+Layer based on Persistent Landscapes’",references_csv
+wkc_rieck_icml2022.pdf,Embeddings in Manifolds,R. J. Daverman and G. A. Venema,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 63) R. J. Daverman and G. A. Venema, Embeddings in Manifolds, vol. 106, Graduate Studies in Mathematics",references_csv
+wkc_rieck_icml2022.pdf,Elementary Applied Topology,R. Ghrist,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 64) R. Ghrist, Elementary Applied Topology, 1.0, Createspace",references_csv
+wkc_rieck_icml2022.pdf,Topological Graph Neural Networks,"M. Horn, E. De Brouwer, M. Moor, Y. Moreau, B. Rieck and K. Borgwardt",2022,2102.07835,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 72) M. Horn∗ , E. De Brouwer∗ , M. Moor, Y. Moreau, B. Rieck† and K. Borgwardt† , ‘Topological Graph Neural Networks’,
+International Conference on Learning Representations (ICLR), 2022, arXiv: 2102.07835 [cs.LG]",references_csv
+wkc_rieck_icml2022.pdf,Persistent homology detects curvature,"P. Bubenik, M. Hull, D. Patel and B. Whittle",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 78) P. Bubenik, M. Hull, D. Patel and B. Whittle, ‘Persistent homology detects curvature’, Inverse Problems 36.2, 2020,
+p. 025008",references_csv
+wkc_rieck_icml2022.pdf,"The shape of things to come: Topological data analysis and biology, from molecules to organisms","E. J. Amézquita, M. Y. Quigley, T. Ophelders, E. Munch and D. H. Chitwood",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 80) E. J. Amézquita, M. Y. Quigley, T. Ophelders, E. Munch and D. H. Chitwood, ‘The shape of things to come: Topological
+data analysis and biology, from molecules to organisms’, Developmental Dynamics 249.7, 2020, pp. 816–833",references_csv

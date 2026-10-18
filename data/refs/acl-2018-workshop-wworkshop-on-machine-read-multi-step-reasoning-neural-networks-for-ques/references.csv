@@ -1,0 +1,16 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mrqa2018_jianfeng.pdf,ReasoNet,Shen+,16,,,extracted_from_slides:central,,[auto-evidence] (slide 4) ReasoNet [Shen+ 16],references_csv
+mrqa2018_jianfeng.pdf,M-Walk: Learning to Reason over Knowledge Graph,Shen+,18,,,extracted_from_slides:central,,[auto-evidence] (slide 4) M-Walk [Shen+ 18],references_csv
+mrqa2018_jianfeng.pdf,ReasoNet: learn to stop reading,Shen+,17,,,extracted_from_slides:central,,[auto-evidence] (slide 26) [Shen+ 17],references_csv
+mrqa2018_jianfeng.pdf,Stochastic Answer Net (SAN),Liu+,18,,,extracted_from_slides:central,,[auto-evidence] (slide 30) [Liu+ 18],references_csv
+mrqa2018_jianfeng.pdf,PRA,Lao+,11,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) PRA [Lao+ 11],references_csv
+mrqa2018_jianfeng.pdf,MindNet,Richardson+,98,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) MindNet [Richardson+ 98],references_csv
+mrqa2018_jianfeng.pdf,DistMult,Yang+,15,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) DistMult [Yang+ 15],references_csv
+mrqa2018_jianfeng.pdf,DeepPath,Xiong+,18,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) DeepPath [Xiong+ 18],references_csv
+mrqa2018_jianfeng.pdf,MINERVA,Das+,18,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) MINERVA [Das+,references_csv
+mrqa2018_jianfeng.pdf,,Berant+,13,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) [Richardson+ 98; Berant+ 13; Yao+ 15; Bao+ 14; Yih+ 15; etc.],references_csv
+mrqa2018_jianfeng.pdf,,Berant&Liang,14,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) [Berant&Liang 14],references_csv
+mrqa2018_jianfeng.pdf,Deep Learning and Continuous Representations for Natural Language Processing (IJCAI-2016 tutorial),"Yih, He and Gao",2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) IJCAI-2016 tutorial on “Deep Learning and Continuous,references_csv
+mrqa2018_jianfeng.pdf,,Seo+,16,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 22) [Seo+ 16; Yu+ 18],references_csv
+mrqa2018_jianfeng.pdf,MS MARCO,Nguyen+,16,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 23) MS MARCO [Nguyen+ 16],references_csv
+mrqa2018_jianfeng.pdf,SQuAD,Rajpurkar+,16,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 23) SQuAD [Rajpurkar+ 16],references_csv

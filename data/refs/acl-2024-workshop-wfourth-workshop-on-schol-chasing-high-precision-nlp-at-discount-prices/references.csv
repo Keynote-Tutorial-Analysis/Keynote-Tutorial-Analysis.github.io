@@ -1,0 +1,4 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+sdp2024_acl_downey.pdf,,Slobodkin et al.,2024,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) See also e.g. (Slobodkin et al., 2024)",references_csv
+sdp2024_acl_downey.pdf,,Devlin et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 35) We use BERT (Devlin et al. 2018) as our base model,references_csv
+sdp2024_acl_downey.pdf,,Grunde-McLaughlin et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 48) cf. (Grunde-McLaughlin et al., 2023)",references_csv

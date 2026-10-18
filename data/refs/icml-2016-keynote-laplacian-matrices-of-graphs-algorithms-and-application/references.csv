@@ -1,0 +1,35 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+spielman_icml2016.pdf,,"S, Teng",'04,,,extracted_from_slides:central,,"[auto-evidence] (slide 35) S,Teng '04: Using low-stretch trees and sparsifiers",references_csv
+spielman_icml2016.pdf,,"Batson, S, Srivastava",'09,,,extracted_from_slides:central,,"[auto-evidence] (slide 63) Spectral Sparsification
+
+(Batson, S, Srivastava '09)",references_csv
+spielman_icml2016.pdf,,S & Srivastava,'08,,,extracted_from_slides:central,,"[auto-evidence] (slide 65) Fast Spectral Sparsification
+(S & Srivastava '08)",references_csv
+spielman_icml2016.pdf,,"Kyng, Rao, Sachdeva",'15,,,extracted_from_slides:central,,"[auto-evidence] (slide 48) Fast IPM for Isotonic Regression
+(Kyng, Rao, Sachdeva '15)",references_csv
+spielman_icml2016.pdf,,Kyng & Sachdeva,'16,,,extracted_from_slides:central,,"[auto-evidence] (slide 66) Approximate Gaussian Elimination
+(Kyng & Sachdeva '16)",references_csv
+spielman_icml2016.pdf,,"Zhu, Ghahramani, Lafferty",'03,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Interpolation on Graphs
+
+(Zhu,Ghahramani,Lafferty '03)",references_csv
+spielman_icml2016.pdf,,Tutte,'63,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) Drawing by Spring Networks
+
+(Tutte '63)",references_csv
+spielman_icml2016.pdf,,"Koutis, Miller, Peng",'11,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) Koutis, Miller, Peng '11: Low-stretch trees and sampling",references_csv
+spielman_icml2016.pdf,,"Cohen, Kyng, Pachocki, Peng, Rao",'14,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 37) Cohen, Kyng, Pachocki, Peng, Rao '14:",references_csv
+spielman_icml2016.pdf,,"Kyng, Rao, Sachdeva, S",'15,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Lipschitz Learning : regularized interpolation on graphs
+(Kyng, Rao, Sachdeva,S '15)",references_csv
+spielman_icml2016.pdf,,"Daitch, S",'08,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) (Daitch, S '08, Mądry '13)",references_csv
+spielman_icml2016.pdf,,"Cohen, Mądry, Sankowski, Vladu",'16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) (Cohen, Mądry, Sankowski, Vladu '16)",references_csv
+spielman_icml2016.pdf,,Ayer et. al.,'55,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) Isotonic Regression
+
+(Ayer et. al. '55)",references_csv
+spielman_icml2016.pdf,,"Koutis, Levin, Peng",'12,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 65) Takes time O(m log
+
+2
+
+n) (Koutis, Levin, Peng '12)",references_csv
+spielman_icml2016.pdf,,Tropp,'11,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 81) Apply Matrix Freedman inequality (Tropp '11),references_csv
+spielman_icml2016.pdf,,"Kyng, Lee, Peng, Sachdeva, S",'16,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 82) Other families of linear systems
+(Kyng, Lee, Peng, Sachdeva, S '16)",references_csv
+spielman_icml2016.pdf,Lx = b,Nisheeth Vishnoi,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 83) Lx = b, by Nisheeth Vishnoi",references_csv

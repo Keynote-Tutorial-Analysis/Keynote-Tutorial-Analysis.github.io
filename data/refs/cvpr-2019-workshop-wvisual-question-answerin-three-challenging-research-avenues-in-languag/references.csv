@@ -1,0 +1,8 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+vqa2019_artzi.pdf,CLEVR,Johnson et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) [CLEVR: Johnson et al. 2017; GQA: Hudson and Manning 2019],references_csv
+vqa2019_artzi.pdf,,Goldman et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 19) [Goldman et al. 2018],references_csv
+vqa2019_artzi.pdf,N2NMN,Hu et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) N2NMN ... Hu et al. 2017,references_csv
+vqa2019_artzi.pdf,FiLM,Perez et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) FiLM ... Perez et al. 2017,references_csv
+vqa2019_artzi.pdf,MAC-Network,Hudson et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) MAC-Network ... Hudson et al. 2018,references_csv
+vqa2019_artzi.pdf,,Blukis et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 29) LingUNet [Blukis et al. 2018],references_csv
+vqa2019_artzi.pdf,,Chaplot et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 37) Chaplot et al. 2018,references_csv

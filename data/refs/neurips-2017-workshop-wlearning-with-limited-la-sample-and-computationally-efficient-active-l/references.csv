@@ -1,0 +1,12 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+lld2017_balcan.pdf,,Balcan-Long,2013,,,extracted_from_slides:central,,[auto-evidence] (slide 14) labels to find w error  when D logconcave. [Balcan-Long COLT 2013],references_csv
+lld2017_balcan.pdf,,Awasthi-Balcan-Long,2017,,,extracted_from_slides:central,,[auto-evidence] (slide 3) learning linear separators [Awasthi-Balcan-Long JACM’17],references_csv
+lld2017_balcan.pdf,,Awasthi-Balcan-Haghtalab-Urner,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) [Awasthi-Balcan-Haghtalab-Urner COLT’15],references_csv
+lld2017_balcan.pdf,,KKMS,'05,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) classic passive learning via poly time algos. [KKMS’05] [KLS’09],references_csv
+lld2017_balcan.pdf,,Tong & Koller,2000,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Text classification: active SVM (Tong & Koller, ICML2000).",references_csv
+lld2017_balcan.pdf,,Fathi-Balcan-Ren-Regh,11,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Video Segmentation (Fathi-Balcan-Ren-Regh, BMVC 11).",references_csv
+lld2017_balcan.pdf,,CAL,92,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Can adaptive querying help? [CAL92, Dasgupta04]",references_csv
+lld2017_balcan.pdf,,BalcanBeygelzimerLangford,'06,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) [BalcanBeygelzimerLangford’06, Hanneke07, DasguptaHsuMontleoni’07, Wang’09,",references_csv
+lld2017_balcan.pdf,,Fridman,'09,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Fridman’09, Koltchinskii10, BHW’08, BeygelzimerHsuLangfordZhang’10, Hsu’10, Ailon’12, …]",references_csv
+lld2017_balcan.pdf,,Awasthi-Balcan-Long,'14,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) Info theoretic optimal
+[Awasthi-Balcan-Long’14]",references_csv

@@ -1,0 +1,32 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+dlps2017_carrasquilla.pdf,,J. Carrasquilla and R. G. Melko,2017,1605.01735,,extracted_from_slides:central,,"[auto-evidence] (slide 15) J. Carrasquilla and R. G. Melko. Nature Physics 13, 431–434 (2017)",references_csv
+dlps2017_carrasquilla.pdf,,"Torlai, Mazzola, Carrasquilla, Troyer, Melko, Carleo",,1703.05334,,extracted_from_slides:central,,"[auto-evidence] (slide 7) Quantum state tomography based on RBMs (Torlai, Mazzola, Carrasquilla, Troyer, Melko, Carleo, 1703.05334)",references_csv
+dlps2017_carrasquilla.pdf,,Wang,,1606.00318,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) Wang 1606.00318,references_csv
+dlps2017_carrasquilla.pdf,,"Zhang, Kim",,1611.01518,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Zhang, Kim, 1611.01518",references_csv
+dlps2017_carrasquilla.pdf,,"Carleo, Troyer",,1606.02318,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) New ML inspired ansatz for quantum many-body systems (Carleo, Troyer 1606.02318",references_csv
+dlps2017_carrasquilla.pdf,,"Deng, Li, Das Sarma",,1701.04844,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Deng, Li, Das Sarma, 1701.04844",references_csv
+dlps2017_carrasquilla.pdf,,"Deng, Li, Das Sarma",,1609.09060,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Deng, Li, Das Sarma 1609.09060",references_csv
+dlps2017_carrasquilla.pdf,,"Huang, Wang",,1610.02746,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Accelerated Monte Carlo simulations ( Huang, Wang 1610.02746)",references_csv
+dlps2017_carrasquilla.pdf,,"Bukov, Day, Sels, Weinberg, Polkovnikov and Mehta",,1705.00565,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Quantum state preparation guided by ML (Bukov, Day, Sels, Weinberg, Polkovnikov and Mehta 1705.00565)",references_csv
+dlps2017_carrasquilla.pdf,,"Bradde, Bialek",,1610.09733,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Bradde, Bialek 1610.09733",references_csv
+dlps2017_carrasquilla.pdf,,"Koch-Janusz, Ringel",,1704.06279,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Koch-Janusz, Ringel 1704.06279",references_csv
+dlps2017_carrasquilla.pdf,,"Mehta, Schwab",,1410.3831,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Mehta, Schwab,1410.3831",references_csv
+dlps2017_carrasquilla.pdf,,"Torlai, Melko",,1610.04238,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) ML based decoders for topological codes (Torlai, Melko 1610.04238",references_csv
+dlps2017_carrasquilla.pdf,,"Varsamopoulos, Criger, Bertels",,1705.00857,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Varsamopoulos, Criger, Bertels, 1705.00857",references_csv
+dlps2017_carrasquilla.pdf,,"Stoudenmire, Schwab",,1605.05775,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Supervised Learning with Quantum-Inspired Tensor Networks (Stoudenmire, Schwab 1605.05775",references_csv
+dlps2017_carrasquilla.pdf,,"Novikov, Trofimov, Oseledets",,1605.03795,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Novikov, Trofimov, Oseledets, 1605.03795",references_csv
+dlps2017_carrasquilla.pdf,,"Amin, Andriyash, Rolfe, Kulchytskyy, Melko",,1601.02036,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Quantum Boltzmann machines (Amin, Andriyash, Rolfe, Kulchytskyy, Melko, 1601.02036",references_csv
+dlps2017_carrasquilla.pdf,,"Kieferova, Wiebe",,1612.05204,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Kieferova, Wiebe, 1612.05204",references_csv
+dlps2017_carrasquilla.pdf,,"Biamonte, Wittek, Pancotti, Rebentrost, Wiebe, Lloyd",,1611.09347,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Quantum machine learning algorithms to accelerate learning (Biamonte, Wittek, Pancotti, Rebentrost, Wiebe, Lloyd, 1611.09347)",references_csv
+dlps2017_carrasquilla.pdf,,Lars Onsager,1944,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Lars Onsager Phys. Rev. 65, 117 (1944)",references_csv
+dlps2017_carrasquilla.pdf,,F.J. Wegner,1971,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Wegner, J. Math. Phys. 12 (1971) 2259",references_csv
+dlps2017_carrasquilla.pdf,,Kogut,1979,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) (Kogut Rev. Mod. Phys. 51, 659 (1979))",references_csv
+dlps2017_carrasquilla.pdf,,Castelnovo and Chamon,2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Castelnovo and Chamon Phys. Rev. B 76, 174416 (2007)",references_csv
+dlps2017_carrasquilla.pdf,,"F. Verstraete, M. M. Wolf, D. Perez-Garcia, J. I. Cirac",2006,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) PEPS : F. Verstraete, M. M. Wolf, D. Perez-Garcia, J. I. Cirac Phys. Rev. Lett. 96, 220601 (2006).",references_csv
+dlps2017_carrasquilla.pdf,,Dong-Ling Deng et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Dong-Ling Deng et al Phys. Rev. X 7, 021021 (2017)",references_csv
+dlps2017_carrasquilla.pdf,,"Jing Chen, Song Cheng, Haidong Xie, Lei Wang, Tao Xiang",,1701.04831,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Jing Chen, Song Cheng, Haidong Xie, Lei Wang, Tao Xiang arXiv:1701.04831 RBMs",references_csv
+dlps2017_carrasquilla.pdf,,W. Bakr et al,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Bakrof et al, gas Science (2010)",references_csv
+dlps2017_carrasquilla.pdf,,Cramer et al,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) Cramer et al, Nat. Comm. (2010)",references_csv
+dlps2017_carrasquilla.pdf,,Häffner et al,2005,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) ffner et al, Nature (2005)",references_csv
+dlps2017_carrasquilla.pdf,,Hastings et al,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) Hastings et al, PRL (2010)",references_csv
+dlps2017_carrasquilla.pdf,,R. Islam et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) R. Islam et al, Nature (2015) (4 particles)",references_csv

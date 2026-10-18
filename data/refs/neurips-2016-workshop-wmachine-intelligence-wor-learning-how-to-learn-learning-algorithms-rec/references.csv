@@ -1,0 +1,25 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+main2016_schmidhuber.pdf,"Evolutionary principles in self-referential learning, or on learning how to learn: The meta-meta-... hook",J. Schmidhuber,1987,,,extracted_from_slides:central,,[auto-evidence] (slide 7) Evolutionary principles in self-referential learning. On learning,references_csv
+main2016_schmidhuber.pdf,A self-referential weight matrix,J. Schmidhuber,1993,,,extracted_from_slides:central,,[auto-evidence] (slide 12) A self-referential,references_csv
+main2016_schmidhuber.pdf,"Shifting inductive bias with success-story algorithm, adaptive Levin search, and incremental self-improvement","J. Schmidhuber, J. Zhao, and M. Wiering",1997,,,extracted_from_slides:central,,[auto-evidence] (slide 27) Shifting inductive bias with success-story,references_csv
+main2016_schmidhuber.pdf,Gödel machines: Fully Self-Referential Optimal Universal Self-Improvers,J. Schmidhuber,2006,,,extracted_from_slides:central,,[auto-evidence] (slide 27) Gödel machines: Fully Self-Referential Optimal Universal,references_csv
+main2016_schmidhuber.pdf,Optimal Ordered Problem Solver (OOPS),Schmidhuber,2004,,,extracted_from_slides:central,,"[auto-evidence] (slide 29) OOPS (Schmidhuber, MLJ, 2004,",references_csv
+main2016_schmidhuber.pdf,,Rechenberg & Schwefel,1960s,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Rechenberg &
+Schwefel, 1960s",references_csv
+main2016_schmidhuber.pdf,,J. Good,1965,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) J. Good (1965): informal,references_csv
+main2016_schmidhuber.pdf,,Hochreiter,1997,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 8) Hochreiter (1997),references_csv
+main2016_schmidhuber.pdf,,Gers,2000,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 8) Gers (2000),references_csv
+main2016_schmidhuber.pdf,Separation of Storage and Control for NNs: End-to-End Differentiable Fast Weights,Schmidhuber,1992,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) (Schmidhuber, 1992)",references_csv
+main2016_schmidhuber.pdf,,v.d. Malsburg,1981,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 9) v.d. Malsburg,references_csv
+main2016_schmidhuber.pdf,Reducing the ratio between learning complexity and number of time-varying variables in fully recurrent nets,Schmidhuber,1993,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 10) Reducing the ratio,references_csv
+main2016_schmidhuber.pdf,,"Ba, Hinton, Mnih, Leibo, Ionesco",2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Ba, Hinton, Mnih,",references_csv
+main2016_schmidhuber.pdf,Co-evolving recurrent neurons learn deep memory POMDPs,Gomez & Schmidhuber,2005,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 11) Co-evolving recurrent,references_csv
+main2016_schmidhuber.pdf,,Kurt Gödel,1931,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Kurt Gödel, father of theoretical computer",references_csv
+main2016_schmidhuber.pdf,,Marcus Hutter,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 23) Marcus Hutter,references_csv
+main2016_schmidhuber.pdf,,Levin,1973,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 29) extending Levin,references_csv
+main2016_schmidhuber.pdf,Reinforcement Learning with Recurrent Controller & Recurrent World Model,J.S. (Schmidhuber),1990,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 33) J.S.: IJCNN 1990, NIPS 1991: Reinforcement Learning",references_csv
+main2016_schmidhuber.pdf,On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning RNN-based Controllers (RNNAIs) and Recurrent Neural World Models,Schmidhuber,,1511.09249,http://arxiv.org/abs/1511.09249,extracted_from_slides:mentioned,,[auto-evidence] (slide 34) http://arxiv.org/abs/1511.09249,references_csv
+main2016_schmidhuber.pdf,On learning how to learn learning strategies,J. Schmidhuber,1994,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 27) On learning how to learn learning strategies,references_csv
+main2016_schmidhuber.pdf,Simple principles of metalearning,"J. Schmidhuber, J. Zhao, M. Wiering",1996,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 27) Simple principles of metalearning,references_csv
+main2016_schmidhuber.pdf,Reinforcement learning with self-modifying policies,"J. Schmidhuber, J. Zhao, N. Schraudolph",1997,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 27) Reinforcement learning with self-modifying,references_csv
+main2016_schmidhuber.pdf,Metalearning,T. Schaul and J. Schmidhuber,2010,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 27) T. Schaul and J. Schmidhuber. Metalearning,references_csv

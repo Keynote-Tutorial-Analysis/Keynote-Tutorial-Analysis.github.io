@@ -1,0 +1,14 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+icmlmain_bottou_2015.pdf,Perceptrons,Minsky and Papert,1968,,,extracted_from_slides:central,,"[auto-evidence] (slide 12) Minsky and Papert, Perceptrons, 1968.",references_csv
+icmlmain_bottou_2015.pdf,Cybernetics,Norbert Wiener,1948,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 32) Norbert Wiener, Cybernetics, 1948",references_csv
+icmlmain_bottou_2015.pdf,,Bottou et al.,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 32) See (Bottou et al., JMLR 2013) for a possible treatment of causal loops.",references_csv
+icmlmain_bottou_2015.pdf,Unbiased look at dataset bias,Torralba and Efros,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 54) Torralba and Efros, Unbiased look at dataset bias, CVPR 2011.",references_csv
+icmlmain_bottou_2015.pdf,,Oquab et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 57) (Oquab et al., CVPR 2014)",references_csv
+icmlmain_bottou_2015.pdf,,Nguyen et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 59) (Nguyen et al, CVPR 2015)",references_csv
+icmlmain_bottou_2015.pdf,,Zitnick,14,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) From a talk of ( Zitnick 14 ),references_csv
+icmlmain_bottou_2015.pdf,,Bordes et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 65) the ""BABI"" tasks (Bordes et al., 2015)",references_csv
+icmlmain_bottou_2015.pdf,,El Yaniv,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 67) Selective classification (El Yaniv's, …)",references_csv
+icmlmain_bottou_2015.pdf,,Li & Littman,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 67) KWIK (Li & Littman),references_csv
+icmlmain_bottou_2015.pdf,,Vovk,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 67) Conformal learning (Vovk, …)",references_csv
+icmlmain_bottou_2015.pdf,,"Matt Miller, NEC",2006,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 71) (Matt Miller, NEC, 2006)",references_csv
+icmlmain_bottou_2015.pdf,,"Collobert, Weston, et al.",2008-2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 72) (Collobert, Weston, et al., 2008-2011)",references_csv

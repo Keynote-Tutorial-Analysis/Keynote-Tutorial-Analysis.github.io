@@ -1,0 +1,22 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mar2024_jegelka.pdf,Are Graph Neural Networks Optimal Approximation Algorithms?,"M. Yau, N. Karalias, E. H. Lu, J. Xu, S. Jegelka",2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 29) M. Yau, N. Karalias, E. H. Lu, J. Xu, S. Jegelka. Are Graph Neural Networks Optimal Approximation Algorithms? NeurIPS, 2024.",references_csv
+mar2024_jegelka.pdf,A Theoretical Understanding of Self-Correction through InContext Alignment,"Y. Wang, Y. Wu, Z. Wei, S. Jegelka, Y. Wang",2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 29) Y. Wang, Y. Wu, Z. Wei, S. Jegelka, Y. Wang. A Theoretical Understanding of Self-Correction through InContext Alignment. NeurIPS, 2024.",references_csv
+mar2024_jegelka.pdf,Learning Linear Attention in Polynomial Time,"M. Yau, E. Akyürek, J. Mao, J. Tenenbaum, S. Jegelka, J. Andreas",2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 29) M. Yau, E. Akyürek, J. Mao, J. Tenenbaum, S. Jegelka, J. Andreas. Learning Linear Attention in Polynomial Time. arXiv, 2024.",references_csv
+mar2024_jegelka.pdf,Llama 3.1 405B Technical Report,,2024,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) Llama 3.1 405B Technical Report . 2024.07,references_csv
+mar2024_jegelka.pdf,,"Chen, Li",24,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) exponential SQ lower bound for learning multi head softmax attention (Chen,Li 24)",references_csv
+mar2024_jegelka.pdf,,Yang-Wang-Shen-Panda-Kim,24,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) Hardware aware Gated Linear Attention is competitive with Llama,
+mamba, state of the art state space models. (Yang-Wang-Shen-Panda-Kim 24)",references_csv
+mar2024_jegelka.pdf,,von Oswald et al,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) gradient descent for linear regression (von Oswald
+et al 2023, Ahn et al 2023)",references_csv
+mar2024_jegelka.pdf,,Cheng et al,2024,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) solve electric flow (Cheng et al, 2024)",references_csv
+mar2024_jegelka.pdf,,Wang et al,2024,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) ranking (Wang et al 2024),references_csv
+mar2024_jegelka.pdf,,Pérez et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) circuit families (Pérez et al., 2019; Edelman et al., 2022; Hahn, 2020; Merrill &
+Sabharwal, 2023; Merrill et al., 2022; 2021; Liu et al., 2022; Feng et al., 2023)",references_csv
+mar2024_jegelka.pdf,,Merrill & Sabharwal,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) Merrill &
+Sabharwal, 2023; Merrill et al., 2022; 2021; Liu et al., 2022; Feng et al., 2023)",references_csv
+mar2024_jegelka.pdf,,Merrill et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) Merrill et al., 2022; 2021; Liu et al., 2022; Feng et al., 2023)",references_csv
+mar2024_jegelka.pdf,,Weiss et al,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) DSLs (Weiss et al 2021),references_csv
+mar2024_jegelka.pdf,,Dong et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) logic expressions (Dong et al., 2019; Barceló et al., 2020; 2024)",references_csv
+mar2024_jegelka.pdf,,Hao et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) formal language recognition (Hao et al., 2022; Chiang et al., 2023)",references_csv
+mar2024_jegelka.pdf,,Dehghani et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) automata, (universal) Turing machines (Dehghani et al., 2018; Giannou et al., 2023;
+Perez et al., 2021; Liu et al., 2022; Li et al., 2024)",references_csv

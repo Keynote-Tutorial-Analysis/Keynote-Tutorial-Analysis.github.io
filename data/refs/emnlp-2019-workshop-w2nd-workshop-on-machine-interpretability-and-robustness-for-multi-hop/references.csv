@@ -1,0 +1,25 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mrqa2019_mohit_bansal.pdf,,Jiang and Bansal,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 10) [Jiang and Bansal, EMNLP 2019]",references_csv
+mrqa2019_mohit_bansal.pdf,,"Jiang, Joshi, Chen, Bansal",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) [Jiang, Joshi, Chen, Bansal, ACL 2019a]",references_csv
+mrqa2019_mohit_bansal.pdf,,Jiang and Bansal,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 32) [Jiang and Bansal, ACL 2019]",references_csv
+mrqa2019_mohit_bansal.pdf,,Niu and Bansal,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 42) [Niu and Bansal, EMNLP 2019]",references_csv
+mrqa2019_mohit_bansal.pdf,,Zhang and Bansal,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 46) [Zhang and Bansal, EMNLP 2019]",references_csv
+mrqa2019_mohit_bansal.pdf,,"Bauer, Wang, and Bansal",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 49) [Bauer, Wang, and Bansal, EMNLP 2018]",references_csv
+mrqa2019_mohit_bansal.pdf,,Rajpurkar et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) [Rajpurkar et al., 2016]",references_csv
+mrqa2019_mohit_bansal.pdf,Bi-directional Attention Flow Model (BiDAF),Seo et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Bi-directional Attention Flow Model (BiDAF)
+[Seo et al., 2017]",references_csv
+mrqa2019_mohit_bansal.pdf,,Yang et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Multi-Hop QA: Bridge-Type
+[Yang et al., 2018]",references_csv
+mrqa2019_mohit_bansal.pdf,,Andreas et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) (Andreas et
+al. 2016, Hu et al. 2017)",references_csv
+mrqa2019_mohit_bansal.pdf,,Hu et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) Hu et al. (2018) proposed stack-based NMN,references_csv
+mrqa2019_mohit_bansal.pdf,,Welbl et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) [Welbl et al. 2018],references_csv
+mrqa2019_mohit_bansal.pdf,,Min et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) Min et al., 2019; Chen & Durrett, 2019",references_csv
+mrqa2019_mohit_bansal.pdf,,Ribeiro et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) Ribeiro et al., 2018; Zhao et al., 2018",references_csv
+mrqa2019_mohit_bansal.pdf,,Cubuk et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) [Cubuk et al., 2018]",references_csv
+mrqa2019_mohit_bansal.pdf,Variational Hierarchical Encoder-Decoder (VHRED),Serban et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Variational Hierarchical Encoder-Decoder (VHRED) (Serban et al., 2017b)",references_csv
+mrqa2019_mohit_bansal.pdf,,Lowe et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) troubleshooting Ubuntu Dialogue
+task (Lowe et al., 2015)",references_csv
+mrqa2019_mohit_bansal.pdf,,Williams,1992,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) REINFORCE (Williams, 1992; Sutton et al., 2000)",references_csv
+mrqa2019_mohit_bansal.pdf,,Niu and Bansal,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) All-operations from Niu and Bansal (2018),references_csv
+mrqa2019_mohit_bansal.pdf,,Speer and Havasi,2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) ConceptNet (Speer and Havasi, 2012)",references_csv

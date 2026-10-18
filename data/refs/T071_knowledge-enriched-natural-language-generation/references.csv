@@ -1,0 +1,205 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+07_part6.pdf,,Cao et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 3; (Cao et al, 2018)) 30% of abstractive summaries contain unfaithful information ... (Cao et al, 2018)",ai_reference_eval
+07_part6.pdf,,Wang et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 3,4,10; [Wang et al., INLG2018]) Bias from LM [Wang et al., INLG2018]; Knowledge reconstruction metric [Wang et al., 2018]",ai_reference_eval
+07_part6.pdf,,Modi and Parde,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 4,5,6; [Modi and Parde, 2019]) Inconsistency Analysis from [Modi and Parde, 2019]",ai_reference_eval
+07_part6.pdf,,Yu et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; [Yu et al., 2021]) Lifelong learning [Yu et al., 2021; Mazumder et al., 2018]",ai_reference_eval
+07_part6.pdf,,Mazumder et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; Mazumder et al., 2018) [Yu et al., 2021; Mazumder et al., 2018]",ai_reference_eval
+07_part6.pdf,,Cao et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; [Cao et al., 2017]) Embed knowledge into pre-trained language model [Cao et al., 2017; ...",ai_reference_eval
+07_part6.pdf,,Liu et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; Liu et al., 2019) Liu et al., 2019Qin et al., 2021",ai_reference_eval
+07_part6.pdf,,Qin et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; Qin et al., 2021) Liu et al., 2019Qin et al., 2021",ai_reference_eval
+07_part6.pdf,,Huang et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 5; [Huang et al.2020]) Incorporate semantic parsing in encoding and decoding [Huang et al.2020],ai_reference_eval
+07_part6.pdf,,Wang et al.,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 7,8; [Wang et al., ACL2019]) Repetition Removal Example [Wang et al., ACL2019]",ai_reference_eval
+07_part6.pdf,,Potash et al.,2018,,,ai_reference_eval:central,,"[ai-ref] (slides 10; [Potash et al., 2018] (ACL2018 workshop)) (Potash et al., ACL2018 workshop) ... WordNet/embedding based semantic similarity [Potash et al., 2018]",ai_reference_eval
+07_part6.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; (uncredited figure: neural checklist story generation outputs)) Table comparing GRU, Neural Checklist, Random Event Order, Full, Human Author",ai_reference_eval
+07_part6.pdf,,Whitehead et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 15; (Whitehead et al., EMNLP17)) (Whitehead et al., EMNLP17) KaVD figure",ai_reference_eval
+07_part6.pdf,,Sharma et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 16; Direction 3: Extract and then Generate (Sharma et al., 2019)) Extract and then Generate (Sharma et al., 2019); SENECA figure",ai_reference_eval
+07_part6.pdf,,Fung et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 18; [Fung et al., ACL2021]) Direction 5 ... [Fung et al., ACL2021]",ai_reference_eval
+07_part6.pdf,,Lewis et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 18; BARTlarge (Lewis et al., 2020); well-known) finetuning a BARTlarge language model (Lewis et al., 2020)",ai_reference_eval
+07_part6.pdf,,Post and Vilar,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 18; copy mechanism (Post and Vilar, 2018)) + copy mechanism (Post and Vilar, 2018)",ai_reference_eval
+07_part6.pdf,,Li et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 19; [Li et al., NAACL2021]) Conditioned NLG for Document-level Event Extraction [Li et al., NAACL2021]",ai_reference_eval
+07_part6.pdf,,Zeng et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 20; [Zeng et al., 2021]) Conditioned NLG for Taxonomy Construction [Zeng et al., 2021]",ai_reference_eval
+07_part6.pdf,,Lai et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 21; [Lai et al., submission]) Conditioned NLG for Entity Linking [Lai et al., submission]",ai_reference_eval
+07_part6.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; BART-based Seq2Seq Model; well-known) BART-based Seq2Seq Model,ai_reference_eval
+03_part2.pdf,,Olah & Carter,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5,6,7; Figure courtesy: Olah & Carter,) Figure courtesy: Olah & Carter,",ai_reference_eval
+03_part2.pdf,,Lilian Weng,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; Figure courtesy: Lilian Weng (alignment score table)) Figure courtesy: Lilian Weng,ai_reference_eval
+03_part2.pdf,,Graves,2014,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; Graves2014) Content-base attention ... Graves2014,ai_reference_eval
+03_part2.pdf,,Bahdanau,2015,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; Bahdanau2015; well-known) Additive(*) ... Bahdanau2015,ai_reference_eval
+03_part2.pdf,,Luong,2015,,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; Luong2015) Location-Base / General / Dot-Product ... Luong2015,ai_reference_eval
+03_part2.pdf,,Vaswani,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 8,9; Vaswani2017 (Scaled Dot-Product; Multi-head attention (Transformers)); well-known) Scaled Dot-Product(^) ... Vaswani2017; Multi-head attention (Transformers)",ai_reference_eval
+03_part2.pdf,,Thomas Kipf,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 12,13,14; Slide courtesy: Thomas Kipf) Slide courtesy: Thomas Kipf",ai_reference_eval
+03_part2.pdf,,Kipf & Welling,2017,,,ai_reference_eval:central,,"[ai-ref] (slides 13,14; Graph Convolutional Networks (GCNs), Kipf & Welling 2017; well-known) Graph Convolutional Networks (GCNs), Kipf & Welling 2017",ai_reference_eval
+03_part2.pdf,,Hamilton et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 13,14; [Hamilton et al., NIPS 2017] (subsample messages / GraphSAGE)) Scalability: subsample messages [Hamilton et al., NIPS 2017]",ai_reference_eval
+03_part2.pdf,,Gori et al.,2005,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; Original GNN, Gori et al. (2005)) Original GNN Gori et al. (2005)",ai_reference_eval
+03_part2.pdf,,Li et al.,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; GG-NN, Li et al. (ICLR 2016)) GG-NN Li et al. (ICLR 2016)",ai_reference_eval
+03_part2.pdf,,Monti et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; MoNet, Monti et al. (CVPR 2017)) MoNet Monti et al. (CVPR 2017)",ai_reference_eval
+03_part2.pdf,,Gilmer et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; Neural MP, Gilmer et al. (ICML 2017)) Neural MP Gilmer et al. (ICML 2017)",ai_reference_eval
+03_part2.pdf,,Santoro et al.,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; Relation Nets, Santoro et al.) Relation Nets Santoro et al.",ai_reference_eval
+03_part2.pdf,,Hamilton et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; GraphSAGE, Hamilton et al. (NIPS 2017)) GraphSAGE Hamilton et al. (NIPS 2017)",ai_reference_eval
+03_part2.pdf,,Allamanis et al.,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; Programs as Graphs, Allamanis et al. (ICLR 201?)) Programs as Graphs Allamanis et ... (ICLR 201",ai_reference_eval
+03_part2.pdf,,Kipf et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; NRI, Kipf et al. (ICML 2018)) NRI Kipf et al. (ICML 2018)",ai_reference_eval
+03_part2.pdf,,Velickovic et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; GAT, Velickovic et al. (ICLR 2018); well-known) GAT Velickovic et al. (ICLR 2018)",ai_reference_eval
+03_part2.pdf,,Kipf & Welling,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; GCN, Kipf & Welling (ICLR 2017); well-known) GCN Kipf & Welling (ICLR 2017)",ai_reference_eval
+03_part2.pdf,,Bruna et al.,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; Spectral Graph CNN, Bruna et al. (ICLR 2015)) Spectral Graph CNN Bruna et al. (ICLR 2015)",ai_reference_eval
+03_part2.pdf,,Defferrard et al.,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 14; ChebNet, Defferrard et al. (NIPS 2016)) ChebNet Defferrard et al. (NIPS 2016)",ai_reference_eval
+03_part2.pdf,,Duvenaud et al.,2015,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; Duvenaud et al. (NIPS 2015)) Other early work: - Duvenaud et al. (NIPS 2015),ai_reference_eval
+03_part2.pdf,,Dai et al.,2016,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; Dai et al. (ICML 2016)) - Dai et al. (ICML 2016),ai_reference_eval
+03_part2.pdf,,Niepert et al.,2016,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; Niepert et al. (ICML 2016)) - Niepert et al. (ICML 2016),ai_reference_eval
+03_part2.pdf,,Battaglia et al.,2016,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; Battaglia et al. (NIPS 2016)) - Battaglia et al. (NIPS 2016),ai_reference_eval
+03_part2.pdf,,Atwood & Towsley,2016,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; Atwood & Towsley (NIPS 2016)) - Atwood & Towsley (NIPS 2016),ai_reference_eval
+03_part2.pdf,,Sukhbaatar et al.,2016,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; Sukhbaatar et al. (NIPS 2016)) - Sukhbaatar et al. (NIPS 2016),ai_reference_eval
+03_part2.pdf,,Alexander Gaunt,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; slide inspired by Alexander Gaunt's talk on GNNs) (slide inspired by Alexander Gaunt's talk on GNNs),ai_reference_eval
+03_part2.pdf,Wizard of Wikipedia: Knowledge-Powered Conversational agents,Dinan et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 19; Dinan et al., ""Wizard of Wikipedia: Knowledge-Powered Conversational agents"") Dinan et al., ""Wizard of Wikipedia: Knowledge-Powered Conversational agents""",ai_reference_eval
+03_part2.pdf,Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised (Framework),Tan et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 20; Tan et al., ""Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised ..."") Tan et al., ""Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised",ai_reference_eval
+03_part2.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 20; ConceptNet (knowledge source logo); well-known) Knowledge sources: Wikipedia, ConceptNet",ai_reference_eval
+03_part2.pdf,Text Generation with Efficient (Soft) Q-Learning,Han et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 21; Han et al., ""Text Generation with Efficient (Soft) Q-Learning"") Han et al., ""Text Generation with Efficient (Soft) Q-Learning""",ai_reference_eval
+03_part2.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 25,27; GPT-2/3, T5; well-known) pretrained language models (e.g., GPT-2/3, T5)",ai_reference_eval
+03_part2.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 26; PPLM, GeDi, DeLorean (TODO)) TODO: PPLM, GeDi, DeLorean",ai_reference_eval
+04_part3.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 3,6,10; GPT-2/3; well-known) pretrained language models (e.g., GPT-2/3, T5)",ai_reference_eval
+04_part3.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 3; T5; well-known) pretrained language models (e.g., GPT-2/3, T5)",ai_reference_eval
+04_part3.pdf,Plug and Play Language Models (PPLM),Dathathri et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 4,5; Dathathri et al., ""Plug and Play Language Models (PPLM)"") Dathathri et al., ""Plug and Play Language Models (PPLM)""",ai_reference_eval
+04_part3.pdf,Generative Discriminator (GeDi) guided decoding,Krause et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 4,6; GeDi (Krause et al., '20); Krause et al., ""Generative Discriminator (GeDi) guided decoding"") Krause et al., ""Generative Discriminator (GeDi) guided decoding""",ai_reference_eval
+04_part3.pdf,,Yang et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4,6; FUDGE (Yang et al., '21)) Examples: GeDi (Krause et al., '20) and FUDGE (Yang et al., '21)",ai_reference_eval
+04_part3.pdf,,Liu et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 4,7; Liu et al., ""DExperts"") Liu et al., ""DExperts""",ai_reference_eval
+04_part3.pdf,Mixture of Factual Experts (MoFE),Choubey et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 4,8; Choubey et al., ""Mixture of Factual Experts (MoFE)"") Choubey et al., ""Mixture of Factual Experts (MoFE)""",ai_reference_eval
+04_part3.pdf,,Qin et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 4,9; Qin et al., ""DELOREAN"") Qin et al., ""DELOREAN""",ai_reference_eval
+04_part3.pdf,,Petroni et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 12; Petroni et al., ""LMs as KBs"") Petroni et al., ""LMs as KBs""",ai_reference_eval
+04_part3.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; ELMo/BERT; well-known) e.g. ELMo/BERT,ai_reference_eval
+04_part3.pdf,,Gao et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 13; Gao et al., 2021) Gao et al., 2021 (few-shot prompt demonstration figure)",ai_reference_eval
+04_part3.pdf,Knowledge enhanced Commonsense QA,Bian et al.,,,,ai_reference_eval:central,,"[ai-ref] (slides 14; Bian et al., ""Knowledge enhanced Commonsense QA"") Bian et al., ""Knowledge enhanced Commonsense QA""",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 3; MEDLINE-indexed articles published per year chart) MEDLINE-indexed articles published per year (uncredited chart),ai_reference_eval
+06_part5.pdf,,Pinker,2014,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; Pinker, 2014) Many scientists are, in fact, bad writers (Pinker, 2014)",ai_reference_eval
+06_part5.pdf,"Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction","Luan, He, Ostendorf, Hajishirzi",2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5; SciIE (Luan et al., 2018)) Luan, Y., ... (2018). Multi-Task Identification of Entities, Relations, and Coreference ... EMNLP",ai_reference_eval
+06_part5.pdf,PubTator central: automated concept annotation for biomedical full text articles,"Wei, Allot, Leaman, Lu",2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 5; PubTator Central (Wei et al., 2019)) Wei, C., ... (2019). PubTator central: automated concept annotation for biomedical full text articles",ai_reference_eval
+06_part5.pdf,Text Generation from Knowledge Graphs with Graph Transformers,"Koncel-Kedziorski, Bekal, Luan, Lapata, Hajishirzi",2019,,,ai_reference_eval:central,,"[ai-ref] (slides 6; Text Generation from Knowledge Graphs with Graph Transformers (Koncel-Kedziorski et al., 2019)) Koncel-Kedziorski, R., ... (2019). Text Generation from Knowledge Graphs with Graph Transformers. NAACL",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 7; GraphWriter example results (github rikdz/GraphWriter)) GraphWriter ... https://github.com/rikdz/GraphWriter,ai_reference_eval
+06_part5.pdf,PaperRobot: Incremental Draft Generation of Scientific Ideas,"Wang, Huang, Jiang, Knight, Ji, Bansal, Luan",2019,,,ai_reference_eval:central,,"[ai-ref] (slides 8,9,10; PaperRobot (Wang et al., 2019)) Wang, Q., ... (2019). PaperRobot: Incremental Draft Generation of Scientific Ideas. ACL",ai_reference_eval
+06_part5.pdf,,Neal et al.,2012,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 10; Human (Neal et al., 2012)) Human (Neal et al., 2012)",ai_reference_eval
+06_part5.pdf,Role of maspin in cancer,Berardi et al.,2013,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 10; Role of maspin in cancer (Berardi et al., 2013)) Role of maspin in cancer (Berardi et al., 2013)",ai_reference_eval
+06_part5.pdf,Controlling Dialogue Generation with Semantic Exemplars,"Gupta, Bigham, Tsvetkov, Pavel",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 12,13,14; Controlling Dialogue Generation with Semantic Exemplars (Gupta et al., 2021) / EDGE) Gupta, P., ... (2021). Controlling Dialogue Generation with Semantic Exemplars. NAACL",ai_reference_eval
+06_part5.pdf,The Berkeley FrameNet Project,"Baker, Fillmore, Lowe",1998,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 12; Baker et al., 1998 (FrameNet)) Baker, C.F., Fillmore, C.J., & Lowe, J. (1998). The Berkeley FrameNet Project. COLING-ACL",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 14; DailyDialog) Trained on DailyDialog,ai_reference_eval
+06_part5.pdf,Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition,"Zhan, Zhang, Chen, Ding, Bao, Lan",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 15,16; Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition (Zhan et al., 2021)) Zhan, H., ... (2021). Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition. NAACL",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 16; MemNet / PostKS / SLKS baselines) Ground Truth / MemNet / PostKS / SLKS / SKT-KG rows,ai_reference_eval
+06_part5.pdf,Commonsense for Generative Multi-Hop Question Answering Tasks,"Bauer, Wang, Bansal",2018,,,ai_reference_eval:central,,"[ai-ref] (slides 18,19; Commonsense for Generative Multi-Hop Question Answering Tasks (Bauer et al., 2018)) Bauer, L., Wang, Y., & Bansal, M. (2018). Commonsense for Generative Multi-Hop Question Answering Tasks. EMNLP",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 18,25; ConceptNet; well-known) ConceptNet",ai_reference_eval
+06_part5.pdf,Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction,"Li, Bi, Yan, Wang, Huang",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 20,21; Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction (Li et al., 2021)) Li, C., ... (2021). Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; PALM / REAG answers (Example)) PALM Answer / REAG Answer,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 22; GPT-2 / UniLM generated examples; well-known) the GPT-2 generated ...; UniLM generated ...,ai_reference_eval
+06_part5.pdf,Pre-training Text-to-Text Transformers for Concept-centric Common Sense,"Zhou, Lee, Selvam, Lee, Lin, Ren",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 23,24; Pre-training Text-to-Text Transformers for Concept-centric Common Sense (Zhou et al., 2021) / CALM) Zhou, W., ... (2021). Pre-training Text-to-Text Transformers for Concept-centric Common Sense. ICLR",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 24,26; T5-base (comparison); well-known) T5-base column / [T5]",ai_reference_eval
+06_part5.pdf,KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning,"Liu, Wan, He, Peng, Yu",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 25,26; KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning (Liu et al., 2021)) Liu, Y., ... (2021). KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning. AAAI",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 26; GPT-2, BERT-Gen, UniLM, T5, BART baselines in example; well-known) [GPT-2] [BERT-Gen] [UniLM] [T5] [BART]",ai_reference_eval
+06_part5.pdf,Controllable Story Generation with External Knowledge Using Large-Scale Language Models,"Xu, Patwary, Shoeybi, Puri, Fung, Anandkumar, Catanzaro",2020,,,ai_reference_eval:central,,"[ai-ref] (slides 28,29; Controllable Story Generation with External Knowledge Using Large-Scale Language Models (Xu et al., 2020)) Xu, P., ... (2020). Controllable Story Generation with External Knowledge Using Large-Scale Language Models. EMNLP",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 28; GPT-2 / BERT in diagram; well-known) GPT-2, BERT labels in architecture figure",ai_reference_eval
+06_part5.pdf,,Guan et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 29; Guan et al. (2019)) Guan et al. (2019),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 29; MEGATRON-CNTRL (github NVIDIA/Megatron-LM)) MEGATRON-CNTRL-124M / 8B / 8B-ANT,ai_reference_eval
+06_part5.pdf,COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion,"Paul, Frank",2021,,,ai_reference_eval:central,,"[ai-ref] (slides 30,31; COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion (Paul & Frank, 2021)) Paul, D., & Frank, A. (2021). COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion. ACL",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 31; GLUCOSE / KE / GRF baselines (COINS table)) GPT-2 GLUCOSE, KE, GRF rows",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,36,37; Wizard of Wikipedia) Dialog Systems: Wizard of Wikipedia; parl.ai link",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; KILT benchmark) Benchmark: Kilt,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,38; ELI5) Question Answering: ELI5; facebookresearch.github.io/ELI5",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,39; SQuAD 1.1; well-known) Question Generation: SQuAD 1.1",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; GLGE benchmark) Benchmark: GLGE,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,40; CommonGen) Commonsense Reasoning: CommonGen; inklab.usc.edu/CommonGen",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; GEM benchmark) Benchmark: GEM,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,41; alphaNLG-ART) Commonsense Reasoning: αNLG-ART; abductivecommonsense.xyz",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; GENIE benchmark) Benchmark: GENIE,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,42; ComVE (SemEval)) Commonsense Reasoning: ComVE; codalab competitions/21080",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 33; SemEval) Benchmark: SemEval,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 33,43; CNN/DailyMail; well-known) Summarization: CNN/DailyMail",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; ROUGE; well-known) ROUGE (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; METEOR; well-known) METEOR (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; SacreBLEU) SacreBLEU (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; BLEU; well-known) BLEU (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; GLGE-score) GLGE-score (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; PARENT) PARENT (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; BERTScore; well-known) BERTScore (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; BARTScore) BARTScore (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; BLEURT) BLEURT (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; QuestEval) QuestEval (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; KPQA) KPQA (hyperlinked metric name),ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35; Cohen's Kappa / Fleiss's Kappa / Krippendorff's Alpha; well-known) Cohen's Kappa, Fleiss's Kappa, Krippendorff's Alpha",ai_reference_eval
+06_part5.pdf,GeDi: Generative Discriminator Guided Sequence Generation,"Krause, Gotmare, McCann, Keskar, Joty, Socher, Rajani",2020,,,ai_reference_eval:central,,"[ai-ref] (slides 44,45; GeDi: Generative Discriminator Guided Sequence Generation (Krause et al., 2020)) Krause, B., ... (2020). GeDi: Generative Discriminator Guided Sequence Generation. ArXiv",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 44; GPT-2 (in GeDi diagram); well-known) GPT-2 box in figure,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 46,48,50,51,52; GeDi topic model checkpoints / GeDi estimates the probability) Downloading GeDi topic model checkpoints; GeDi estimates the probability that it sample is desired class",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 47,48,53; GPT2-XL; well-known) Download GPT2-XL Tokenizer; Loading GPT2-XL model (1.5B param LM)",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 49; #omega / rho / tau from paper) #omega from paper, higher disc_weight means more aggressive topic steering",ai_reference_eval
+06_part5.pdf,,Leandro von Werra,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 53; Companion Notebook by Leandro von Werra (trl, 05-gpt2-sentiment-control)) Companion Notebook by Leandro von Werra is here: colab.research.google.com/github/lvwerra/trl/...",ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 53; BERT sentiment classifier for rewards; well-known) using a BERT sentiment classifier for rewards,ai_reference_eval
+06_part5.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 53; IMDB movie reviews; well-known) produce IMDB movie reviews with controlled sentiments,ai_reference_eval
+02_part1.pdf,,,,2010.04389,,ai_reference_eval:mentioned,,[ai-ref] (slides 8; A pre-print survey on the topic of Knowledge-enhanced NLG: https://arxiv.org/abs/2010.04389) A pre-print survey on the topic of Knowledge-enhanced NLG: https://arxiv.org/abs/2010.04389,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 2,27,40,44,45; ConceptNet; well-known) ConceptNet; Dataset: Reddit-1M + ConceptNet",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 3,4,5,11,14,15; LDA topic modeling; well-known) LDA topic modeling; Each topic is a distribution over words.",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 4; Figure: LDA topic model illustration (Seeking Life's Bare (Genetic) Necessities, Science 1996); well-known) Uncredited LDA illustration with 'Seeking Life's Bare (Genetic) Necessities' article",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 6,7,16,22,34,40,44; Seq2Seq (vanilla Seq2Seq); well-known) A vanilla Seq2Seq often generates trivial response",ai_reference_eval
+05_part4.pdf,Topic Aware Neural Response Generation,,2017,,,ai_reference_eval:central,,"[ai-ref] (slides 7,8,9,10; Topic Aware Neural Response Generation, In AAAI 2017) Topic Aware Neural Response Generation, In AAAI 2017",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9,10; S2SA, S2SA-MMI, S2SA-TopicConcat, S2SA-TopicAttention baselines) S2SA-MMI 147.04 133.11 ... S2SA-TopicConcat",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 9,10; Baidu Tieba (not public) dataset) Dataset: Baidu Tieba (not public)",ai_reference_eval
+05_part4.pdf,Topic-Guided Variational Autoencoders for Text Generation,,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 11,12,13; Topic-Guided Variational Autoencoders for Text Generation, In NAACL 2019) Topic-Guided Variational Autoencoders for Text Generation, In NAACL 2019",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 12; Householder Flow (figure from TGVAE)) Householder Flow block in architecture figure; HF: householder flow,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 13; APNEWS, IMDB, BNC datasets) APNEWS IMDB BNC columns in BLEU table",ai_reference_eval
+05_part4.pdf,Keywords-Guided Abstractive Sentence Summarization,,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 16,17,18; Keywords-Guided Abstractive Sentence Summarization, In AAAI 2020) Keywords-Guided Abstractive Sentence Summarization, In AAAI 2020",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 18; ABS, SEASS, PG, KIGN, Bottom-up baselines) ABS, SEASS, PG, KIGN, Bottom-up rows in ROUGE table",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 18,22; Gigawords dataset) Dataset: Gigawords",ai_reference_eval
+05_part4.pdf,Injecting Entity Types into Entity-Guided Text Generation,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 21,22; Injecting Entity Types into Entity-Guided Text Generation, In EMNLP 2021) Injecting Entity Types into Entity-Guided Text Generation, In EMNLP 2021",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 22,34,44; GPT-2 / GPT2-FT / GPT-2 (lang), GPT-2 (conv); well-known) GPT-2 9.04 31.30 ...; GPT2-FT; GPT-2 (conv)",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 22; UniLM (baseline row); well-known) UniLM 11.77 36.54 17.66,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 22; SeqAttn (baseline row)) SeqAttn 9.10 36.62 16.17,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 22,40,44; CopyNet (baseline row)) CopyNet 40.27 0.96 ...",ai_reference_eval
+05_part4.pdf,Commonsense Knowledge Aware Conversation Generation with Graph Attention,Zhou,2018,,,ai_reference_eval:central,,"[ai-ref] (slides 25,26,36,37,38,39,40; [Zhou 2018 IJCAI]; Commonsense Knowledge Aware Conversation Generation with Graph Attention, In IJCAI 2018 (CCM)) Commonsense Knowledge Aware Conversation Generation with Graph Attention, In IJCAI 2018",ai_reference_eval
+05_part4.pdf,A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation,Guan,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 25,27; [Guan 2020 TACL]; A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation, TACL 2020) A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation, TACL 2020",ai_reference_eval
+05_part4.pdf,,Liu,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 25; [Liu 2019 EMNLP]) M3: Path Reasoning [Liu 2019 EMNLP],ai_reference_eval
+05_part4.pdf,Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph,Ji,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 25,29,30,31,32,33,34,45; [Ji 2020 EMNLP]; Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph, In EMNLP 2020 (GRF)) Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph, In EMNLP 2020",ai_reference_eval
+05_part4.pdf,Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,Zhang,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 25,41,42,43,44,45; [Zhang 2020 ACL]; Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs, In ACL 2020 (ConceptFlow)) Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs, In ACL 2020",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 26; TransE (Pretrained through TransE; KGE); well-known) TransE: Given a KG ... embedded entities; Pretrained through TransE,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 27,45; ATOMIC) ATOMIC (PersonX dates for years, oEffect, continue dating)",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 28; Path routing and ranking (PRA algorithm)) Path routing and ranking (PRA algrithom); PRA uses random walks,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 31; R-GCN to model the relation type on ConceptNet; well-known) Encoder: R-GCN to model the relation type on ConceptNet,ai_reference_eval
+05_part4.pdf,,Bhagavatula et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 34; Bhagavatula et al. (2020) (generation results used in table)) we use the generation results from Bhagavatula et al. (2020),ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; COMeT-Txt-GPT2 / COMeT-Emb-GPT2 baselines) COMeT-Txt-GPT2, COMeT-Emb-GPT2 rows in table",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34,45; ROCStories / alpha-NLG / EG datasets) Dataset: ROCStories, alpha-NLG, EG.",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 40,44; MemNet (baseline row)) MemNet 46.85 0.761 ...",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 40,44,45; Reddit-1M dataset) Dataset: Reddit-1M + ConceptNet",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 45; KG-BART, CE-PR, MGCN, KEPM, MRG, AKGCM, MHPGM (table of KG-enhanced methods)) Methods column: KG-BART, CE-PR, GRF, MGCN, KEPM, MRG, ConceptFlow, AKGCM, MHPGM",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 45; CommonGen, ComVE, EntDesc, VisualStory, NarrativeQA, ICLR/EMNLP dialog datasets) Dataset Name: CommonGen, ComVE, aNLG-ART, EntDesc, VisualStory, NarrativeQA",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46; M1 Incorporate KGE into language generation (figure, TransE pretrained)) (M1) Incorporate KGE into language generation; Pretrained through TransE",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 46; TransE (pretrained KG embedding); well-known) Pretrained through TransE,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46; M2 Transfer knowledge into pretrained LM (figure, uncredited)) (M2) Transfer knowledge into pretrained LM",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 47; M3 Performing path reasoning on KG (figure, uncredited)) (M3) Performing path reasoning on KG",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 47; M4 Aggregating sub-KG via GNN (figure, uncredited)) (M4) Aggregating sub-KG via GNN",ai_reference_eval
+05_part4.pdf,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,Lewis et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 48,49,50; RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, In Neruips 2020 [Lewis et al. 2020 Neurips]; well-known) Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, In Neruips 2020",ai_reference_eval
+05_part4.pdf,,Wang et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 48,51,52,53; [Wang et al. 2021 ACL]) [Wang et al. 2021 ACL] ; Retrieval Enhanced Model for Commonsense Generation, In ACL 2021",ai_reference_eval
+05_part4.pdf,,Qin et al.,2019,,,ai_reference_eval:mentioned,,[ai-ref] (slides 48; [Qin et al. 2019 ACL]) [Qin et al. 2019 ACL],ai_reference_eval
+05_part4.pdf,,Meng et al.,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 48; [Meng et al. 2020 AAAI]) [Meng et al. 2020 AAAI],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 49; DPR (pre-trained retriever in RAG figure); well-known) RAG combines a pre-trained retriever (DPR),ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 49,50,52; BART (pre-trained seq2seq model); well-known) pre-trained seq2seq model (BART)",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 50; T5-11B [52] / T5-11B+SSM [52]; well-known) T5-11B [52],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 50; REALM [20]) REALM [20],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 50; DPR [26]; well-known) DPR [26],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 50; MS-MARCO SotA is [4]) MS-MARCO SotA is [4],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 50; FEVER-3 is [68]) FEVER-3 is [68],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 50; FEVER-2 is [57]) FEVER-2 is [57],ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 50; Trivial QA) Dataset: Trivial QA, MS-MARCO",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 50,57; MS-MARCO; well-known) Dataset: Trivial QA, MS-MARCO",ai_reference_eval
+05_part4.pdf,Retrieval Enhanced Model for Commonsense Generation,,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 51,52,53; Retrieval Enhanced Model for Commonsense Generation, In ACL 2021 (RE-T5)) Retrieval Enhanced Model for Commonsense Generation, In ACL 2021",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 51,52,53; CommonGen (dataset/task)) Task: CommonGen",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 51; GPT2 / UniLM / BART / T5 outputs in CommonGen figure; well-known) GPT2: ... UniLM: ... BART: ... T5:,ai_reference_eval
+05_part4.pdf,,Radford et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; GPT-2 (Radford et al., 2019); well-known) GPT-2 (Radford et al., 2019)",ai_reference_eval
+05_part4.pdf,,Bao et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; BERT-Gen (Bao et al., 2020)) BERT-Gen (Bao et al., 2020)",ai_reference_eval
+05_part4.pdf,,Dong et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; UniLM (Dong et al., 2019)) UniLM (Dong et al., 2019)",ai_reference_eval
+05_part4.pdf,,Lewis et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; BART (Lewis et al., 2020); well-known) BART (Lewis et al., 2020)",ai_reference_eval
+05_part4.pdf,,Raffel et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; T5-base / T5-large (Raffel et al., 2020); well-known) T5-base (Raffel et al., 2020)",ai_reference_eval
+05_part4.pdf,,Fan et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; EKI-BART (Fan et al., 2020)) EKI-BART (Fan et al., 2020)",ai_reference_eval
+05_part4.pdf,,Liu et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; KG-BART (Liu et al., 2021)) KG-BART (Liu et al., 2021)",ai_reference_eval
+05_part4.pdf,,Zhou et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52; CALM(T5-base) (Zhou et al., 2021)) CALM(T5-base) (Zhou et al., 2021)",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 52,53; BLEU, CIDEr, SPICE metrics) Metric: BLEU, CIDEr, SPICE",ai_reference_eval
+05_part4.pdf,Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading,,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 54,55,56; Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading, In ACL 2019) Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading, In ACL 2019",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 54,56; Reddit dataset (Conversing by Reading)) Dataset: Reddit",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 56; SEQ2SEQ / MEMNET baselines) SEQ2SEQ, MEMNET",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 56; CMR / CMR-F / CMR+W) CMR-F, CMR, CMR+W",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 57; Evidence-source table: MemNet, SKT, RAG, BART+DPR, RT+C-REALM, H&W, CANDELA, AT2T, KGNCM, R3Sum, BiSET) Tasks, datasets and evidence sources used in retrieve-then-generate papers",ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 57; Wizard of Wikipedia (WoW)) Wizard of Wikipedia (WoW),ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 57; ELI5) ELI5,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 57; ChangeMyView) ChangeMyView,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 57; Amazon books / Foursquare datasets) Amazon books; Foursquare,ai_reference_eval
+05_part4.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 57; Gigawords) Gigawords,ai_reference_eval

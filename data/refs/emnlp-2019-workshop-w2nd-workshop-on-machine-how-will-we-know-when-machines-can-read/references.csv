@@ -1,0 +1,13 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mrqa2019_matt_gardner.pdf,DROP: Discrete Reasoning Over Paragraphs,,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 18) NAACL 2019
+
+DROP:
+Discrete Reasoning Over Paragraphs",references_csv
+mrqa2019_matt_gardner.pdf,Quoref: Question-based coreference resolution,,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 21) EMNLP 2019
+
+Quoref:
+Question-based coreference resolution",references_csv
+mrqa2019_matt_gardner.pdf,ROPES: Reasoning Over Paragraph Effects in Situations,,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 25) MRQA 2019
+
+ROPES:
+Reasoning Over Paragraph Effects in Situations",references_csv

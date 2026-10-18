@@ -1,0 +1,12 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+cvpr2020_activitynet_feichtenhofer_efficient_video_recognition.pdf,SlowFast Networks for Video Recognition,"Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 4) Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He
+SlowFast Networks for Video Recognition. ICCV 2019",references_csv
+cvpr2020_activitynet_feichtenhofer_efficient_video_recognition.pdf,X3D: Expanding architectures for efficient video recognition,Christoph Feichtenhofer,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) Christoph Feichtenhofer
+X3D: Expanding architectures for efficient video recognition. Proc. CVPR 2020",references_csv
+cvpr2020_activitynet_feichtenhofer_efficient_video_recognition.pdf,A Multigrid Method for Efficiently Training Video Models,"Chao-Yuan Wu, Ross Girshick, Kaiming He, Christoph Feichtenhofer, Philipp Krähenbühl",2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 16) Chao-Yuan Wu, Ross Girshick, Kaiming He, Christoph Feichtenhofer, Philipp Krähenbühl
+A Multigrid Method for Efficiently Training Video Models. Proc. CVPR 2020",references_csv
+cvpr2020_activitynet_feichtenhofer_efficient_video_recognition.pdf,Audiovisual SlowFast Networks for Video Recognition,"Fanyi Xiao, Yong Jae Lee, Kristen Grauman, Jitendra Malik, and Christoph Feichtenhofer",2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 21) Fanyi Xiao, Yong Jae Lee, Kristen Grauman, Jitendra Malik, and Christoph Feichtenhofer
+Audiovisual SlowFast Networks for Video Recognition, Tech. report, arXiv, 2020",references_csv
+cvpr2020_activitynet_feichtenhofer_efficient_video_recognition.pdf,Contrastive bidirectional transformer for temporal representation learning,"C. Sun, F. Baradel, K. Murphy, and C. Schmid",2019,1906.05743,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) [69] C. Sun, F. Baradel, K. Murphy, and C. Schmid.
+Contrastive bidirectional transformer for temporal
+representation learning. arXiv preprint arXiv:1906.05743, 2019.",references_csv

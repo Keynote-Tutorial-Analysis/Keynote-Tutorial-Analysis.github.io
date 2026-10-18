@@ -1,0 +1,10 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclr2017_recht.pdf,Gradient Descent Converges to Minimizers,"Jason D. Lee, Max Simchowitz, Michael I. Jordan, and Benjamin Recht",2016,1602.04915,,extracted_from_slides:central,,"[auto-evidence] (slide 36) “Gradient Descent Converges to Minimizers.” Jason D. Lee, Max Simchowitz,",references_csv
+iclr2017_recht.pdf,Understanding Deep Learning Requires Rethinking Generalization,"Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, and Chiyuan Zhang",2017,1611.03530,,extracted_from_slides:central,,[auto-evidence] (slide 36) “Understanding Deep Learning Requires Rethinking Generalization.” Samy,references_csv
+iclr2017_recht.pdf,,,,1412.0233,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) arXiv:1412.0233,references_csv
+iclr2017_recht.pdf,,,,1406.2572,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) arXiv:1406.2572,references_csv
+iclr2017_recht.pdf,,,,1611.01838,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) arXiv:1611.01838,references_csv
+iclr2017_recht.pdf,,Smale et al,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) Stable Manifold Theorem (Smale et al),references_csv
+iclr2017_recht.pdf,,,,1512.00567v3,,extracted_from_slides:mentioned,,[auto-evidence] (slide 23) arXiv:1512.00567v3,references_csv
+iclr2017_recht.pdf,Lecture Notes on Approximation Algorithms and Semidefinite Programming,Bernd Gärtner and Jiří Matoušek,2009,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 36) Lecutre Notes on Approximation Algorithms and Semidefinite Programming.,references_csv
+iclr2017_recht.pdf,A Nearly Tight Sum-of-Squares Lower Bound for the Planted Clique Problem,"Boaz Barak, Samuel B. Hopkins, Jonathan Kelner, Pravesh K. Kothari, Ankur Moitra, Aaron Potechin",,1604.03084,,extracted_from_slides:mentioned,,[auto-evidence] (slide 36) “A Nearly Tight Sum-of-Squares Lower Bound for the Planted Clique Problem.”,references_csv

@@ -1,0 +1,48 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+sgrl2019_iccv_yejinchoi.pdf,From Recognition to Cognition: Visual Commonsense Reasoning,"Rowan Zellers, Yonatan Bisk, Ali Farhadi, Yejin Choi",2019,,visualcommonsense.com,extracted_from_slides:central,,[auto-evidence] (slide 3) From Recognition to Cognition: Visual Commonsense Reasoning CVPR 2019,references_csv
+sgrl2019_iccv_yejinchoi.pdf,HellaSwag: Can a Machine Really Finish Your Sentence?,"Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi",2019,,rowanzellers.com/hellaswag,extracted_from_slides:central,,[auto-evidence] (slide 27) HellaSwag: Can a Machine Really Finish Your Sentence? ACL 2019,references_csv
+sgrl2019_iccv_yejinchoi.pdf,ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning,Sap et al.,2019,,https://tinyurl.com/atomic-commonsense,extracted_from_slides:central,,[auto-evidence] (slide 39) ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning,references_csv
+sgrl2019_iccv_yejinchoi.pdf,COMeT: Commonsense Transformers for Automatic Knowledge Graph Construction,"Antoine Bosselut, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Çelikyilmaz, Yejin Choi",2019,,,extracted_from_slides:central,,[auto-evidence] (slide 48) COMeT: Commonsense Transformers for Automatic Knowledge Graph Construction ACL 2019,references_csv
+sgrl2019_iccv_yejinchoi.pdf,Adversarial Filters of Dataset Biases,Le Bras et al.,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 37) Adversarial Filters of Dataset Biases (Le Bras et al., 2019, in submission)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,Winogrande A Grande Dataset for the Winograd Schema Challenge,,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) Winogrande A Grande Dataset for the Winograd Schema Challenge,references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Szegedy et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Szegedy et al, 2014",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Li et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Dialogue
+
+2
+
+Li et al,
+2016",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Jabri et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) VQA
+
+Jabri et al,
+2017",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Holtzman et al,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Open-ended
+Holtzman
+Generation et al, 2018",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,MacLeod et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Captioning
+
+MacLeod
+et al, 2017",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Jia et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Jia et al,
+2017",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Peters et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Peters et al., 2018;",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Devlin et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Devlin et al., 2018",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Zellers et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 37) SWAG (Zellers et al., 2018)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Davis and Marcus,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 45) (taxonomic: A isA B; Davis and Marcus, 2015)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,OpenCyc,Lenat,1995,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 45) OpenCyc
+
+(Lenat, 1995)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,EventNet,Espinosa & Lieberman,2005,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 45) EventNet
+
+(Espinosa &
+Lieberman,
+2005)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,ConceptNet,Liu & Singh,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 45) ConceptNet
+(Liu & Singh, 2004)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,Formal Theory of Commonsense Psychology,Gordon & Hobbs,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 45) Formal Theory of
+Commonsense Psychology
+(Gordon & Hobbs, 2017)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Gordon & Van Durme,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) Reporting bias (Gordon &
+Van Durme, 2013)",references_csv
+sgrl2019_iccv_yejinchoi.pdf,,Grice,1975,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) Commonsense knowledge is
+not often written (Grice, 1975)",references_csv

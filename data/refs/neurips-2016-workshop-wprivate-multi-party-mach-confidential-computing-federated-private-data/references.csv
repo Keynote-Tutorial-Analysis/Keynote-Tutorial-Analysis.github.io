@@ -1,0 +1,15 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+pmpml16_nock.pdf,(Almost) No label No Cry,"Giorgio Patrini, Richard Nock, Paul Rivera & Tiberio Caetano",2014,,,extracted_from_slides:central,,"[auto-evidence] (slide 48) Giorgio Patrini, Richard Nock, Paul Rivera & Tiberio Caetano,
+“(Almost) No label No Cry”
+in NIPS 2014",references_csv
+pmpml16_nock.pdf,"Rademacher Observations, Private Data, and Boosting","Richard Nock, Giorgio Patrini, Arik Friedman",2015,,,extracted_from_slides:central,,"[auto-evidence] (slide 48) Richard Nock, Giorgio Patrini, Arik Friedman,
+“Rademacher Observations, Private Data, and Boosting”
+in ICML 2015",references_csv
+pmpml16_nock.pdf,Fast Learning from Distributed Datasets without Entity Resolution,"Giorgio Patrini, Richard Nock, Stephen Hardy, Tiberio Caetano",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 48) Giorgio Patrini, Richard Nock, Stephen Hardy, Tiberio Caetano
+“Fast Learning from Distributed Datasets without Entity
+Resolution”
+in IJCAI 2016",references_csv
+pmpml16_nock.pdf,On Regularizing Rademacher Observation Losses,Richard Nock,2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 48) Richard Nock
+“On Regularizing Rademacher Observation Losses”
+in NIPS 2016",references_csv
+pmpml16_nock.pdf,Privacy Preserving Gradient Descent Methods,Han et al.,2010,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 47) Builds on Han et al. 2010 “Privacy Preserving Gradient Descent Methods”,references_csv

@@ -1,0 +1,44 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+sgrl2019_iccv_justinjohnson.pdf,Image Retrieval with Scene Graphs,"Johnson, Krishna, Stark, Li, Shamma, Bernstein, and Fei-Fei",2015,,,extracted_from_slides:central,,"[auto-evidence] (slide 7) Johnson, Krishna, Stark, Li, Shamma, Bernstein, and Fei-Fei",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,"Krishna, Zhu, Groth, Johnson, Hata, Kravitz, Chen, Kalantidis, Li, Shamma, Bernstein, and Fei-Fei",2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 8) Krishna, Zhu, Groth, Johnson, Hata, Kravitz, Chen, Kalantidis, Li, Shamma, Bernstein, and Fei-Fei, IJCV 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,"Johnson, Gupta, and Fei-Fei",2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 22) Johnson, Gupta, and Fei-Fei, CVPR 2018",references_csv
+sgrl2019_iccv_justinjohnson.pdf,Mesh R-CNN,"Gkioxari, Malik, and Johnson",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 45) Gkioxari, Malik, and Johnson",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Fei-Fei et al,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Fei-Fei et al, 2004",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Griffin et al,2006,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Griffin et al, 2006",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Torralba et al,2008,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Torralba et al, TPAMI 2008",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Quattoni and Torralba,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Quattoni and Torralba, CVPR 2009",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Deng et al,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Deng et al, CVPR 2009",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Xiao et al,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Xiao et al, CVPR 2010",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Zhou et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Zhou et al, NIPS 2014",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Russakovsky et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Russakovsky et al, IJCV 2015",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Lu et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Lu et al, ECCV 2016",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Xu et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Xu et al, CVPR 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Yang et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Yang et al, 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Newell and Deng,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Newell and Deng, NIPS 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Schuster et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Schuster et al, EMNLP-VLW 2015",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Anderson et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Anderson et al, ECCV",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Liu et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Liu et al, ICCV 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Mansimov et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Mansimov et al, ICLR 2016",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Reed et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Reed et al, ICML 2016",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Reed et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Reed et al, NIPS 2016",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Reed et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Reed et al, NIPS 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Nguyen et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Nguyen et al, CVPR 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Zhang et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) StackGAN
+Zhang et al, ICCV 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Goodfellow et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 17) Goodfellow et al, NIPS 2014",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Goller and Kuchler,1996,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Goller and Kuchler, 1996",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Gori et al,2005,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Gori et al, 2005",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Scarselli et al,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Scarselli et al, 2009",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Bruna et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Bruna et al, ICLR 2014",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Li et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Li et al, ICLR 2015",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Henaff et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Henaff et
+al, arXiv 2015",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Duvenaud et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Duvenaud et al, NIPS 2015",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Jain et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Jain et al, CVPR 2016",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Kipf and Welling,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Kipf and Welling, ICLR 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Wang et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Wang et al, NIPS 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Isola et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) PatchGAN: Isola et al, CVPR 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,,Odena et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) AC-GAN: Odena et al, ICML 2017",references_csv
+sgrl2019_iccv_justinjohnson.pdf,Mask R-CNN,"He, Gkioxari, Dollár, and Girshick",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) He, Gkioxari, Dollár, and Girshick",references_csv
+sgrl2019_iccv_justinjohnson.pdf,Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images,Wang et al,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 49) Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images,references_csv
+sgrl2019_iccv_justinjohnson.pdf,Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers,Richter and Roth,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 60) Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers,references_csv

@@ -1,0 +1,17 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+lld2017_goodfellow.pdf,,Goodfellow et al.,2014,,,extracted_from_slides:central,,"[auto-evidence] (slide 2) (Goodfellow et al., 2014)",references_csv
+lld2017_goodfellow.pdf,,Yeh et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) (Yeh et al., 2016)",references_csv
+lld2017_goodfellow.pdf,,Odena,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) (Odena 2016, Salimans et al 2016)",references_csv
+lld2017_goodfellow.pdf,,Dai et al,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 8) (Dai et al 2017),references_csv
+lld2017_goodfellow.pdf,,Papernot et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) Useful for diﬀerential privacy: Papernot et al, 2016",references_csv
+lld2017_goodfellow.pdf,,Lotter et al,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 10) (Lotter et al,references_csv
+lld2017_goodfellow.pdf,,Mathieu et al.,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) (Mathieu et al. 2015),references_csv
+lld2017_goodfellow.pdf,,Liu et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) (Liu et al., 2017)",references_csv
+lld2017_goodfellow.pdf,,Zhu et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) (Zhu et al., 2017)",references_csv
+lld2017_goodfellow.pdf,,Conneau et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) (Conneau et al., 2017)",references_csv
+lld2017_goodfellow.pdf,,de Oliveira et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 18) (de Oliveira et al., 2017)",references_csv
+lld2017_goodfellow.pdf,,Shrivastava et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) (Shrivastava et al., 2016)",references_csv
+lld2017_goodfellow.pdf,,Bousmalis et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) (Bousmalis et al., 2016)",references_csv
+lld2017_goodfellow.pdf,,Wang et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 23) (Wang et al., 2017)",references_csv
+lld2017_goodfellow.pdf,,Ganin et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Domain Adversarial Networks (Ganin et al, 2015)",references_csv
+lld2017_goodfellow.pdf,,Lamb et al,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Professor forcing (Lamb et al, 2016): DomainAdversarial learning in RNN hidden state",references_csv

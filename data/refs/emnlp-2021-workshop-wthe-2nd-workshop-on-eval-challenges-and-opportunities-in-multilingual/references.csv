@@ -1,0 +1,39 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Ruder et al.,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 8) Language coverage of tasks in XTREME-R
+[Ruder et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Volansky et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) “Translationese”: translations differ in many aspects from
+natural language [Volansky et al., 2015]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Lewis et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Train-test overlap for answers in NQ [Lewis et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Watarai & Tsuchiya,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) [Watarai & Tsuchiya, 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Artetxe et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Bias towards models trained on translations in XNLI
+[Artetxe et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Roemmele et al.,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) In COPA [Roemmele et al., 2011]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Ponti et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) hamburger, lottery [Ponti et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Liu et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Concepts in ImageNet are Western-centric [Liu et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Thomas,1983,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) social
+distance, etc are culture-dependent [Thomas, 1983]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Gor et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) across examples with people in QA
+datasets [Gor et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Joshi et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Distribution of resources across languages [Joshi et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Ribeiro et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Create template-based test cases, e.g. using CheckList [Ribeiro et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Jiang et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) closed-book QA [Jiang et al., 2020; Kassner et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Hu et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) [Hu et al., 2020; Hedderich et al., 2020; Lauscher et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Lauscher et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Dependency parsing results across different
+numbers of examples [Lauscher et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Debnath et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) same number of examples [Debnath et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Kirstain et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) More examples are needed for more challenging tasks
+[Kirstain et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Ye et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) extrapolate performance to
+languages without data [Ye et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Xia et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) a representative subset of languages
+[Xia et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Ponti et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) in UD [Ponti et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,∀ et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Different stakeholders involved in the MT
+process [∀ et al., 2020]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Lin et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) [Lin et al., 2019; Anastasopoulos & Neubig, 2020;
+Turc et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Turc et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) Turc et al., 2021]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Valenzuela,2003,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) Translations in Shipibo (spoken in Peru) [Valenzuela, 2003]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,chrF,Popović,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 17) use character-level evaluation, e.g. chrF [Popović, 2015]",references_csv
+emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf,,Blasi et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 18) the outlook is much more
+pessimistic [Blasi et al., 2021]",references_csv

@@ -1,0 +1,41 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,Realistic Evaluation Principles for Cross-document Coreference Resolution,"Arie Cattan, Alon Eirew, Gabriel Stanovsky, Mandar Joshi, Ido Dagan",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 23) Realistic Evaluation Principles for
+Cross-document Coreference Resolution
+*SEM 2021",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,Cross-document Coreference Resolution over Predicted Mentions.,"Cattan, Arie, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 50) [2] Cattan, Arie, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan. “Cross-document Coreference Resolution over Predicted Mentions.” Findings of ACL (2021)",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,CoRefi: A Crowd Sourcing Suite for Coreference Annotation,"Aaron Bornstein, Arie Cattan, Ido Dagan",2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 56) CoRefi: A Crowd Sourcing Suite for
+Coreference Annotation
+EMNLP 2020",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,WEC: Deriving a Large-scale Cross-document Event Coreference Dataset from Wikipedia,"Alon Eirew, Arie Cattan, Ido Dagan",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 65) WEC: Deriving a Large-scale
+Cross-document Event Coreference
+Dataset from Wikipedia
+NAACL 2021",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,CD^2CR: Coreference Resolution across Documents and Domains,"James Ravenscroft, Arie Cattan, Amanda Clare, Ido Dagan, Maria Liakata",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 75) CD^2CR: Coreference Resolution across
+Documents and Domains
+EACL 2021",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts,"Arie Cattan, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Doug Downey, Tom Hope",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 77) SciCo: Hierarchical Cross-Document
+Coreference for Scientific Concepts",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions,"Daniela Brook Weiss, Paul Roit, Ayal Klein, Ori Ernst, Ido Dagan",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 111) QA-Align: Representing Cross-Text
+Content Overlap by Aligning
+Question-Answer Propositions
+EMNLP 2021",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,CDLM: Cross-Document Language Modeling,"Avi Caciularu, Arman Cohan, Iz Beltagy, Matt Peters, Arie Cattan, Ido Dagan",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 124) CDLM:
+Cross-Document Language Modeling
+Findings of EMNLP 2021",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,iFACETSUM: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration,"Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, Ram Pasunuru, Hadar Ronen, Mohit Bansal, Arie Cattan, Ido Dagan, Ori Ernst",2021,,,extracted_from_slides:central,,[auto-evidence] (slide 128) Coreference-based Interactive Faceted,references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,Using a sledgehammer to crack a nut? Lexical diversity and event coreference resolution.,"Cybulska, Agata and P. Vossen",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 16) [1] Cybulska, Agata and P. Vossen. “Using a sledgehammer to crack a nut? Lexical diversity and event coreference resolution.” LREC (2014).",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,,Bugert et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) CD-coref resolvers are NOT used in practice (Bugert et al.,",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,,Dasigi et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) this question-answering example from Quoref (Dasigi et al., 2019)",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,,Roit et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 117) Data collection via Controlled Crowdsourcing (Roit et al., ACL 2020)",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,,Stanovsky et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 162) Supervised
+Open
+Information
+Extraction
+(Stanovsky et
+al., 2018)",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,,Ernst et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 162) SuperPAL
+(Ernst et al.,
+2021)",references_csv
+emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf,,Lewis et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 163) BART-CNN
+(Lewis et al.,
+2020)",references_csv

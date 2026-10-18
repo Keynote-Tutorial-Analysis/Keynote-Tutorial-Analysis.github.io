@@ -1,0 +1,16 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mar2024_krishna.pdf,Molmo – a family of open VLMs,,2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 7) Molmo – a family of open VLMs
+[ArXiv 2024]",references_csv
+mar2024_krishna.pdf,BLINK,,2024,,,extracted_from_slides:central,,[auto-evidence] (slide 43) BLINK : A VLM benchmark aimed at measuring classical notions of perception (at ECCV 2024),references_csv
+mar2024_krishna.pdf,,,2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) Sketching for perceptual reasoning
+
+Enabling sketching:
+visual chain of thought
+
+[NeurIPS 2024] [ArXiv 2025]",references_csv
+mar2024_krishna.pdf,TACO: Learning Multi-modal Action Models with Synthetic Chains-ofThought-and-Action,"Ma, Zhang, Liu, Zhang, Tan, Shu, Niebles, Heinecke, Wang, Xiong, Krishna, Savarese",2025,,,extracted_from_slides:central,,"[auto-evidence] (slide 94) Ma, Zhang, Liu, Zhang, Tan, Shu, Niebles, Heinecke, Wang, Xiong, Krishna, Savarese. TACO: Learning Multi-modal Action Models with Synthetic Chains-ofThought-and-Action. ArXiv 2025",references_csv
+mar2024_krishna.pdf,Visual Program Distillation (VPD),,,,,extracted_from_slides:central,,[auto-evidence] (slide 103) Our solution: visual program distillation (VPD),references_csv
+mar2024_krishna.pdf,Perception Tokens Enhance Visual Reasoning in Multimodal Language Models,"Bigverdi, Luo, Hsieh, Shen, Chen, Shapiro, Krishna",2025,,,extracted_from_slides:central,,"[auto-evidence] (slide 120) Bigverdi, Luo, Hsieh, Shen, Chen, Shapiro, Krishna. Perception Tokens Enhance Visual Reasoning in Multimodal Language Models. ArXiv 2025",references_csv
+mar2024_krishna.pdf,Rendering Effective Route Maps: Improving Usability Through Generalization,Agrawala and Stolte,2001,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 63) Agrawala and Stolte. Rendering Effective Route Maps: Improving Usability Through Generalization, 2001",references_csv
+mar2024_krishna.pdf,Designing Effective Step-By-Step Assembly Instructions,Agrawala et al.,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 64) Agrawala et al. Designing Effective Step-By-Step Assembly Instructions, 2004",references_csv
+mar2024_krishna.pdf,Animation: can it facilitate?,Tversky et al.,2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 65) Tversky et al. Animation: can it facilitate?, 2002",references_csv

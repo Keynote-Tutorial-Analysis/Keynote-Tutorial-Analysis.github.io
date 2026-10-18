@@ -1,0 +1,14 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+dlps2017_vonlilienfeld.pdf,,"Huang, OAvL",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 24) Huang, OAvL, J Chem Phys (2016)",references_csv
+dlps2017_vonlilienfeld.pdf,"Machine Learning, Quantum Mechanics, and Chemical Compound Space",Ramakrishnan and von Lilienfeld,2017,1510.07512,www.arxiv.org/abs/1510.07512,extracted_from_slides:mentioned,,"[auto-evidence] (slide 1) Machine Learning, Quantum Mechanics, and Chemical Compound Space",references_csv
+dlps2017_vonlilienfeld.pdf,Quantum Machine Learning in Chemical Compound Space,,2018,,http://rdcu.be/AJNU/,extracted_from_slides:mentioned,,[auto-evidence] (slide 1) Quantum Machine Learning in Chemical Compound Space,references_csv
+dlps2017_vonlilienfeld.pdf,,Pande et al.,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) Pande et al, J. Phys. Chem B (2013)",references_csv
+dlps2017_vonlilienfeld.pdf,,Okamura et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Okamura et al, Nature (2016)",references_csv
+dlps2017_vonlilienfeld.pdf,,OAvL (von Lilienfeld),2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) OAvL, Int J Quant Chem, (2013)",references_csv
+dlps2017_vonlilienfeld.pdf,Chemical Space,Kirkpatrick and Ellis,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Kirkpatrick and Ellis,",references_csv
+dlps2017_vonlilienfeld.pdf,,Ramakrishnan et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 18) Ramakrishnan et al, Scientific Data (2014)",references_csv
+dlps2017_vonlilienfeld.pdf,The Nature of Statistical Learning Theory,Vapnik,1995,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Vapnik, The Nature of Statistical Learning Theory, Springer (1995)",references_csv
+dlps2017_vonlilienfeld.pdf,Prediction errors of molecular machine learning models lower than hybrid DFT errors,"F. A. Faber, L. Hutchison, B. Huang, J. Gilmer, S. S. Schoenholz, G. E. Dahl, O. Vinyals, S. Kearnes, P. F. Riley, OAvL",2017,1702.05532,arxiv.org/abs/1702.05532,extracted_from_slides:mentioned,,[auto-evidence] (slide 26) Prediction errors of molecular machine learning models lower than hybrid DFT errors,references_csv
+dlps2017_vonlilienfeld.pdf,,"Ramakrishnan, OAvL",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 51) Ramakrishnan, OAvL, CHIMIA (2015)",references_csv
+dlps2017_vonlilienfeld.pdf,,"Chang, von Lilienfeld",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) Chang, von Lilienfeld, CHIMIA (2014)",references_csv
+dlps2017_vonlilienfeld.pdf,,"Rupp, Tkatchenko, Muller, von Lilienfeld",2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) Rupp, Tkatchenko, Muller, von Lilienfeld, Phys Rev Lett (2012)",references_csv

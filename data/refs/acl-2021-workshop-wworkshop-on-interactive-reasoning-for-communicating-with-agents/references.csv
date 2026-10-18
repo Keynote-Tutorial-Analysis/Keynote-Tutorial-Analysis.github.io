@@ -1,0 +1,22 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+roth_internlp_acl2021.pptx,,Dan et al.,NAACL'21,,,extracted_from_slides:central,,[auto-evidence] (slide 8) Expectations from a Model (1) [Dan et al. NAACL'21],references_csv
+roth_internlp_acl2021.pptx,,Zhou et al.,EMNLP 2019,,,extracted_from_slides:central,,[auto-evidence] (slide 28) MC-TACO [Zhou et al. EMNLP 2019],references_csv
+roth_internlp_acl2021.pptx,,Zhou et al.,ACL'20,,,extracted_from_slides:central,,[auto-evidence] (slide 32) Modeling Temporal Common Sense [Zhou et al. ACL'20],references_csv
+roth_internlp_acl2021.pptx,,Zhou et al.,NAACL'21,,,extracted_from_slides:central,,[auto-evidence] (slide 40) Temporal Reasoning on Implicit Events [Zhou et al. NAACL'21],references_csv
+roth_internlp_acl2021.pptx,,Annie Louis & Filip Radlinski,EMNLP'20,,,extracted_from_slides:central,,[auto-evidence] (slide 50) Understanding Indirect Answers [with Annie Louis & Filip Radlinski; EMNLP'20],references_csv
+roth_internlp_acl2021.pptx,,Gupta et al.,"'18, '19, '20, '21",,,extracted_from_slides:central,,"[auto-evidence] (slide 45) Talk with My Agent About….[Gupta et al. '18', '19, '20, '21]",references_csv
+roth_internlp_acl2021.pptx,,Terry Winograd,1968,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) SHRDLU (Terry Winograd, 1968)",references_csv
+roth_internlp_acl2021.pptx,Driving Semantic Parsing from the World's Response,Clarke et al.,2010,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 7) Clarke et al. 2010 Driving Semantic Parsing from the World's Response,references_csv
+roth_internlp_acl2021.pptx,From 'F' to 'A' on the N.Y. Regents Science Exams: An Overview of the Aristo Project,Clark et al,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 12) Clark et al 2019: On the success of AI2's ARISTO Project:,references_csv
+roth_internlp_acl2021.pptx,,Shah et al.,EMNLP Findings 2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 13) A Scientific QA Example [Shah et al. EMNLP Findings 2020],references_csv
+roth_internlp_acl2021.pptx,,Geva et al.,TACL'21,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 19) In [Geva et al. TACL'21] we develop StrategyQA,references_csv
+roth_internlp_acl2021.pptx,,Ning et al.,NAACL'18,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 27) Ning et al. NAACL'18,references_csv
+roth_internlp_acl2021.pptx,,Elazar et al.,ACL'19,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 27) [Elazar et al. ACL'19],references_csv
+roth_internlp_acl2021.pptx,Enhanced LSTM for Natural Language Inference,Chen et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) ESIM: Enhanced LSTM for Natural Language Inference (Chen et al., 2016)",references_csv
+roth_internlp_acl2021.pptx,Global Vectors for Word Representation,Pennington et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) GloVe: Global Vectors for Word Representation (Pennington et al., 2014)",references_csv
+roth_internlp_acl2021.pptx,Deep contextualized word representations,Peters et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) ELMo: Deep contextualized word representations (Peters et al., 2018)",references_csv
+roth_internlp_acl2021.pptx,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Devlin et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2019)",references_csv
+roth_internlp_acl2021.pptx,A Robustly Optimized BERT Pretraining Approach,Liu et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., 2019)",references_csv
+roth_internlp_acl2021.pptx,,Stenstrom,1984,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 54) (Stenstrom, 1984, Brown and Levinson, 1978, Hirschberg, 1985)",references_csv
+roth_internlp_acl2021.pptx,,Green and Carberry,1999,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 54) Green and Carberry, 1999 , Potts 2008, de Marneffe et al, 2009-11,2016",references_csv
+roth_internlp_acl2021.pptx,,Clark et. al,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 54) Recent work on Yes/No questions (e.g., BOOLQ, Clark et. al 2019)",references_csv

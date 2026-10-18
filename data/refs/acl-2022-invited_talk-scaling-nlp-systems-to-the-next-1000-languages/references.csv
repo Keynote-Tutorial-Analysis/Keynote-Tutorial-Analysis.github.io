@@ -1,0 +1,21 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+ruder_acl2022_1000langs.pdf,,Bender,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Most NLP research focuses on English [Bender, 2011; Ruder et al., 2022]",references_csv
+ruder_acl2022_1000langs.pdf,,van Esch et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Languages with at least n
+speakers [van Esch et al., 2022].",references_csv
+ruder_acl2022_1000langs.pdf,,Hu & Ruder,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Performance of models on the XTREME [Hu & Ruder, 2020]",references_csv
+ruder_acl2022_1000langs.pdf,,Ruder et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Most cover only
+few languages [Ruder et al., 2021].",references_csv
+ruder_acl2022_1000langs.pdf,,Orevaoghene et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Cost of mobile data by country per
+language rank [Orevaoghene et al.,
+2021]",references_csv
+ruder_acl2022_1000langs.pdf,,Wang et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) tokenization [Wang et al., 2021; Nzeyimana &
+Rubungo, 2022]",references_csv
+ruder_acl2022_1000langs.pdf,,Pfeiffer et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) adapters [Pfeiffer et al., 2020]",references_csv
+ruder_acl2022_1000langs.pdf,,Yi et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) tokenization [Yi et al., 2022]",references_csv
+ruder_acl2022_1000langs.pdf,,Bapna et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) Joint text-and-speech pre-training [Bapna et al., 2022;
+Chen et al., 2022]",references_csv
+ruder_acl2022_1000langs.pdf,,Conneau et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) new benchmarks [Conneau et al., 2022]",references_csv
+ruder_acl2022_1000langs.pdf,,Gor et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) across examples with people in QA
+datasets [Gor et al., 2021]",references_csv
+ruder_acl2022_1000langs.pdf,,Liu et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) A Tamil example in MaRVL [Liu et al., 2021]",references_csv
+ruder_acl2022_1000langs.pdf,,Aji et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Include dialect and other linguistic metadata (style, register, etc) [Aji et al., 2022]",references_csv

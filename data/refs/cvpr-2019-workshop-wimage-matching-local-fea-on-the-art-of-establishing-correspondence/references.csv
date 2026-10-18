@@ -1,0 +1,42 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+cvpr2019_imw_matas_correspondence.pdf,MAGSAC,Barath et al.,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 10) MAGSAC (Barath et al., CVPR 2019, Poster 3-1.158)",references_csv
+cvpr2019_imw_matas_correspondence.pdf,GC-RANSAC,Barath and Matas,2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 12) GC-RANSAC [Barath and Matas, CVPR 2018]",references_csv
+cvpr2019_imw_matas_correspondence.pdf,Repeatability Is Not Enough: Learning Affine Regions via Discriminability,Mishkin et.al.,2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 28) Mishkin et.al. Repeatability Is Not Enough: Learning Affine Regions via Discriminability.
+ECCV 2018",references_csv
+cvpr2019_imw_matas_correspondence.pdf,,Cox,1996,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Correspondence by classical narrow-baseline stereo methods,
+e.g. Cox 1996",references_csv
+cvpr2019_imw_matas_correspondence.pdf,SIFT,D. Lowe,2000,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Standard approach:
+D. Lowe, 2000, SIFT",references_csv
+cvpr2019_imw_matas_correspondence.pdf,,Mikolajczyk & Schmid,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Also:
+Mikolajczyk & Schmid,
+Tuytelaars & van Gool,
+Matas et al. and many
+other",references_csv
+cvpr2019_imw_matas_correspondence.pdf,,Tuytelaars & van Gool,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Mikolajczyk & Schmid,
+Tuytelaars & van Gool,
+Matas et al. and many
+other",references_csv
+cvpr2019_imw_matas_correspondence.pdf,,Matas et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Tuytelaars & van Gool,
+Matas et al. and many
+other",references_csv
+cvpr2019_imw_matas_correspondence.pdf,Guided matching,"Schaffalitzky, Zissermann",98,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Guided matching
+Schaffalitzky,Zissermann
+BMVC 98",references_csv
+cvpr2019_imw_matas_correspondence.pdf,ASIFT: A New Framework for Fully Affine Invariant Image Comparison,"Morel, Yu",2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Morel, Yu: ASIFT: A New Framework for Fully Affine Invariant Image Comparison. SIAM JIS 2009",references_csv
+cvpr2019_imw_matas_correspondence.pdf,MODS: Fast and robust method for two-view matching,Mishkin,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Mishkin, MODS: Fast and robust method for two-view matching. CVIU 2015",references_csv
+cvpr2019_imw_matas_correspondence.pdf,Two-View Matching with View Synthesis Revisited,Mishkin et al.,2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) [Mishkin et al., Two-View Matching with View
+Synthesis Revisited. IVCNZ 2013]",references_csv
+cvpr2019_imw_matas_correspondence.pdf,,Sarlin et.al,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) (rediscovered: in [Sarlin et.al, CVPR 2019)",references_csv
+cvpr2019_imw_matas_correspondence.pdf,D2Net,,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) SuperPoint (CVPRW 2018), D2Net (CVPR
+2019), RFNet (arXiv 2019, called “neighbor
+mask”)",references_csv
+cvpr2019_imw_matas_correspondence.pdf,RFNet,,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) D2Net (CVPR
+2019), RFNet (arXiv 2019, called “neighbor
+mask”)",references_csv
+cvpr2019_imw_matas_correspondence.pdf,Deep Fundamental Matrix Estimation,Ranftl and Koltun,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Ranftl and Koltun, Deep Fundamental Matrix Estimation, ECCV 2018",references_csv
+cvpr2019_imw_matas_correspondence.pdf,,Brachmann,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Brachmann, PhD thesis, 2018",references_csv
+cvpr2019_imw_matas_correspondence.pdf,SuperPoint: Self-Supervised Interest Point Detection and Description,"D. DeTone, T. Malisiewicz, A. Rabinovich",2017,1712.07629,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) D. DeTone, T. Malisiewicz, A. Rabinovich:
+SuperPoint: Self-Supervised Interest Point Detection and
+Description. CoRR abs/1712.07629 (2017)",references_csv
+cvpr2019_imw_matas_correspondence.pdf,Learning to Find Good Correspondences,"Moo Yi, Trulls, Ono, Lepetit, Salzmann, Fua",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) Moo Yi, Trulls, Ono, Lepetit, Salzmann, Fua:
+Learning to Find Good Correspondences, CVPR 2018",references_csv

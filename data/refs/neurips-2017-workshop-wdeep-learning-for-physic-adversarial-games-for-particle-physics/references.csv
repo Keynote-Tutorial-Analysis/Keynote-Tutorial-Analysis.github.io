@@ -1,0 +1,25 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+dlps2017_louppe.pdf,Learning to Pivot,Louppe et al,2016,1611.01046,,extracted_from_slides:central,,"[auto-evidence] (slide 9) Louppe et al, 2016, arXiv:1611.01046
+
+II. Learning to Pivot",references_csv
+dlps2017_louppe.pdf,Adversarial Variational Optimization,Louppe and Cranmer,2017,1707.07113,,extracted_from_slides:central,,"[auto-evidence] (slide 21) Louppe and Cranmer, 2017, arXiv:1707.07113
+
+III. Adversarial Variational
+Optimization",references_csv
+dlps2017_louppe.pdf,,de Oliveira et al,2017,1701.05927,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) de Oliveira et al, 2017, arXiv:1701.05927; Paganini et al, 2017, arXiv:1705.02355",references_csv
+dlps2017_louppe.pdf,,Gulrajani et al,2017,1704.00028,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) Paganini et al, 2017, arXiv:1705.02355, Gulrajani et al, 2017, arXiv:1704.00028",references_csv
+dlps2017_louppe.pdf,Decorrelated Jet Substructure Tagging using Adversarial Neural Networks,Shimmin et al,2017,1703.03507,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) Shimmin et al, 2017, arXiv:1703.03507; Lample et al, 2017, arXiv:1706.00409
+
+Applications
+
+Decorrelated Jet Substructure Tagging
+using Adversarial Neural Networks",references_csv
+dlps2017_louppe.pdf,Fader networks,Lample et al,2017,1706.00409,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) Lample et al, 2017, arXiv:1706.00409
+
+Applications
+
+Decorrelated Jet Substructure Tagging
+using Adversarial Neural Networks
+
+Fader networks",references_csv
+dlps2017_louppe.pdf,,,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) Shimmin et al, 2017, arXiv:1703.03507; ATL-PHYS-PUB-2017-004",references_csv

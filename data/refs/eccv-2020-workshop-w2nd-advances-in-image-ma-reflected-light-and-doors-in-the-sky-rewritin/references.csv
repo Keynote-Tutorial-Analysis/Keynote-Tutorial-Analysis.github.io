@@ -1,0 +1,10 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+aim2020_eccv_davidbau.pdf,GAN Dissection,Bau et al.,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 12) GAN Dissection [Bau et al., ICLR 2019]",references_csv
+aim2020_eccv_davidbau.pdf,Semantic Photo Manipulation,Bau et al.,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 23) Semantic Photo Manipulation [Bau et al., SIGGRAPH 2019]",references_csv
+aim2020_eccv_davidbau.pdf,Rewriting a Deep Generative Model,Bau et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 46) Rewriting a Deep Generative Model [Bau et al., ECCV 2020]",references_csv
+aim2020_eccv_davidbau.pdf,StyleGAN v2,"Karras, et al.",2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) StyleGAN v2 [Karras, et al. CVPR 2020]",references_csv
+aim2020_eccv_davidbau.pdf,LSUN Churches,"Yu, et al.",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) LSUN Churches [Yu, et al. 2015]",references_csv
+aim2020_eccv_davidbau.pdf,Progressive GAN,"Karras, et al",2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Progressive GAN [Karras, et al 2018]",references_csv
+aim2020_eccv_davidbau.pdf,,Zhu et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) [Zhu et al., 2016]",references_csv
+aim2020_eccv_davidbau.pdf,,Dosovitskiy and Brox.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) [Dosovitskiy and Brox., 2016]",references_csv
+aim2020_eccv_davidbau.pdf,,Kohonen,1972,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 62) [Kohonen 1972],references_csv

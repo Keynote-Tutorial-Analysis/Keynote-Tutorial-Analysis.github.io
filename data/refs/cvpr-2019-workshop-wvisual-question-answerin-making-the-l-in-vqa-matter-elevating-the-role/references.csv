@@ -1,0 +1,11 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+vqa2019_manning.pdf,Visual Genome,"Krishna, Zhu, Groth, Johnson, Hata, Kravitz, Chen, Kalantidis, Li, Shamma, Bernstein, and Fei-Fei",2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 18) [Krishna, Zhu, Groth, Johnson, Hata, Kravitz, Chen, Kalantidis, Li, Shamma, Bernstein, and Fei-Fei, IJCV 2017]",references_csv
+vqa2019_manning.pdf,Learning by Abstraction,Hudson and Manning,,,,extracted_from_slides:central,,[auto-evidence] (slide 26) [Hudson and Manning submitted],references_csv
+vqa2019_manning.pdf,,Das et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 8) Visual Dialog Challenge [Das et al. 2016],references_csv
+vqa2019_manning.pdf,,Novikova et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 8) [Novikova et al. 2017],references_csv
+vqa2019_manning.pdf,,Yoshua Bengio,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) Yoshua Bengio’s so-called “Consciousness Prior”,references_csv
+vqa2019_manning.pdf,,Agrawal et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 32) VQA-CP: VQA under Changing Priors [Agrawal et al. 2017],references_csv
+vqa2019_manning.pdf,,Antol et al.,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 32) (Antol et al. ICCV 2015),references_csv
+vqa2019_manning.pdf,,Andreas et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 32) (Andreas et al. CVPR 2016),references_csv
+vqa2019_manning.pdf,,Yang et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 32) (Yang et al. CVPR 2016),references_csv
+vqa2019_manning.pdf,,Fukui et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 32) (Fukui et al. EMNLP 2016),references_csv

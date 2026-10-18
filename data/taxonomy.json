@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "note": "Slide-deck annotation taxonomy. Narrative Style (pick one), Content Style (select all), Visual Style (sub-dimensions shown together: Background pick one, Layout select all, Content Presentation pick one) and Textual Style (select all). Flags: `single` = at most one concept selectable; `group`/`tab` = categories sharing a group id render together. Longer per-concept explanations (shown under each category) live in `desc`.",
+  "categories": [
+    {
+      "key": "narrative_style",
+      "label": "Narrative Style",
+      "desc": "How information is organized and developed across the deck. Pick the single dominant structure.",
+      "single": true,
+      "required": true,
+      "concepts": [
+        {"id": "source",     "label": "Source-based",     "desc": "Organized around individual source documents, with each source presented largely as a separate unit. e.g. Paper A → Paper B → Paper C"},
+        {"id": "topic",      "label": "Topic-based",      "desc": "Organized around topics, themes, or concepts, potentially combining information from multiple sources within each topic. e.g. Architectures → Applications → Challenges"},
+        {"id": "time",       "label": "Time-based",       "desc": "Organized around the chronological development of events, ideas, or technologies. e.g. Early developments → Recent advances → Future directions"},
+        {"id": "step",       "label": "Step-by-step",     "desc": "Follows an ordered sequence of processes, stages, or learning dependencies, where each section builds on the preceding one. e.g. Data collection → Processing → Training → Evaluation"},
+        {"id": "comparison", "label": "Comparison-based", "desc": "Organized around systematic comparisons of approaches, alternatives, or entities across different dimensions. e.g. Accuracy → Efficiency → Limitations comparison"},
+        {"id": "reasoning",  "label": "Reasoning-based",  "desc": "Develops a central question, problem, or claim through a sequence of explanations, evidence, and conclusions. e.g. Problem → Existing limitations → Evidence → Proposed solution"}
+      ]
+    },
+    {
+      "key": "content_pref",
+      "label": "Content Style",
+      "desc": "How information from multiple source documents is presented, connected, and synthesized. Select all that apply.",
+      "concepts": [
+        {"id": "independent",   "label": "Independent",        "desc": "Presents contributions, methods, or findings from multiple sources without establishing substantial connections between them."},
+        {"id": "comparative",   "label": "Comparative",        "desc": "Explicitly compares contributions from multiple sources to identify similarities, differences, relative strengths, or trade-offs."},
+        {"id": "shared_limits", "label": "Shared Limitations", "desc": "Identifies common weaknesses, unresolved challenges, or research gaps across multiple source documents."},
+        {"id": "new_directions","label": "New Directions",     "desc": "Builds on contributions from multiple sources to propose future research directions, new approaches, hypotheses, or potential improvements."},
+        {"id": "insights",      "label": "Insights",           "desc": "Combines findings from multiple sources to establish shared principles, complementary relationships, unified explanations, or broader conclusions."}
+      ]
+    },
+    {
+      "key": "visual_background",
+      "label": "Background Style",
+      "group": "visual",
+      "tab": "Background",
+      "single": true,
+      "required": true,
+      "desc": "The background appearance of the slides.",
+      "concepts": [
+        {"id": "plain",           "label": "Plain White/Dark",   "desc": "Slides primarily use near-white or dark-colored backgrounds with minimal decoration."},
+        {"id": "colored_graphic", "label": "Colored or Graphic", "desc": "Slides use prominent colors, gradients, patterns, images, or graphical backgrounds."},
+        {"id": "mixed",           "label": "Mixed",              "desc": "The deck combines different background styles across slides."}
+      ]
+    },
+    {
+      "key": "visual_layout",
+      "label": "Layout Style",
+      "group": "visual",
+      "tab": "Layout",
+      "desc": "The spatial arrangement of content on the slides. Select all that apply.",
+      "concepts": [
+        {"id": "title_body",     "label": "Title and Body",             "desc": "Slides follow a conventional layout with a title at the top and a main content area underneath."},
+        {"id": "split",          "label": "Split Bodies",               "desc": "Slides divide content into two or more distinct regions, commonly arranged side by side or vertically."},
+        {"id": "grid",           "label": "Multiple Grid-Based Panels", "desc": "Slides organize content into multiple structured panels or blocks arranged in a grid-like layout."},
+        {"id": "visual_focused", "label": "Visual-Focused",             "desc": "Slides are dominated by a central figure, image, chart, or diagram, with supporting text playing a secondary role."}
+      ]
+    },
+    {
+      "key": "visual_content",
+      "label": "Content Presentation",
+      "group": "visual",
+      "tab": "Content",
+      "single": true,
+      "required": true,
+      "desc": "The balance between textual and visual content on the slides.",
+      "concepts": [
+        {"id": "text_focused",   "label": "Text-Focused",   "desc": "Information is predominantly communicated through text, with visuals playing a supporting role."},
+        {"id": "balanced",       "label": "Balanced",       "desc": "Information is presented through a relatively equal combination of text and visual elements."},
+        {"id": "visual_focused", "label": "Visual-Focused", "desc": "Information is predominantly communicated through figures, images, diagrams, or other visuals, with minimal supporting text."}
+      ]
+    },
+    {
+      "key": "textual_style",
+      "label": "Textual Style",
+      "desc": "The dominant text format on the slides. Select all that apply.",
+      "concepts": [
+        {"id": "paragraph", "label": "Paragraph-based",       "desc": "The deck primarily presents information through continuous prose, with multiple sentences grouped into paragraphs or extended text blocks."},
+        {"id": "bullet",    "label": "Bullet-based",          "desc": "The deck primarily presents information through bulleted or numbered lists, with each point communicating a separate idea or supporting detail."},
+        {"id": "sentence",  "label": "Sentence-based",        "desc": "The deck primarily uses short, standalone sentences or statements, typically occupying one or two lines without forming paragraphs or lists."},
+        {"id": "phrase",    "label": "Short-phrase-based",    "desc": "The deck primarily uses short phrases, keywords, labels, or brief callouts rather than complete sentences or extended explanations."},
+        {"id": "qa",        "label": "Question–Answer-based", "desc": "The deck frequently presents information through explicit questions and corresponding answers, with questions serving as the main textual framing of the slides."}
+      ]
+    }
+  ]
+}

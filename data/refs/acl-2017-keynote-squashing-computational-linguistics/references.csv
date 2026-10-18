@@ -1,0 +1,29 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+smith-acl2017.pdf,,"Lingpeng Kong, Chris Dyer, N.A.S.",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 38) Lingpeng Kong, Chris Dyer, N.A.S., ICLR 2016",references_csv
+smith-acl2017.pdf,,"Swabha Swayamdipta, Sam Thomson, Chris Dyer, N.A.S.",2017,1706.09528,,extracted_from_slides:central,,"[auto-evidence] (slide 47) Chris Dyer, N.A.S., arXiv:1706.09528",references_csv
+smith-acl2017.pdf,,"Hao Peng, Sam Thomson, N.A.S.",2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 63) Hao Peng, Sam Thomson, N.A.S., ACL 2017",references_csv
+smith-acl2017.pdf,,"Yangfeng Ji, Chenhao Tan, Sebastian Martschat, Yejin Choi, N.A.S.",2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 76) Yangfeng Ji, Chenhao Tan, Sebastian Martschat",references_csv
+smith-acl2017.pdf,,Mitchell,1980,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) Mitchell, 1980; Wolpert, 1996",references_csv
+smith-acl2017.pdf,,Sarawagi & Cohen,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) see Sarawagi & Cohen, 2004",references_csv
+smith-acl2017.pdf,,Gimpel et al.,2010,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 47) recall-oriented
+softmax margin
+(Gimpel et al.,
+2010)",references_csv
+smith-acl2017.pdf,,Marcus et al.,1993,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 50) Penn Treebank (Marcus et al., 1993)",references_csv
+smith-acl2017.pdf,,Caruana,1997,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 52) Multitask Representation Learning
+(Caruana, 1997)",references_csv
+smith-acl2017.pdf,,Das et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) SEMAFOR 1.0 SEMAFOR 2.0 Open-SESAME
+(Das et al.,",references_csv
+smith-acl2017.pdf,,Kshirsagar et al.,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 53) (Kshirsagar et,references_csv
+smith-acl2017.pdf,,Roth,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) Framat (Roth,",references_csv
+smith-acl2017.pdf,,FitzGerald et al.,2015,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 53) FitzGerald et,references_csv
+smith-acl2017.pdf,,Oepen et al.,2014,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 58) Oepen et al. (SemEval 2014; 2015),references_csv
+smith-acl2017.pdf,,Martins et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 62) alternating directions dual decomposition; Martins et al., 2014",references_csv
+smith-acl2017.pdf,,Daumé,2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 65) Shared Input Representations
+(Daumé, 2007)",references_csv
+smith-acl2017.pdf,,Du et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 69) Du et al., 2015",references_csv
+smith-acl2017.pdf,,Almeida & Martins,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 69) Almeida &
+Martins, 2015",references_csv
+smith-acl2017.pdf,,Modi et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 83) shallow Modi et entity LM human,references_csv
+smith-acl2017.pdf,,Martschat and Strube,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 83) Martschat and
+Strube (2015)",references_csv

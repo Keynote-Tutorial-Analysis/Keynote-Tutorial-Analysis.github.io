@@ -1,0 +1,4 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+mrqa2019_antoine_bordes.pdf,Explain Like I'm Five Dataset,Fan et al.,2019,,,extracted_from_slides:central,,[auto-evidence] (slide 17) Explain Like I'm Five Dataset (Fan et al. ACL'19),references_csv
+mrqa2019_antoine_bordes.pdf,,Chen et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) DrQA (Chen et al., ACL'17)",references_csv
+mrqa2019_antoine_bordes.pdf,,Dinan et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 47) Wizard of Wikipedia (Dinan et al. ICLR'19),references_csv

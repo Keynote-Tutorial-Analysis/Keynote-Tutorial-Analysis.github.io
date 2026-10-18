@@ -1,0 +1,111 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 11,43; ERNIE: Enhanced Representation through Knowledge Integration; well-known) ERNIE: Enhanced Representation through Knowledge Integration; 'RoBERTa, and ERNIE'",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 11; RoBERTa; well-known) open-access, e.g., RoBERTa, and ERNIE",ai_reference_eval
+Slides.pdf,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,"Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",2019,,,ai_reference_eval:central,,"[ai-ref] (slides 14,37,43,46,61,65,66,67,68,81; BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin, Chang, Lee, Toutanova); well-known) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding; BERT figure; 'Pre-trained BERT and Bi-LSTM'",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 21; Map 4: Dialects of Mandarin and Southern Chinese (uncredited figure)) Map of China Dialects; Map 4: Dialects of Mandarin and Southern Chinese,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 31; (uncredited figure) loanwords table with Cantonese transcriptions) pie/boxing/bumper/captain ... with phonetic transcriptions,ai_reference_eval
+Slides.pdf,,Lee and Wong,1998,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; CANCORP (Lee and Wong 1998)) CANCORP | Lee and Wong 1998 | 1 M characters, hk children",ai_reference_eval
+Slides.pdf,,Leung and Law,2001,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; HKCAC (Leung and Law, 2001)) HKCAC | Leung and Law, 2001 | adult, speech record",ai_reference_eval
+Slides.pdf,,Wong,2000,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; HKUCC (Wong, 2000)) HKUCC | Wong, 2000 | university, speech record",ai_reference_eval
+Slides.pdf,,Lee,2011,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; Parallel corpus (Lee, 2011)) Parallel corpus | Lee, 2011 | TV, mandarin subtitles 36k characters",ai_reference_eval
+Slides.pdf,,Wong et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; Parallel treebank (Wong et al., 2017)) Parallel treebank | Wong et al., 2017 | 569 aligned sentences",ai_reference_eval
+Slides.pdf,,Pan,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; Political corpus (Pan, 2019)) Political corpus | Pan, 2019 | Machine translation",ai_reference_eval
+Slides.pdf,,Lee et al.,"2020, 2021, 2022",,,ai_reference_eval:mentioned,,"[ai-ref] (slides 34; Counselling Corpus (Lee et al., 2020, 2021, 2022)) Counselling Corpus | Lee et al.,2020, 2021, 2022",ai_reference_eval
+Slides.pdf,,Fung et al.,2017,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35; Spelling check (Fung et al., 2017)) Spelling check | Fung et al., 2017 | 6,800 sentences",ai_reference_eval
+Slides.pdf,,Xiang et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35,37; Sentiment analysis (Xiang et al., 2019)) Sentiment analysis | Xiang et al., 2019 | Openrice, 60k sentences; Lexicon enhanced LSTM",ai_reference_eval
+Slides.pdf,,Chen et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35,37; Rumor detection (Chen et al., 2020)) Rumor detection | Chen et al., 2020 | Twitter, 27,328 instances; XLNet-based Bidirectional GRU",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35; ToastyNews project (Topic classification)) Topic classification | ToastyNews project | LIHKG, 11k sentences",ai_reference_eval
+Slides.pdf,,Wang et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35; Intention classification (Wang et al., 2020)) Intention classification | Wang et al., 2020 | Facebook, Openrice",ai_reference_eval
+Slides.pdf,,Liu,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 35,38; Machine translation (Liu, 2022)) Machine translation | Liu, 2022 | 35.9k sentence pairs; BPE-level LSTM",ai_reference_eval
+Slides.pdf,,Cheung et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; Digital dictionary (Cheung et al., 2018)) Digital dictionary | Cheung et al., 2018 | Modern Cantonese, 12k entries",ai_reference_eval
+Slides.pdf,,Klyueva et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; Sentiment lexicon (Klyueva et al., 2018)) Sentiment lexicon | Klyueva et al., 2018 | 2.7k Cantonese words",ai_reference_eval
+Slides.pdf,,Sio and Costa,"2019, 2022",,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; Cantonese Wordnet (Sio and Costa, 2019; 2022)) Cantonese Wordnet | Sio and Costa, 2019 / Sio and Costa, 2022",ai_reference_eval
+Slides.pdf,,Lai and Winterstein,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; Cifu (Lai and Winterstein, 2020)) Cifu | Lai and Winterstein, 2020",ai_reference_eval
+Slides.pdf,,Winterstein et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; CantoMap (Winterstein et al., 2020)) CantoMap | Winterstein et al., 2020 | 768 minutes of recordings",ai_reference_eval
+Slides.pdf,,Community,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 36; NER (Community) https://github.com/CanCLID/words) NER | Community | https://github.com/CanCLID/words,ai_reference_eval
+Slides.pdf,,Lau et al.,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; jyut6 din2 粵典 (Lau et al., 2022)) jyut6 din2 粵典 | Lau et al., 2022 | Cantonese dictionary, 55.6k words",ai_reference_eval
+Slides.pdf,,Lee et al.,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 36; PyCantonese (Lee et al., 2022)) PyCantonese | Lee et al., 2022 | https://pycantonese.org/",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 37; XLNet; well-known) XLNet-based Bidirectional GRU,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37; Bi-LSTM / Bidirectional GRU; well-known) XLNet-based Bidirectional GRU, Pre-trained BERT and Bi-LSTM",ai_reference_eval
+Slides.pdf,,Zhang et al.,2011,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37; Zhang et al, 2011 (sentiment analysis)) Zhang et al, 2011 | Naive Bayes and SVM",ai_reference_eval
+Slides.pdf,,Chen et al.,"2013, 2015",,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37; Chen et al, 2013, 2015 (sentiment analysis)) Chen et al, 2013, 2015 | PoS tagging based HMM",ai_reference_eval
+Slides.pdf,,Ngai et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37; Ngai et al, 2018 (sentiment analysis)) Ngai et al, 2018 | Machine learning & lexical knowledge",ai_reference_eval
+Slides.pdf,,Lee,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37; Emotion detection (Lee, 2019)) Emotion detection | Lee, 2019 | Leverage Mandarin emotion resources",ai_reference_eval
+Slides.pdf,,Ke et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 37; Ke et al, 2020 (rumor detection)) Ke et al, 2020 | Pre-trained BERT and Bi-LSTM",ai_reference_eval
+Slides.pdf,,Liu and Lapata,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 38; Liu and Lapata, 2019 (BertSum)) Liu and Lapata, 2019 | Fine-tuning of BertSum",ai_reference_eval
+Slides.pdf,,Lee et al.,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 38; Lee et al., 2021 (dialogue summarization)) Lee et al., 2021 | Text summarization & question generation",ai_reference_eval
+Slides.pdf,,Zhang,1998,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 38; Zhang, 1998 (machine translation)) Zhang, 1998 | Handcrafted rules",ai_reference_eval
+Slides.pdf,,Wu et al.,2006,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 38; Wu et al, 2006 (machine translation)) Wu et al, 2006 | Parallel corpora",ai_reference_eval
+Slides.pdf,,Huang et al.,2016,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 38; Huang et al, 2016 (machine translation)) Huang et al, 2016 | Parallel corpora & statistical methods",ai_reference_eval
+Slides.pdf,,Wong and Lee,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 38; Wong and Lee, 2018 (machine translation)) Wong and Lee, 2018 | Refined with lexical mappings and syntactic transformations",ai_reference_eval
+Slides.pdf,,Kwong,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; Corpus (Kwong, 2015)) Corpus | Kwong, 2015 | Spoken Cantonese from TV and radio",ai_reference_eval
+Slides.pdf,,Luke and Wong,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; HKCanCor (Luke and Wong, 2015)) Corpus | Luke and Wong, 2015 | HKCanCor, 150k words",ai_reference_eval
+Slides.pdf,,Liesenfeld,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; MYCanCor (Liesenfeld, 2018)) Corpus | Liesenfeld, 2018 | MYCanCor, 20 hours",ai_reference_eval
+Slides.pdf,,Johnson et al.,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; Corpus (Johnson et al., 2020)) Corpus | Johnson et al., 2020 | Bilingual speech conversation",ai_reference_eval
+Slides.pdf,,Kirby,2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; Phonetic (Kirby, 2021)) Phonetic | Kirby, 2021 | Trigram, RNN",ai_reference_eval
+Slides.pdf,,Yu et al.,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; ASR (Yu et al., 2022)) ASR | Yu et al., 2022 | Fairseq S2T transformer",ai_reference_eval
+Slides.pdf,,Jones et al.,2022,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 39; WeCanTalk (Jones et al., 2022)) WeCanTalk | Jones et al., 2022 | Speaker recognition",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 43; ELMo: Embeddings from Language Models; well-known) ELMo: Embeddings from Language Models,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 46,81,85,88; SQuAD; well-known) SQuAD -> context-insensitive questions with single token answers",ai_reference_eval
+Slides.pdf,Efficient Estimation of Word Representations in Vector Space,"Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean",2014,,,ai_reference_eval:central,,"[ai-ref] (slides 49,50; Word2Vec (Mikolov et al, 2014); well-known) Word2Vec (Mikolov et al, 2014) + paper title screenshot",ai_reference_eval
+Slides.pdf,Universal Language Model Fine-tuning for Text Classification,"Jeremy Howard, Sebastian Ruder",,,,ai_reference_eval:mentioned,,[ai-ref] (slides 51; ULMFiT; well-known) Universal Language Model Fine-tuning for Text Classification,ai_reference_eval
+Slides.pdf,Deep contextualized word representations,"Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer",,,,ai_reference_eval:central,,"[ai-ref] (slides 51,67,72; ELMo; well-known) Deep contextualized word representations",ai_reference_eval
+Slides.pdf,Attention Is All You Need,"Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",,,,ai_reference_eval:central,,"[ai-ref] (slides 52,54,55,59,60,61; Attention Is All You Need (Transformer); well-known) Attention Is All You Need",ai_reference_eval
+Slides.pdf,The Illustrated Transformer (blog),Jay Alammar (not shown),,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 54,56,57,58; https://jalammar.github.io/illustrated-transformer/) https://jalammar.github.io/illustrated-transformer/",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 60; byte-pair encoding [3]) encoded using byte-pair encoding [3],ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 60; word-piece vocabulary [31]) split tokens into a 32000 word-piece vocabulary [31],ai_reference_eval
+Slides.pdf,Improving Language Understanding by Generative Pre-Training,"Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever",,,,ai_reference_eval:central,,"[ai-ref] (slides 61,62,63,64,67,68,72; GPT (OpenAI); well-known) Improving Language Understanding by Generative Pre-Training",ai_reference_eval
+Slides.pdf,"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension","Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer",,,,ai_reference_eval:central,,"[ai-ref] (slides 61,73,74; BART; well-known) BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",ai_reference_eval
+Slides.pdf,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,"Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu",,,,ai_reference_eval:central,,"[ai-ref] (slides 61,75,76; T5; well-known) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 63,65; BooksCorpus dataset (800M words); well-known) BooksCorpus dataset (800M words)",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 64; ESIM + ELMo [44]) ESIM + ELMo [44] (5x),ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 64; CAFE [58]) CAFE [58] (5x),ai_reference_eval
+Slides.pdf,Stochastic Answer Network,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 64; Stochastic Answer Network [35]) Stochastic Answer Network [35] (3x),ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 64; GenSen [64]) GenSen [64],ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 64; Multi-task BiLSTM + Attn [64]) Multi-task BiLSTM + Attn [64],ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 64,67,72,79; GLUE / MNLI, QQP, QNLI, SST-2, CoLA, STS-B, MRPC, RTE benchmark tasks; well-known) Evaluation on language understanding benchmark GLUE",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 65; English Wikipedia (2,500M words)) BooksCorpus (800M words) and English Wikipedia (2,500M words)",ai_reference_eval
+Slides.pdf,RoBERTa: A Robustly Optimized BERT Pretraining Approach,"Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov",,,,ai_reference_eval:central,,"[ai-ref] (slides 69,70,74,79; RoBERTa; well-known) RoBERTa: A Robustly Optimized BERT Pretraining Approach",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 70; XLNet (LARGE)) XLNet LARGE with Books + Wiki,ai_reference_eval
+Slides.pdf,ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,"Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning",,,,ai_reference_eval:central,,"[ai-ref] (slides 71,72,79; ELECTRA; well-known) ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 71; ClueWeb, CommonCrawl, Gigaword (33B tokens)) 33B tokens from ClueWeb, CommonCrawl, and Gigaword",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 75; Colossal Clean Crawled Corpus (750 GB)) Colossal Clean Crawled Corpus (750 GB),ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 77; Ernie (Baidu): inject knowledge) Ernie (Baidu): inject knowledge,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 77; GraphCodeBERT: Programming language) GraphCodeBERT: Programming language (with architecture figure),ai_reference_eval
+Slides.pdf,"Pre-trained models: Past, present and future","Xu Han, Zhengyan Zhang, Ning Ding, et al.",,,,ai_reference_eval:central,,"[ai-ref] (slides 78,79; Pre-trained models: Past, present and future) Pre-trained models: Past, present and future",ai_reference_eval
+Slides.pdf,,,2019/2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 79; GPT-2 (2019), GPT-3 (2020) in figure; well-known) GPT-2 (2019) ... GPT-3 (2020) model size chart",ai_reference_eval
+Slides.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 79; DeBERTa (2021)) DEBERTA (2021) bar in GLUE chart,ai_reference_eval
+Slides.pdf,,,2021,,,ai_reference_eval:mentioned,,[ai-ref] (slides 79; Switch (2021)) Switch (2021) model size chart,ai_reference_eval
+Slides.pdf,,,2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 79; Meena (2020/2021)) Meena (base) (2020), Meena (2021)",ai_reference_eval
+Slides.pdf,,,2018,,,ai_reference_eval:mentioned,,[ai-ref] (slides 79; DialoGPT (2018)) DialoGPT (2018),ai_reference_eval
+Slides.pdf,,,2018-2020,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 79; Cleverbot (2019), Mitsuku (2020), Xiaolce (2018) dialogue systems) Xiaolce (2018) Cleverbot (2019) Mitsuku (2020)",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 82; (uncredited figure) Fine-tune -> Prompt: masked LM, task-oriented fine-tuning, prompt-oriented fine-tuning, prompt tuning) Hard Prompt Tokens / Soft Prompt Tokens; Prompt Tuning diagram",ai_reference_eval
+Slides.pdf,,Petroni et al.,2019,,,ai_reference_eval:central,,"[ai-ref] (slides 83,84,85,86,87,88; LAMA Petroni et al. (2019)) What Language Models learn? ->LAMA Petroni et al. (2019)",ai_reference_eval
+Slides.pdf,,Schick and Schutze,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 83,89; PET Schick and Schutze. (2020)) What is prompt? ->PET Schick and Schutze. (2020)",ai_reference_eval
+Slides.pdf,,Shin et al.,2020,,,ai_reference_eval:central,,"[ai-ref] (slides 83,91; Autoprompt (discrete) Shin et al. (2020)) Autoprompt (discrete) Shin et al. (2020)",ai_reference_eval
+Slides.pdf,,Liu et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 83,92; P-tuning (continuous) Liu et al. (2021)) P-tuning (continuous) Liu et al. (2021)",ai_reference_eval
+Slides.pdf,,Li and Liang,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 83,93; Prefix-tuning (continuous) Li and Liang. (2021); well-known) Prefix-tuning (continuous) Li and Liang. (2021)",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 85,88; Google-RE) Google-RE -> place of birth, date of birth and place of death",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 85,86,88; T-REx) T-REx -> 41 Wikidata relations",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 85,87,88; ConceptNet; well-known) ConceptNet -> Open Mind Common Sense",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 88; DrQA) DrQA baseline in Table 2,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 88; fairseq-fconv (Fs)) fairseq-fconv (Fs),ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 88; Transformer-XL large (Txl)) Transformer-XL large (Txl),ai_reference_eval
+Slides.pdf,,Zhang et al.,2015,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 90; (Zhang et al., 2015) Yelp / Yahoo / AG's News datasets) Yelp Reviews Full Star dataset (Zhang et al., 2015); Yahoo Questions (Zhang et al., 2015)",ai_reference_eval
+Slides.pdf,,Williams et al.,2018,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 90; MNLI dataset (Williams et al., 2018)) The MNLI dataset (Williams et al., 2018)",ai_reference_eval
+Slides.pdf,,Cui et al.,2021,,,ai_reference_eval:central,,"[ai-ref] (slides 96,105; BERT-CKIP / BERT-HFL / RoBERTa-HFL / ELECTRA-HFL (Cui et al., 2021)) BERT-HFL (SCN in SIMP_CH (Cui et al., 2021))",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 96,105; BERT-CKIP) BERT-CKIP Wikipedia, Gigaword SCN Traditional",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 96,105; XLNet-HK) XLNet-HK Wikipedia, news, blogs SCN, Cantonese",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 96,105; ELECTRA-HK) ELECTRA-HK Wikipedia, news, blogs SCN, Cantonese",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 96,101; Gigaword) Distribution of bigrams from DISCUSS and Gigaword datasets.",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 103; fastlangid toolkit) An opensource toolkit fastlangid is employed to analyze the language usage ratio.,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:central,,"[ai-ref] (slides 104,105; OpenRice / LIHKG Cantonese datasets; TNews / Ciron (SCN) benchmark datasets) OpenRice (Can), LIHKG (Can), TNews (SCN), Ciron (SCN)",ai_reference_eval
+Slides.pdf,,Zhao et al.,2019,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 105; RoBERTa-UER (Zhao et al., 2019)) RoBERTa-UER (SCN in SIMP_CH (Zhao et al., 2019))",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 106; cmnli / Afqmc (SCN)) cmnli (SCN) Afqmc (SCN),ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 111; RoBERTa-WWM) RoBERTa-WWM is trained on billions of words,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 111; ERNIE; well-known) ERNIE is trained on millions of sentences,ai_reference_eval
+Slides.pdf,An Empirical Survey of Data Augmentation for Limited Data Learning in NLP,"Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang",2021,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 115; Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang: An Empirical Survey of Data Augmentation for Limited Data Learning in NLP (Chen et al. 2021)) Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang: An Empirical Survey of Data Augmentation for Limited Data Learning in NLP.",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 118; medium.com/neuralspace low-resource-language-what-does-it-mean (figure)) https://medium.com/neuralspace/low-resource-language-what-does-it-mean-d067ec85dea5,ai_reference_eval
+Slides.pdf,,,2020,,,ai_reference_eval:mentioned,,[ai-ref] (slides 119; neubig lowresource-nlp-bootcamp-2020 slides 01-neubig-nlptasks.pdf (Wikipedia language rank chart)) https://github.com/neubig/lowresource-nlp-bootcamp-2020/blob/master/slides/01-neubig-nlptasks.pdf,ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,"[ai-ref] (slides 120,121; Ethnologue 200 (top languages by speakers)) https://www.ethnologue.com/guides/ethnologue200",ai_reference_eval
+Slides.pdf,,,,,,ai_reference_eval:mentioned,,[ai-ref] (slides 122; endangeredlanguages.com map) https://endangeredlanguages.com/?hl=en#/3/18.698/90.095/...,ai_reference_eval

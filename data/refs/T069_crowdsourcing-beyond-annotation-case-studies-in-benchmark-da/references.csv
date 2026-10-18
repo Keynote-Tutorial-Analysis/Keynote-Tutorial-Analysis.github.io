@@ -1,0 +1,62 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,A large annotated corpus for learning natural language inference,Bowman; Angeli; Potts; Manning,2015,,,extracted_from_slides:central,,"[auto-evidence] (slide 15) Stanford NLI Corpus: Bowman, Angeli, Potts & Manning '15, EMNLP",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference,Williams; Nangia; Bowman,2018,1704.05426,https://arxiv.org/pdf/1704.05426,extracted_from_slides:central,,"[auto-evidence] (slide 18) Multi-Genre NLI Corpus: Williams, Nangia & Bowman '18, NAACL",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,Adversarial NLI: A New Benchmark for Natural Language Understanding,Nie et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 35) Nie et al., ACL '20",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,Learning the Difference that Makes a Difference with Counterfactually-Augmented Data,Kaushik; Hovy; Lipton,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 40) Kaushik, Hovy & Lipton ICLR '20",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,Collecting Entailment Data for Pretraining: New Protocols and Negative Results,Bowman; Palomaki; Baldini Soares; Pitler,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 45) Bowman, Palomaki, Baldini Soares & Pitler '20, EMNLP",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,OCNLI: Original Chinese Natural Language Inference,Hu et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 61) Hu et al., ACL ‘20",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options,Vania et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 66) Vania et al., AACL 2020",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,Inherent Disagreements in Human Textual Inferences,Pavlick & Kwiatkowski,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 55) Pavlick & Kwiatkowski '19, EMNLP",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Dagan et al.,2005,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Dagan et al. ‘05, MacCartney ‘09, Example from MNLI",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Young et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 6) Source captions from Flickr30k: Young, et al. ‘14",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Poliak et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) Poliak et al. ‘18, Tsuchiya ‘18, Gururangan et al. ‘18",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,Annotation Artifacts in Natural Language Inference Data,Gururangan et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) Poliak et al. ‘18, Tsuchiya ‘18, Gururangan et al. ‘18",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Rudinger; May; Van Durme,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 32) Rudinger, May & Van Durme '17 EthNLP",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Wallace et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) Wallace et al., '21",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Naik et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) (Tested on Naik et al.'s probing sets and others.),per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Huang; Liu; Bowman,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Huang, Liu & Bowman '20 Insights",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Nie; Zhou; Bansal,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 55) Pavlick & Kwiatkowski '19, EMNLP; Nie, Zhou & Bansal '20 EMNLP",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,SciTail,Khot et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 66) protocol, see SciTail (Khot et al., AAAI '18)",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Phang et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 67) Transfer learning using intermediate-task training (Phang et al., 2018)",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,,Parrish et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 70) Parish et al. '21, Findings of EMNLP",per_unit
+03_section-3-8-crowdsourcing-beyond-annotat.pdf,A Corpus for Reasoning about Natural Language Grounded in Photographs,Suhr et al.,2018,1811.00491,https://arxiv.org/pdf/1811.00491,extracted_from_slides:mentioned,,[auto-evidence] (slide 49) Related: NLVR2 from Suhr et al.,per_unit
+04_section-4-8-crowdsourcing-beyond-annotat.pdf,A Corpus of Natural Language for Visual Reasoning,Alane Suhr; M. Lewis; James Yeh; Yoav Artzi,2017,,,extracted_from_slides:central,,"[auto-evidence] (slide 3) (NLVR, Suhr et al. 2017)",per_unit
+04_section-4-8-crowdsourcing-beyond-annotat.pdf,A Corpus for Reasoning about Natural Language Grounded in Photographs,Alane Suhr; Stephanie Zhou; Iris Zhang; Huajun Bai; Yoav Artzi,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 3) (NLVR2, Suhr et al. 2019)",per_unit
+04_section-4-8-crowdsourcing-beyond-annotat.pdf,,Leonardelli et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Filter out low-agreement pairs (but see
+Leonardelli et al. 2021 for discussion on this)",per_unit
+05_section-5-8-crowdsourcing-beyond-annotat.pdf,Executing Instructions in Situated Collaborative Interactions,Suhr et al.,2019,,,extracted_from_slides:central,,[auto-evidence] (slide 3) CerealBar A situated collaborative game with sequential natural language instruction ... [Suhr et al. 2019],per_unit
+05_section-5-8-crowdsourcing-beyond-annotat.pdf,Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior,Kojima et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 22) Task II: generate leader instructions ... [Kojima et al. 2021],per_unit
+06_section-6-8-crowdsourcing-beyond-annotat.pdf,,Rajpurkar et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 2) SQuAD dataset [Rajpurkar et al 2016],per_unit
+06_section-6-8-crowdsourcing-beyond-annotat.pdf,,Reddy et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 2) CoQA [Reddy et al. 2019],per_unit
+06_section-6-8-crowdsourcing-beyond-annotat.pdf,Adversarial Examples for Evaluating Reading Comprehension Systems,"Robin Jia, Percy Liang",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 12) Adversarial Examples for Evalua5ng Reading Comprehension Systems Robin Jia, Percy Liang , EMNLP 2017",per_unit
+06_section-6-8-crowdsourcing-beyond-annotat.pdf,Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings,"He He, Anusha Balakrishnan, Mihail Eric, Percy Liang",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings, ACL 2017 He He, Anusha Balakrishnan, Mihail Eric, Percy Liang",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,Social IQa: Commonsense Reasoning about Social Interactions,"Sap, Rashkin, et al.",2019,1904.09728,,extracted_from_slides:central,,"[auto-evidence] (slide 5) SOCIALIQA
+
+Sap, Rashkin, et al ’19",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning,Sap et al.,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 13) ATOMIC: ATlas Of MachIne Commonsense ... 880,000 knowledge triples for AI systems to reason about the causes and effects of everyday situations [Sap et al. ‘19]",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Moore,2013,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 4) navigate social situations seamlessly [Moore ’13],per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Mitchell,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) [Mitchell ’11; Gordon & Van Durme ’13; Lucy & Gauthier, ’17]",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Davis and Marcus,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) [Davis and Marcus ’15; Lake et al. ’17; Marcus 2018, Talmor et al. ’19]",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,CommonsenseQA,Talmor et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) CommonsenseQA
+
+Talmor et al. ’19",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,Winograd Schema Challenge,Levesque,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Winograd Schema Challenge
+
+Levesque ’11",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,COPA,Roemmele et al.,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) COPA
+
+Roemmele et al. ’11",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,Physical IQa,Bisk et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Physical IQa
+
+Bisk et al. ’20",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,Story Commonsense,Rashkin et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 5) Story Commonsense
+
+Rashkin et al. ’18",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Schwartz et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) Stem from cognitive biases of crowdworkers [Schwartz et al. ’17, Gururangan et al. ’18]",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,Annotation Artifacts in Natural Language Inference Data,Gururangan et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) [Schwartz et al. ’17, Gururangan et al. ’18]",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Mohammad et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 38) Using NRC Canada’s VAD lexicon [Mohammad et al. ’18],per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Zellers et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 41) Select 1 likely & 2 unlikely answers as m/c candidates using NLI entailment scores [Zellers et al. ’19],per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Sakaguchi et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) AF-Lite: lightweight adversarial filtering of spurious correlations [Sakaguchi et al., 2019]",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Brown et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 47) Using LM-probing setup in zero- and few-shot settings as in GPT-3 paper [Brown et al. ’20],per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Phang et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 57) similar to Phang et al. ’18, Talmor & Berant ’19",per_unit
+07_section-7-8-crowdsourcing-beyond-annotat.pdf,,Sasaki et al.,2017,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 57) Sasaki et al. (2017) BERT-large BERT-SocialIQa,per_unit

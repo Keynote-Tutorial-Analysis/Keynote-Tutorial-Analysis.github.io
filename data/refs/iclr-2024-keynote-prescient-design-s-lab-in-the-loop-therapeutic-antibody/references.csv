@@ -1,0 +1,55 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclrmain_cho_2024.pdf,,Lee et al.,2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 40) A Trainable Greedy Policy
+
+[Lee et al., 2024; ICML]",references_csv
+iclrmain_cho_2024.pdf,,Frey et al.,2024,,,extracted_from_slides:central,,[auto-evidence] (slide 72) Frey et al. [2024] have presented this work here at ICLR’24.,references_csv
+iclrmain_cho_2024.pdf,,Stanton et al.,2023,,,extracted_from_slides:central,,"[auto-evidence] (slide 42) LaMBO: Greedy selection by
+
+continuous optimization [Stanton et al.,
+2023]",references_csv
+iclrmain_cho_2024.pdf,BOtied: Bayesian optimization with tied multivariate ranks,Park & Tagasovska et al.,2024,,,extracted_from_slides:central,,"[auto-evidence] (slide 58) BOtied: Bayesian optimization with tied multivariate ranks
+
+• We can use CDF for measuring the quality of a given frontier;
+I(A) = max F(y)
+y∈A
+
+[Park & Tagasovska et al., 2024 ICML]",references_csv
+iclrmain_cho_2024.pdf,,Arnold,1998,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 14) Directed Evolution by Arnold (1998),references_csv
+iclrmain_cho_2024.pdf,,Milo & Phillips,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) translation elongation at maximal speed
+roughly the same. - Milo & Phillips (2015)",references_csv
+iclrmain_cho_2024.pdf,,Jones et al.,1998,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) Sequential model based optimization [Jones et al., 1998]",references_csv
+iclrmain_cho_2024.pdf,,Stanton et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) On a simulated RFP design task
+
+[Stanton et al., 2022], MBGA
+outperforms model-free NSGA-II.",references_csv
+iclrmain_cho_2024.pdf,,Deb et al.,2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 29) NSGA-II: Non-dominated Sorting GA II [Deb et al., 2002]",references_csv
+iclrmain_cho_2024.pdf,,Gligorijevic et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) [Gligorijevic et al., 2021; Stanton et al., 2022; Stanton et al., 2023]",references_csv
+iclrmain_cho_2024.pdf,,Lin et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) A Trainable Sampler
+
+[Lin et al., 2022]",references_csv
+iclrmain_cho_2024.pdf,,Jain et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 42) GFN: reported to beNumber
+al., 2023]",references_csv
+iclrmain_cho_2024.pdf,,Emmerich et al.,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 52) Expected hypervolume improvement [HVI; Emmerich et al., 2011]",references_csv
+iclrmain_cho_2024.pdf,,Knowles,2006,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 52) ParEGO [Knowles, 2006]",references_csv
+iclrmain_cho_2024.pdf,,Paria et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 52) TS-TCH [Paria et al., 2019]",references_csv
+iclrmain_cho_2024.pdf,,Hernandez-Lobato et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 52) PES [Hernandez-Lobato et al., 2014]",references_csv
+iclrmain_cho_2024.pdf,,Daulton et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) distributions of the property predictors [Daulton et al., 2020]:",references_csv
+iclrmain_cho_2024.pdf,,Daulton et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) we get noisy EHVI [NEHVI; Daulton et al., 2021].",references_csv
+iclrmain_cho_2024.pdf,,Nelsen,2006,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 60) rely on vine copula [Nelsen, 2006].",references_csv
+iclrmain_cho_2024.pdf,,Park et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 62) 1. Known dependencies among the properties [Park et al., 2023]",references_csv
+iclrmain_cho_2024.pdf,,Barrio-Hernandez et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 66) [Barrio-Hernandez et al., 2023]",references_csv
+iclrmain_cho_2024.pdf,,Olsen et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 71) OAS (observed antibody space;
+
+Olsen et al., 2021)",references_csv
+iclrmain_cho_2024.pdf,,Silverstein,2002,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 71) [Silverstein, 2002]",references_csv
+iclrmain_cho_2024.pdf,,Mason et al.,2021,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 72) produced from trastuzumab using CRISPR-Cas9 [Mason et al., 2021].",references_csv
+iclrmain_cho_2024.pdf,,Saremi & Hyvarinen,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 73) Based on the idea of neural empirical Bayes [Saremi & Hyvarinen, 2019]",references_csv
+iclrmain_cho_2024.pdf,,Adebayo et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 77) No, according to Adebayo et al., [2018]",references_csv
+iclrmain_cho_2024.pdf,,Simonyan et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 77) [Simonyan et al., 2014]",references_csv
+iclrmain_cho_2024.pdf,,Adebayo et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 78) reasonable [Adebayo et al., 2023], although more research is needed.",references_csv
+iclrmain_cho_2024.pdf,,Gruver & Stanton et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 79) determine which regions to mutate
+[Gruver & Stanton et al., 2023].",references_csv
+iclrmain_cho_2024.pdf,,Cho et al.,2003,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 92) for both development as well as design
+[Cho et al., 2003]",references_csv
+iclrmain_cho_2024.pdf,,Martinkus et al.,2023,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 133) AbDi user [Martinkus et al., 2023] enables sequence-structure co-design.",references_csv
+iclrmain_cho_2024.pdf,,Lee et al.,2022,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 134) EquiFold [Lee et al., 2022] is an e cient",references_csv

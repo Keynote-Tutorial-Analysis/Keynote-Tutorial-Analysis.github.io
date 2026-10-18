@@ -1,0 +1,24 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclr2017_azencott.pdf,Efficient network-guided multi-locus association mapping with graph cuts,"C.-A. Azencott, D. Grimm, M. Sugiyama, Y. Kawahara and K. Borgwardt",2013,,doi:10.1093/bioinformatics/btt238,extracted_from_slides:central,,"[auto-evidence] (slide 21) C.-A. Azencott, D. Grimm, M. Sugiyama, Y. Kawahara and K. Borgwardt (2013) Efficient
+network-guided multi-locus association mapping with graph cuts, Bioinformatics 29
+(13), i171–i179 doi:10.1093/bioinformatics/btt238",references_csv
+iclr2017_azencott.pdf,Multi-task feature selection on multiple networks via maximum flows,"M. Sugiyama, C.-A. Azencott, D. Grimm, Y. Kawahara and K. Borgwardt",2014,,doi:10.1137/1.9781611973440.23,extracted_from_slides:central,,"[auto-evidence] (slide 26) M. Sugiyama, C.-A. Azencott, D. Grimm, Y. Kawahara and K. Borgwardt (2014) Multi-task
+feature selection on multiple networks via maximum flows, SIAM ICDM, 199–207
+doi:10.1137/1.9781611973440.23",references_csv
+iclr2017_azencott.pdf,Multitask feature selection with task descriptors,"V. Bellón, V. Stoven, and C.-A. Azencott",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 32) V. Bellón, V. Stoven, and C.-A. Azencott (2016) Multitask feature selection with task
+descriptors, PSB.",references_csv
+iclr2017_azencott.pdf,,Wu et al.,2011,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 18) Additive test of association SKAT [Wu et al. 2011],references_csv
+iclr2017_azencott.pdf,Prediction of human population responses to toxic compounds by a collaborative competition,"F. Eduati, L. Mangravite, et al.",2015,,doi:10.1038/nbt.3299,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) F. Eduati, L. Mangravite, et al. (2015) Prediction of human population responses to toxic
+compounds by a collaborative competition. Nature Biotechnology, 33 (9), 933–940 doi:
+10.1038/nbt.3299",references_csv
+iclr2017_azencott.pdf,Multitask Lasso,Obozinski et al.,2006,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) Multitask Lasso [Obozinski et al. 2006],references_csv
+iclr2017_azencott.pdf,Multilevel Multitask Lasso,Lozano and Swirszczw,2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Multilevel Multitask Lasso [Lozano and Swirszczw, 2012]",references_csv
+iclr2017_azencott.pdf,Realizing privacy preserving genome-wide association studies,S. Simmons and B. Berger,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 34) S. Simmons and B. Berger (2016) Realizing privacy preserving genome-wide
+association studies, Bioinformatics 32 (9), 1293–1300",references_csv
+iclr2017_azencott.pdf,,L. Gay et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) L. Gay et al. (2016), F1000Research",references_csv
+iclr2017_azencott.pdf,Improving polygenic risk prediction from summary statistics by an empirical Bayes approach,H.-C. So and P. C. Sham,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) H.-C. So and P. C. Sham (2017) Improving polygenic risk prediction from
+summary statistics by an empirical Bayes approach. Scientific Reports 7.",references_csv
+iclr2017_azencott.pdf,Regularized machine learning in the genetic prediction of complex traits,S. Okser et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) S. Okser et al (2014) Regularized machine learning in the genetic prediction of
+complex traits. PLoS Genet 10.11: e1004754.",references_csv
+iclr2017_azencott.pdf,Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records,R. Miotto et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 38) R. Miotto et al. (2016) Deep Patient: An Unsupervised Representation to Predict the
+Future of Patients from the Electronic Health Records Scientific Reports 6.",references_csv

@@ -1,0 +1,3 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+ev2020_belongie.pdf,Pose Normalized Deep ConvNets,"Van Horn, Branson, Perona, Belongie",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 8) [Van Horn, Branson, Perona, Belongie BMVC 2014]",references_csv
+ev2020_belongie.pdf,"Inception-v4, inception-resnet and the impact of residual connections on learning","Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi: “Inception-v4,",references_csv

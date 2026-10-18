@@ -1,0 +1,19 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+wnut2015_acl_oconnor.pdf,Censorship and Deletion Practices in Chinese Social Media,"David Bamman, Brendan O'Connor, Noah Smith",2012,,,extracted_from_slides:central,,[auto-evidence] (slide 3) Censorship and Deletion Practices in Chinese Social Media.,references_csv
+wnut2015_acl_oconnor.pdf,"Part-of-speech tagging for Twitter: Annotation, Features, and Experiments","Kevin Gimpel, Nathan Schneider, Brendan O'Connor, Dipanjan Das, Daniel Mills, Jacob Eisenstein, Michael Heilman, Dani Yogatama, Jeffrey Flanigan and Noah A. Smith",2011,,,extracted_from_slides:central,,"[auto-evidence] (slide 16) Part-of-speech tagging for Twitter: Annotation, Features, and",references_csv
+wnut2015_acl_oconnor.pdf,Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters,"Olutobi Owoputi, Brendan O'Connor, Chris Dyer, Kevin Gimpel, Nathan Schneider and Noah A. Smith",2013,,,extracted_from_slides:central,,[auto-evidence] (slide 16) Improved Part-of-Speech Tagging for Online Conversational Text with,references_csv
+wnut2015_acl_oconnor.pdf,,"King, Pan and Roberts",2013,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) King, Pan and Roberts, 2013",references_csv
+wnut2015_acl_oconnor.pdf,,Benjamini and Hochberg,1995,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) (Benjamini and Hochberg, 1995)",references_csv
+wnut2015_acl_oconnor.pdf,,Spiegelhalter,2005,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 9) funnel plot (Spiegelhalter, 2005)",references_csv
+wnut2015_acl_oconnor.pdf,TweetMotif: Exploratory Search and Topic Summarization for Twitter,"Brendan O'Connor, Michel Krieger, and David Ahn",2010,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 16) TweetMotif: Exploratory Search and Topic Summarization for Twitter.,references_csv
+wnut2015_acl_oconnor.pdf,,Derczynski et al. (GATE),2013,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 19) See also GATE [Derczynski et al. 2013],references_csv
+wnut2015_acl_oconnor.pdf,,"Eisenstein, O'Connor, Smith, Xing",2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 21) Xing, PLOS ONE 2014",references_csv
+wnut2015_acl_oconnor.pdf,,Foster et al.,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 22) (Foster et al., 2011)",references_csv
+wnut2015_acl_oconnor.pdf,,Percy Liang (version of Brown clustering),2005,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 24) Percy Liang (2005),references_csv
+wnut2015_acl_oconnor.pdf,,Blunsom et al.,2011,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 24) Blunsom et al. 2011,references_csv
+wnut2015_acl_oconnor.pdf,,Wulff and Sogaard,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 25) Wulff and Søgaard here,references_csv
+wnut2015_acl_oconnor.pdf,,Godin et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 25) word2vec learned embeddings, Godin et al. here",references_csv
+wnut2015_acl_oconnor.pdf,,NRC-Canada,"2013, 2014",,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 26) NRC-Canada SemEval 2013, 2014",references_csv
+wnut2015_acl_oconnor.pdf,,"Eisenstein, J Socioling.",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Eisenstein, J Socioling. 2015",references_csv
+wnut2015_acl_oconnor.pdf,,Jørgensen et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Jørgensen et al., here",references_csv
+wnut2015_acl_oconnor.pdf,,Hovy et al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Hovy et al.,WWW 2015",references_csv

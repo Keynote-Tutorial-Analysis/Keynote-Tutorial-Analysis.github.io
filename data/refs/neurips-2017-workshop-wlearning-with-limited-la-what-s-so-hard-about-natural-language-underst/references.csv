@@ -1,0 +1,33 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+lld2017_ritter.pdf,,"Ritter, Cherry, Dolan",2011,,,extracted_from_slides:central,,"[auto-evidence] (slide 10) [Ritter, Cherry, Dolan EMNLP 2011]",references_csv
+lld2017_ritter.pdf,,"Li, Monroe, Ritter, Galley, Gao, Jurafsky",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 25) Deep Reinforcement Learning
+[Li, Monroe, Ritter, Galley, Gao, Jurafsky EMNLP 2016]",references_csv
+lld2017_ritter.pdf,,"Li, Monroe, Shi, Jean, Ritter, Jurafsky",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 31) Adversarial Learning for Neural
+Dialogue [Li, Monroe, Shi, Jean, Ritter, Jurafsky EMNLP 2016]",references_csv
+lld2017_ritter.pdf,,"Tabassum, Ritter, Xu",2016,,,extracted_from_slides:central,,"[auto-evidence] (slide 41) Time Normalization
+[Tabassum, Ritter, Xu EMNLP 2016]",references_csv
+lld2017_ritter.pdf,,"Ritter, et. al.",2013,,,extracted_from_slides:central,,"[auto-evidence] (slide 59) Missing Data Problem
+In Distant Supervision
+[Ritter, et. al. TACL 2013]",references_csv
+lld2017_ritter.pdf,,Sordoni et. al.,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) Neural Conversation
+[Sordoni et. al. 2015] [Xu et. al. 2016] [Wen et. al. 2016]",references_csv
+lld2017_ritter.pdf,,Xu et. al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 15) [Sordoni et. al. 2015] [Xu et. al. 2016] [Wen et. al. 2016],references_csv
+lld2017_ritter.pdf,,Li et. al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 15) [Li et. al. 2016] [Kannan et. al. 2016] [Serban et. al. 2016],references_csv
+lld2017_ritter.pdf,REINFORCE Algorithm,Williams,1992,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 27) REINFORCE Algorithm (Williams,1992)",references_csv
+lld2017_ritter.pdf,Adversarial Learning,Goodfellow et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) Adversarial Learning
+(Goodfellow et al., 2014)",references_csv
+lld2017_ritter.pdf,,Bowman et. al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 34) Machine Evaluator:
+[Bowman et. al. 2016]",references_csv
+lld2017_ritter.pdf,,Mintz et. al.,2009,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) Learning from Distant
+Supervision
+
+[Mintz et. al. 2009]",references_csv
+lld2017_ritter.pdf,,"Ritter, et. al. (Named Entity Recognition)",2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) 1) Named Entity Recognition
+Challenge: highly ambiguous labels
+[Ritter, et. al. EMNLP 2011]",references_csv
+lld2017_ritter.pdf,,"Ritter, et. al. (Event Extraction)",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) Challenge: lack of negative examples
+[Ritter, et. al. WWW 2015]",references_csv
+lld2017_ritter.pdf,,"Konovalov, et. al.",2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 39) [Konovalov, et. al. WWW 2017]",references_csv
+lld2017_ritter.pdf,,Hoffmann et. al.,2011,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 55) Deterministic OR
+
+[Hoffmann et. al. 2011]",references_csv

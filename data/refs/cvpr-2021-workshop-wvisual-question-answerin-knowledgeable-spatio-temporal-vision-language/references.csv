@@ -1,0 +1,24 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+vqa2021_bansal.pdf,,Lei et al.,2018,,,extracted_from_slides:central,,"[auto-evidence] (slide 4) [Lei et al., EMNLP 2018]",references_csv
+vqa2021_bansal.pdf,,Lei et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 7) https://tvqa.cs.unc.edu/
+[Lei et al., ACL 2020]",references_csv
+vqa2021_bansal.pdf,,Lei et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 8) https://tvr.cs.unc.edu/
+
+[Lei et al., ECCV 2020]",references_csv
+vqa2021_bansal.pdf,,Lei et al.,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 14) [Lei et al., ACL 2021]",references_csv
+vqa2021_bansal.pdf,,Lei et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 15) https://github.com/jayleicn/VideoLanguageFuturePred
+
+[Lei et al., EMNLP 2020]",references_csv
+vqa2021_bansal.pdf,,Li + Lei et al.,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) https://value-benchmark.github.io/
+
+[Li + Lei et al., ArXiv 2021]",references_csv
+vqa2021_bansal.pdf,,Tan and Bansal,2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 23) [Tan and Bansal, EMNLP 2019]",references_csv
+vqa2021_bansal.pdf,,Tang + Lei et al.,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 25) [Tang + Lei et al., NAACL 2021]",references_csv
+vqa2021_bansal.pdf,,Lei + Li et. al,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 26) [Lei + Li et. al, CVPR 2021]",references_csv
+vqa2021_bansal.pdf,,Cho et al.,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 27) [Cho et al., ICML 2021]",references_csv
+vqa2021_bansal.pdf,,Tan and Bansal,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 28) [Tan and Bansal, EMNLP 2020]",references_csv
+vqa2021_bansal.pdf,,Chen et al.,2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 29) [Chen et al., ICRA 2020]",references_csv
+vqa2021_bansal.pdf,,Escorcia et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Recent work
+(Escorcia
+et al., 2019; Lei et al., 2020) introduced the Video",references_csv
+vqa2021_bansal.pdf,,Gurari et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 24) [Gurari et al., 2018; Bigham et al., 2010; Suhr et al., 2019; Antol et al., 2015; Gpyal et al., 2017; Hudson & Manning, 2019]",references_csv

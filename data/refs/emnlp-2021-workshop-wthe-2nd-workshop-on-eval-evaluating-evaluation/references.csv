@@ -1,0 +1,41 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,How Good (really) are Grammatical Error Correction Systems?,Alla Rozovskaya and Dan Roth,2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 4) How Good (really) are Grammatical Error Correction Systems?
+Alla Rozovskaya and Dan Roth
+EACL’21",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,Understanding the Extent to which Content Quality Metrics Measure the Information Quality of Summaries,"Dan Deutsch, Dan Roth",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) Understanding the Extent to which Content Quality Metrics Measure the Information Quality of Summaries
+Dan Deutsch, Dan Roth
+CoNLL-2021",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary,"Dan Deutsch, Tanya Bedrax-Weiss, Dan Roth",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary
+Dan Deutsch, Tanya Bedrax-Weiss, Dan Roth
+TACL-2021",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,A Statistical Analysis of Summarization Evaluation Metrics Using Resampling Methods,"Daniel Deutsch, Rotem Dror, Dan Roth",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 9) A Statistical Analysis of Summarization Evaluation Metrics Using Resampling Methods
+Daniel Deutsch, Rotem Dror, Dan Roth
+TACL-2021",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,"Back to Square One: Artifact Detection, Training and Commonsense Disentanglement in the Winograd Schema","Yanai Elazar, Hongming Zhang, Yoav Goldberg, Dan Roth",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 31) Back to Square One: Artifact Detection, Training and Commonsense Disentanglement in the Winograd
+Schema
+Yanai Elazar, Hongming Zhang, Yoav Goldberg, Dan Roth,
+EMNLP-2021",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,"“Going on a vacation"" takes longer than ""Going for a walk"": A Study of Temporal Commonsense Understanding","Ben Zhou, Daniel Khashabi, Qiang Ning, Dan Roth",2019,,,extracted_from_slides:central,,"[auto-evidence] (slide 31) “Going on a vacation"" takes longer than ""Going for a walk"": A Study of Temporal Commonsense
+Understanding
+Ben Zhou, Daniel Khashabi, Qiang Ning, Dan Roth,
+EMNLP-2019",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Chen et al.,2021,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 10) Chen et al. NAACL’21,references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Nenkova and Passonneau,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) The Pyramid Method is the gold-standard for manually comparing the content of two summaries
+
+(Nenkova and Passonneau, 2004)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Zhang et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 30) BERTScore (Zhang et al., 2020)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Levesque et al.,2012,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) Initial dataset of 273 examples
+et al., 2012",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Sakaguchi et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 41) 2 years ago: Winogrande with 44K examples
+et al., 2019",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Ning et al.,2018,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) Ning et al. NAACL’18,references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Elazar et al.,2019,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 44) [Elazar et al. ACL’19],references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Zhou et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 44) Acquisition + Representation [Zhou et al. ACL’20]: Duration, typical time, frequency.",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,ESIM: Enhanced LSTM for Natural Language Inference,Chen et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) ESIM: Enhanced LSTM for Natural Language Inference (Chen et al., 2016)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,GloVe: Global Vectors for Word Representation,Pennington et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) GloVe: Global Vectors for Word Representation (Pennington et al., 2014)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,Deep contextualized word representations,Peters et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) ELMo: Deep contextualized word representations (Peters et al., 2018)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Devlin et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) BERT: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2019)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,A Robustly Optimized BERT Pretraining Approach,Liu et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 46) RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., 2019)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Durmus et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) FEQA (Durmus et al., 2020) and",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Wang et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) QAGS (Wang et al., 2020)",references_csv
+emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf,,Eyal et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 49) APES (Eyal et al. 2019), is the most relevant.",references_csv

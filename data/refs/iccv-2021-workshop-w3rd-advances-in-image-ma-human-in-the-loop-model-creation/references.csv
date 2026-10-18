@@ -1,0 +1,17 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+aim2021_iccv_junyanzhu.pdf,Sketch Your Own GAN,"Sheng-Yu Wang, David Bau, Jun-Yan Zhu",2021,,,extracted_from_slides:central,,"[auto-evidence] (slide 15) Sketch Your Own GAN. Sheng-Yu Wang, David Bau, Jun-Yan Zhu, ICCV 2021",references_csv
+aim2021_iccv_junyanzhu.pdf,Model Rewriting,"Bau, Liu, Wang, Zhu, Torralba",2020,,,extracted_from_slides:central,,"[auto-evidence] (slide 47) Model Rewriting [Bau, Liu, Wang, Zhu, Torralba, ECCV 2020]",references_csv
+aim2021_iccv_junyanzhu.pdf,Editing Conditional Radiance Fields,"Steven Liu, Xiuming Zhang, Zhoutong Zhang, Richard Zhang, Jun-Yan Zhu, Bryan Russell",,,,extracted_from_slides:central,,"[auto-evidence] (slide 52) Editing Conditional Radiance Fields
+Steven Liu1, Xiuming Zhang1, Zhoutong Zhang1, Richard Zhang2, Jun-Yan Zhu3, Bryan Russell2",references_csv
+aim2021_iccv_junyanzhu.pdf,,Choi et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) StarGAN [Choi et al., 2018]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Zhu et al.,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) CycleGAN [Zhu et al., 2017]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Huang et al.,2018,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) MUNIT [Huang et al., ECCV 2018]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Karras et al.,2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) StyleGAN [Karras et al., CVPR 2019]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Isola et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) [Isola et al., 2016]",references_csv
+aim2021_iccv_junyanzhu.pdf,,"Park, Liu, Wang, Zhu",2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 4) GauGAN [Park, Liu, Wang, Zhu. 2019]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Park et al.,2020,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Swapping Autoencoder [Park et al. NeurIPS 2020],references_csv
+aim2021_iccv_junyanzhu.pdf,,Igarashi et al.,1999,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 13) Teddy System [Igarashi et al., 1999]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Tao et al.,2008,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 14) Sketch2Photo [Tao et al., 2008]",references_csv
+aim2021_iccv_junyanzhu.pdf,,Härkönen et.al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 30) ``Add fur’’ operation from GANSpace (Härkönen et.al.),references_csv
+aim2021_iccv_junyanzhu.pdf,,Kohonen,1972,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 43) [Kohonen 1972],references_csv
+aim2021_iccv_junyanzhu.pdf,,Mildenhall et al.,2020,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 53) [Mildenhall et al., 2020]",references_csv

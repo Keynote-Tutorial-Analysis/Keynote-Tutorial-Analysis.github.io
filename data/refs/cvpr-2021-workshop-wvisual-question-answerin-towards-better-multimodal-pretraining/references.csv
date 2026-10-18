@@ -1,0 +1,20 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+vqa2021_nematzadeh.pdf,,Hendricks et al.,,,,extracted_from_slides:central,,"[auto-evidence] (slide 11) [Hendricks et al., TACL",references_csv
+vqa2021_nematzadeh.pdf,SVO-Probes,Hendricks et al.,,,,extracted_from_slides:central,,"[auto-evidence] (slide 15) What SVO-Probes Tests [Hendricks et al., Findings of ACL",references_csv
+vqa2021_nematzadeh.pdf,,Tan & Bansal,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) [Tan & Bansal,",references_csv
+vqa2021_nematzadeh.pdf,,Desai & Johnson,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 2) Desai & Johnson,",references_csv
+vqa2021_nematzadeh.pdf,,Peters et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) [Peters et al., ;",references_csv
+vqa2021_nematzadeh.pdf,,Howard & Ruder,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Howard & Ruder,",references_csv
+vqa2021_nematzadeh.pdf,BERT,Devlin et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Devlin et al. NAACL,references_csv
+vqa2021_nematzadeh.pdf,,Radford et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Radford et al., ; Raffel",references_csv
+vqa2021_nematzadeh.pdf,,Raffel et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 3) Raffel et al., ]",references_csv
+vqa2021_nematzadeh.pdf,VideoBert,Sun et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Sun et al. ICCV,references_csv
+vqa2021_nematzadeh.pdf,VilBERT,Lu et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Lu et al. NeurIPS,references_csv
+vqa2021_nematzadeh.pdf,LXMert,Tan et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Tan et al. EMNLP,references_csv
+vqa2021_nematzadeh.pdf,CBT,Sun et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Sun et al. Arxiv,references_csv
+vqa2021_nematzadeh.pdf,UNITER,Chen et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 5) Chen et al. ECCV,references_csv
+vqa2021_nematzadeh.pdf,BOW-DE,Miech & Alayrac et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 19) BOW-DE: [Miech & Alayrac et al. CVPR,references_csv
+vqa2021_nematzadeh.pdf,CLIP,Radford et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 19) CLIP: [Radford et al. Arxiv,references_csv
+vqa2021_nematzadeh.pdf,ALIGN,Jia et al.,,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 19) ALIGN: [Jia et al. Arxiv,references_csv
+vqa2021_nematzadeh.pdf,,Miech et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) [Miech et al., ; Chao et al.,",references_csv
+vqa2021_nematzadeh.pdf,,Chao et al.,,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) Chao et al., ; Lu et al.,",references_csv

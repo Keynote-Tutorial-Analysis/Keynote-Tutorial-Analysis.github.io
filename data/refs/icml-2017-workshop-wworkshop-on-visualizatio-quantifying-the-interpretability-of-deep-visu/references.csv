@@ -1,0 +1,22 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+zhou_icml2017_viz.pdf,Network Dissection: quantifying interpretability of deep visual representations,"Bau*, Zhou*, Khosla, Oliva, Torralba",2017,,http://netdissect.csail.mit.edu,extracted_from_slides:central,,"[auto-evidence] (slide 9) Bau*, Zhou*, Khosla, Oliva, Torralba. Network Dissection: quantifying interpretability of deep visual representations. CVPR’17",references_csv
+zhou_icml2017_viz.pdf,Learning Deep Features for Discriminative Localization,Zhou et al.,2016,,,extracted_from_slides:central,,[auto-evidence] (slide 44) Zhou et al. Learning Deep Features for Discriminative Localization. CVPR 2016,references_csv
+zhou_icml2017_viz.pdf,,Simonyan et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Simonyan et al., ICLR 2015
+workshop, 2014",references_csv
+zhou_icml2017_viz.pdf,,Mahendran et al,2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Mahendran et al, CVPR 2015",references_csv
+zhou_icml2017_viz.pdf,,Zeiler et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Zeiler et al., ECCV 2014.",references_csv
+zhou_icml2017_viz.pdf,,Girshick et al.,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Girshick et al., CVPR 2014",references_csv
+zhou_icml2017_viz.pdf,ADE20K,Zhou et al,2017,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) ADE20K
+Zhou et al, CVPR’17",references_csv
+zhou_icml2017_viz.pdf,Pascal Context,Mottaghi et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Pascal Context
+Mottaghi et al, CVPR’14",references_csv
+zhou_icml2017_viz.pdf,Pascal Part,Chen et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Pascal Part
+Chen et al, CVPR’14",references_csv
+zhou_icml2017_viz.pdf,Open-Surfaces,Bell et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Open-Surfaces
+Bell et al, SIGGRAPH’14",references_csv
+zhou_icml2017_viz.pdf,Describable Textures,Cimpoi et al,2014,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 11) Describable Textures
+Cimpoi et al, CVPR’14",references_csv
+zhou_icml2017_viz.pdf,Intriguing properties of neural networks,Szegedy et al.,2014,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 16) Szegedy et al. Intriguing properties of neural networks. arXiv.2014,references_csv
+zhou_icml2017_viz.pdf,,Owens et al.,2016,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 34) Predict audio from video frames. ECCV’16 Owens et al.,references_csv
+zhou_icml2017_viz.pdf,,Zhang et al.,2016,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 35) Colorize grey images
+ECCV’16. Zhang et al.",references_csv

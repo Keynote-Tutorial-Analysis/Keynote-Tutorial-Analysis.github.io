@@ -1,0 +1,23 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+iclr2017_simoncelli.pdf,,Portilla & Simoncelli,2000,,,extracted_from_slides:central,,"[auto-evidence] (slide 12) [Portilla & Simoncelli, IJCV 2000]",references_csv
+iclr2017_simoncelli.pdf,,McDermott & Simoncelli,2011,,,extracted_from_slides:central,,"[auto-evidence] (slide 20) [McDermott & Simoncelli, Neuron 2011]",references_csv
+iclr2017_simoncelli.pdf,,Freeman & Simoncelli,2011,,,extracted_from_slides:central,,"[auto-evidence] (slide 33) [Freeman & Simoncelli, 2011]",references_csv
+iclr2017_simoncelli.pdf,,McDermott & Simoncelli,2014,,,extracted_from_slides:central,,"[auto-evidence] (slide 28) [McDermott & Simoncelli, Nature Neuro 2014]",references_csv
+iclr2017_simoncelli.pdf,,Hubel,95,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 3) [brain figure: Hubel '95],references_csv
+iclr2017_simoncelli.pdf,,Hegde & van Essen,2000,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) [Hegde & van Essen, 2000 Ito & Komatsu, 2004 Anzai et.al., 2007 etc]",references_csv
+iclr2017_simoncelli.pdf,,Ito & Komatsu,2004,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Ito & Komatsu, 2004",references_csv
+iclr2017_simoncelli.pdf,,Anzai et.al.,2007,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 7) Anzai et.al., 2007",references_csv
+iclr2017_simoncelli.pdf,,Lettvin,1976,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 10) [Lettvin, 1976]",references_csv
+iclr2017_simoncelli.pdf,,Julesz,1962,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 11) Julesz's conjecture (1962),references_csv
+iclr2017_simoncelli.pdf,,Julesz,78,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 11) Julesz '78,references_csv
+iclr2017_simoncelli.pdf,,Yellott,93,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 11) Yellott '93,references_csv
+iclr2017_simoncelli.pdf,Deep Neural Networks are Easily Fooled,"Nguyen, Yosinski, Clune",2015,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 17) Deep Neural Networks are Easily Fooled... Nguyen, Yosinski, Clune CVPR 2015",references_csv
+iclr2017_simoncelli.pdf,Intriguing properties of neural networks,Szegedy et. al.,2014,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 18) Intriguing properties of neural networks Szegedy et. al. arXiv 2014,references_csv
+iclr2017_simoncelli.pdf,,Ruggero,92,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 20) Cochlea [Ruggero, 92; Joris, et al 04]",references_csv
+iclr2017_simoncelli.pdf,,Bauman et al,11,,,extracted_from_slides:mentioned,,[auto-evidence] (slide 20) IC/MGN [Bauman et al 11; Rodriguez et al 10],references_csv
+iclr2017_simoncelli.pdf,,Gattass et. al.,1981,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 31) macaque data from Gattass et. al., 1981; Gattass et. al., 1988; Perry et. al., 1984",references_csv
+iclr2017_simoncelli.pdf,,Allman & Kaas,1971,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) [Allman & Kaas, 1971; Allman & Kaas, 1974; Gattass et.al., 1981; van Essen et.al., 1984;",references_csv
+iclr2017_simoncelli.pdf,,van Essen et.al.,1984,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) van Essen et.al., 1984;",references_csv
+iclr2017_simoncelli.pdf,,Maguire & Baizer,1984,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) Maguire & Baizer, 1984; Burkhalter & van Essen, 1986; Gattass et.al., 1987;",references_csv
+iclr2017_simoncelli.pdf,,Gattass et.al.,1987,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) Burkhalter & van Essen, 1986; Gattass et.al., 1987; Desimone & Schein, 1987;",references_csv
+iclr2017_simoncelli.pdf,,Desimone & Schein,1987,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 36) Desimone & Schein, 1987; Gattass et.al., 1988; Cavanaugh et. al., 2002]",references_csv

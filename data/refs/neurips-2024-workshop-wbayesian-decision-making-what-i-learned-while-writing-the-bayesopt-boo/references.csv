@@ -1,0 +1,8 @@
+slide_file,title,authors,year,arxiv_id,link,provenance,verified_in_deck,evaluator_notes,source
+bdu2024_garnett.pdf,,"Frazier, et al. (knowledge gradient)",2009,,,extracted_from_slides:central,,"[auto-evidence] (slide 19) (Frazier, et al. 2009)",references_csv
+bdu2024_garnett.pdf,,Harold Kushner (upper confidence bound / probability of improvement),1962,,,extracted_from_slides:central,,"[auto-evidence] (slide 38) (Kushner, 1962)",references_csv
+bdu2024_garnett.pdf,,"Harold Kushner (probability of improvement, further development)",1964,,,extracted_from_slides:central,,"[auto-evidence] (slide 45) Further Development (Kushner, 1964)",references_csv
+bdu2024_garnett.pdf,,Jonas Mockus (knowledge gradient / expected improvement),1972,,,extracted_from_slides:central,,"[auto-evidence] (slide 34) Jonas Mockus, 1972",references_csv
+bdu2024_garnett.pdf,,Šaltyanis (expected improvement),1971,,,extracted_from_slides:central,,"[auto-evidence] (slide 54) (Šaltyanis, 1971)",references_csv
+bdu2024_garnett.pdf,,"Letham, et al.",2019,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 15) (Letham, et al. 2019)",references_csv
+bdu2024_garnett.pdf,,Cox and John (upper confidence bound),1998,,,extracted_from_slides:mentioned,,"[auto-evidence] (slide 34) Cox and John, 1998",references_csv
