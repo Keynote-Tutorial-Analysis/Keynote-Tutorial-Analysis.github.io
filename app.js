@@ -94,6 +94,13 @@ function applyFilters() {
     if (q && !(`${u.title} ${u.venue} ${u.file}`.toLowerCase().includes(q))) return false;
     return true;
   });
+  // keynotes / invited talks first, tutorials after — then alphabetical by title
+  state.filtered.sort((a, b) => {
+    const at = a.category === "tutorial" ? 1 : 0, bt = b.category === "tutorial" ? 1 : 0;
+    if (at !== bt) return at - bt;
+    return (a.title || "").toLowerCase().localeCompare((b.title || "").toLowerCase())
+        || (a.file || "").localeCompare(b.file || "");
+  });
   renderDeckList();
 }
 function renderDeckList() {
@@ -168,8 +175,7 @@ async function renderRefs(u) {
 }
 function drawRefs() {
   const box = $("#refs-table"); const n = state.refs.length;
-  const v = state.refs.filter(r => r.verified === "Y").length;
-  $("#refs-summary").textContent = `${n} reference${n === 1 ? "" : "s"} · ${v} verified`;
+  $("#refs-summary").textContent = `${n} reference${n === 1 ? "" : "s"}`;
   if (!n) { box.innerHTML = '<div class="di-empty">No references — use “+ Add reference”.</div>'; return; }
   box.innerHTML = state.refs.map((r, i) => `
     <div class="ref-row" data-i="${i}">
@@ -180,20 +186,12 @@ function drawRefs() {
         <input class="rr-f rr-link" data-k="link" value="${esc(r.link)}" placeholder="link / arXiv / DOI">
       </div>
       <div class="rr-controls">
-        <span class="verify-group" title="Is this paper actually referenced in the deck?">
-          <button type="button" class="vbtn${r.verified === 'Y' ? ' on y' : ''}" data-v="Y">Y</button>
-          <button type="button" class="vbtn${r.verified === 'partial' ? ' on p' : ''}" data-v="partial">~</button>
-          <button type="button" class="vbtn${r.verified === 'N' ? ' on n' : ''}" data-v="N">N</button>
-        </span>
         <button type="button" class="rr-del" title="Remove this reference">✕</button>
       </div>
     </div>`).join("");
   $$(".ref-row", box).forEach(row => {
     const i = +row.dataset.i;
     $$(".rr-f", row).forEach(inp => inp.addEventListener("input", () => { state.refs[i][inp.dataset.k] = inp.value; persist(false); }));
-    $$(".vbtn", row).forEach(b => b.addEventListener("click", () => {
-      state.refs[i].verified = state.refs[i].verified === b.dataset.v ? "" : b.dataset.v; drawRefs(); persist(false);
-    }));
     row.querySelector(".rr-del").addEventListener("click", () => { state.refs.splice(i, 1); drawRefs(); persist(false); });
   });
 }
