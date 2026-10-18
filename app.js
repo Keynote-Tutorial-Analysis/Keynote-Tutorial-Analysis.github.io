@@ -165,6 +165,8 @@ async function renderRefs(u) {
     try {
       const all = csvObjects(await fetchText(CFG.DATA + "refs/" + u.deck_id + "/references.csv"));
       seed = all.filter(r => (r.provenance || "").endsWith(":central") && (!r.slide_file || r.slide_file === u.file))
+        // drop bare author-name entries: a paper needs a title or a link (matches the review tool)
+        .filter(r => (r.title || "").trim() || (r.link || "").trim())
         .map(r => ({ title: r.title || "", authors: r.authors || "", year: r.year || "",
                      arxiv_id: r.arxiv_id || "", link: r.link || "", verified: "" }));
     } catch (e) { seed = []; }
@@ -179,10 +181,8 @@ function drawRefs() {
   if (!n) { box.innerHTML = '<div class="di-empty">No references — use “+ Add reference”.</div>'; return; }
   box.innerHTML = state.refs.map((r, i) => `
     <div class="ref-row" data-i="${i}">
-      <input class="rr-f rr-title" data-k="title" value="${esc(r.title)}" placeholder="paper title (blank = author–year only)">
+      <input class="rr-f rr-title" data-k="title" value="${esc(r.title)}" placeholder="paper title">
       <div class="rr-sub">
-        <input class="rr-f" data-k="authors" value="${esc(r.authors)}" placeholder="authors">
-        <input class="rr-f rr-year" data-k="year" value="${esc(r.year)}" placeholder="year">
         <input class="rr-f rr-link" data-k="link" value="${esc(r.link)}" placeholder="link / arXiv / DOI">
       </div>
       <div class="rr-controls">
