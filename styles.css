@@ -328,6 +328,8 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .
 /* mode hint ("pick one" / "any" / "one per tab") in a category head */
 .tgh-mode { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
   color: var(--ink-faint); background: var(--line); border-radius: 20px; padding: 1px 7px; }
+.tax-ai-hint { font-size: 10.5px; font-style: italic; color: var(--ink-faint);
+  border: 1px dashed var(--line); border-radius: 20px; padding: 1px 7px; white-space: nowrap; }
 
 /* Visual Style: tabbed sub-dimensions */
 .tax-visual { border: 1px solid var(--line); border-radius: 9px; padding: 9px 10px; background: var(--panel-2); }

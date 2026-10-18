@@ -1,0 +1,7372 @@
+{
+"T002_eye-tracking-and-nlp||Eye Tracking and NLP ACL 2025 Tutorial no builds.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||00_1-intro.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||01_2-hacker.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||02_3-llm-attack.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||03_4-vlm-attack.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||04_4-2-t2i-attack.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||05_5-additional-attacks.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||06_6-causes.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T008_vulnerabilities-of-large-language-models-to-adversarial-atta||07_7-defenses.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T027_indirectly-supervised-natural-language-processing||00_0-Introduction.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T027_indirectly-supervised-natural-language-processing||01_1-NLI4NLU.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T027_indirectly-supervised-natural-language-processing||02_2-NLG4NLU.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T027_indirectly-supervised-natural-language-processing||03_3-NLtext.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T027_indirectly-supervised-natural-language-processing||04_4-theory.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T027_indirectly-supervised-natural-language-processing||05_5-Multimodality.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T061_pre-training-methods-for-neural-machine-translation||01_part-i-basics.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T061_pre-training-methods-for-neural-machine-translation||02_part-ii-monolingual-pre-training-for-nmt.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T061_pre-training-methods-for-neural-machine-translation||03_part-iii-multilingual-pre-training-for-n.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T061_pre-training-methods-for-neural-machine-translation||04_part-iv-pre-training-for-speech-translat.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T069_crowdsourcing-beyond-annotation-case-studies-in-benchmark-da||03_section-3-8-crowdsourcing-beyond-annotat.pdf": {
+"narrative_style": "comparison",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T069_crowdsourcing-beyond-annotation-case-studies-in-benchmark-da||04_section-4-8-crowdsourcing-beyond-annotat.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T069_crowdsourcing-beyond-annotation-case-studies-in-benchmark-da||05_section-5-8-crowdsourcing-beyond-annotat.pdf": {
+"narrative_style": "step",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T069_crowdsourcing-beyond-annotation-case-studies-in-benchmark-da||06_section-6-8-crowdsourcing-beyond-annotat.pdf": {
+"narrative_style": "step",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T069_crowdsourcing-beyond-annotation-case-studies-in-benchmark-da||07_section-7-8-crowdsourcing-beyond-annotat.pdf": {
+"narrative_style": "step",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"qa"
+]
+},
+"T069_crowdsourcing-beyond-annotation-case-studies-in-benchmark-da||08_section-8-8-crowdsourcing-beyond-annotat.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T070_financial-opinion-mining||00_drive_1B4bdO_Ml8.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"acl-2015-workshop-wfirst-workshop-on-noisy-text-mining-of-social-media-going-beyond-the||wnut2015_acl_baldwin.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"acl-2018-workshop-wworkshop-on-machine-read-questioning-question-answering-answers||mrqa2018_sameer.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"acl-2022-invited_talk-scaling-nlp-systems-to-the-next-1000-languages||ruder_acl2022_1000langs.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"acl-2024-workshop-wfourth-workshop-on-schol-chasing-high-precision-nlp-at-discount-prices||sdp2024_acl_downey.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"paragraph"
+]
+},
+"cvpr-2019-workshop-wactivitynet-large-scale-what-are-good-representations-for-grounding-l||cvpr2019_activitynet_saenko_grounding_language_vision.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"cvpr-2020-workshop-wactivitynet-large-scale-efficient-video-recognition||cvpr2020_activitynet_feichtenhofer_efficient_video_recognition.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2020-workshop-wvisual-question-answerin-benchmarking-progress-in-ai-adversarial-nli-h||vqa2020_kiela.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"paragraph"
+]
+},
+"cvpr-2021-workshop-wactivitynet-large-scale-towards-versatile-and-powerful-multimodal-net||cvpr2021_activitynet_alayrac_multimodal_networks.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2022-workshop-w1st-explainable-ai-for-c-representation-learning-a-causal-perspective||cvpr2022_xai4cv_yixinwang_causal_representation_learning.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-neucap-neuromorphic-camera-aided-photography||cvpr-2023-workshop-w4th-international-worksh-neucap-neuromorphic-camera-aided-ph.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2023-workshop-w8th-new-trends-in-image-anti-aliasing-neural-radiance-fields||cvpr-2023-workshop-w8th-new-trends-in-image-anti-aliasing-neural-radiance-fields.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"paragraph",
+"bullet"
+]
+},
+"cvpr-2023-workshop-wvisual-perception-via-le-open-vocabulary-weakly-supervised-visual-recognition-algorit||cvpr-2023-workshop-wvisual-perception-via-le-open-vocabulary-weakly-supervised-v.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"cvpr-2024-workshop-wfoundation-models-for-au-visual-world-models-as-foundation-models-for-autonomous-syst||cvpr-2024-workshop-wfoundation-models-for-au-visual-world-models-as-foundation-m.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2024-workshop-wthird-workshop-of-mobile-how-far-are-we-from-the-restore-any-image-model-raim||cvpr-2024-workshop-wthird-workshop-of-mobile-how-far-are-we-from-the-restore-any.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-centroiding-point-objects-with-event-cameras||cvpr-2025-workshop-w5th-international-worksh-centroiding-point-objects-with-even.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-event-cameras-a-new-way-of-sensing||cvpr-2025-workshop-w5th-international-worksh-event-cameras-a-new-way-of-sensing.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"visual_focused",
+"title_body",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"cvpr-2025-workshop-wembodied-intelligence-fo-what-does-embodied-intelligence-mean-lessons-learned-from-dr||cvpr-2025-workshop-wembodied-intelligence-fo-what-does-embodied-intelligence-mea.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-language-as-a-visual-format||cvpr-2025-workshop-wvisual-generative-modeli-language-as-a-visual-format.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"cvpr-2026-workshop-wefficient-deep-learning-executorch-a-unified-pytorch-solution-for-on-device-ml||cvpr-2026-workshop-wefficient-deep-learning-executorch-a-unified-pytorch-solutio.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2020-workshop-w2nd-advances-in-image-ma-modern-computational-photography-burst-imagin||aim2020_eccv_peymanmilanfar.pdf": {
+"narrative_style": "time",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"eccv-2022-workshop-w4th-advances-in-image-ma-uncovering-local-semantics-in-cnns-and-gans||aim2022_eccv_sabinesusstrunk.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"eccv-2024-workshop-wmap-free-visual-relocali-beyond-visual-positioning-from-vps-to-snap||eccv-2024-workshop-wmap-free-visual-relocali-beyond-visual-positioning-from-vps-.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"eccv-2024-workshop-wself-supervised-learning-diffusion-models-for-self-supervised-learning-a-deconstructi||eccv-2024-workshop-wself-supervised-learning-diffusion-models-for-self-supervise.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"eccv-2024-workshop-wworkshop-on-neuromorphic-event-cameras-motion-estimation-and-animal-behavior-quantifi||eccv-2024-workshop-wworkshop-on-neuromorphic-event-cameras-motion-estimation-and.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"emnlp-2018-keynote-truth-or-lie-spoken-indicators-of-deception-in-speech||emnlp-2018-keynote-truth-or-lie-spoken-indicators-of-deception-in-speech.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"emnlp-2020-workshop-w1st-workshop-on-scholarl-mitigating-scholarly-corpus-biases-with-citat||sdp2020_emnlp_kuansan_wang.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"emnlp-2021-workshop-wthe-2nd-workshop-on-eval-high-quality-human-evaluations-of-nlg||emnlp2021_eval4nlp_reiter_human-evaluation-nlg.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"emnlp-2023-workshop-wcrac-2023-the-sixth-work-recent-computational-approaches-to-coreference-resolution||emnlp-2023-workshop-wcrac-2023-the-sixth-work-recent-computational-approaches-to.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"iccv-2019-workshop-wscene-graph-representati-adversarial-robustness-of-machine-learning-mo||sgrl2019_iccv_stephangunnemann.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2019-workshop-wscene-graph-representati-beyond-a-self-sufficient-pixel-tensor-modelin||sgrl2019_iccv_deviparikh.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"iccv-2019-workshop-wscene-graph-representati-beyond-a-self-sufficient-pixel-tensor-modelin||sgrl_jianwei.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-deep-learning-on-mobile-devices-an-in-depth-o||aim21_ignatov.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-interpreting-super-resolution-networks||aim21_chaodong.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"iccv-2023-workshop-wbigmac-big-model-adaptat-robust-fine-tuning-of-zero-shot-models||iccv-2023-workshop-wbigmac-big-model-adaptat-robust-fine-tuning-of-zero-shot-mod.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"iccv-2023-workshop-wrobot-learning-and-slam-distributed-estimation-and-learning-for-robotics||iccv-2023-workshop-wrobot-learning-and-slam-distributed-estimation-and-learning-.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"iccv-2025-workshop-wcamera-calibration-and-p-invited-talk-iii-eric-brachmann||iccv-2025-workshop-wcamera-calibration-and-p-invited-talk-iii-eric-brachmann.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"iclr-2017-keynote-elucidating-and-testing-hierarchical-sensory-models-thr||iclr2017_simoncelli.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"iclr-2017-keynote-what-can-deep-learning-learn-from-linear-regression||iclr2017_recht.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"iclr-2021-invited_talk-commonsense-ai-myth-and-truth||iclr-2021-invited_talk-commonsense-ai-myth-and-truth.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"qa"
+]
+},
+"iclr-2024-invited_talk-why-your-work-matters-for-climate-in-more-ways-than-you-thin||iclr-2024-invited_talk-why-your-work-matters-for-climate-in-more-ways-than-you-t.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"icml-2015-keynote-two-big-challenges-in-machine-learning||icmlmain_bottou_2015.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"icml-2018-invited_talk-intelligence-per-kilowatthour||icml-2018-invited_talk-intelligence-per-kilowatthour.pptx": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"icml-2022-workshop-w1st-annual-workshop-on-t-the-memory-of-persistence||wkc_rieck_icml2022.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"neurips-2016-workshop-wmachine-intelligence-wor-general-intelligence-through-playing-games||main2016_togelius.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"neurips-2016-workshop-wprivate-multi-party-mach-secure-computation-why-how-and-when||pmpml16_raykova.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wdeep-learning-for-physic-learning-priors-likelihoods-or-posteriors||dlps2017_murray.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-overcoming-limited-data-with-gans||lld2017_goodfellow.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"neurips-2018-invited_talk-machine-learning-meets-public-policy-what-to-expect-and-how||neurips-2018-invited_talk-machine-learning-meets-public-policy-what-to-expect-an.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "mixed",
+"visual_layout": [
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"neurips-2023-workshop-66498-manual-curation-vs-ai-distillation-lessons-learned-for-instr||neurips-2023-workshop-66498-manual-curation-vs-ai-distillation-lessons-learned-f.pdf": {
+"narrative_style": "comparison",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2023-workshop-66514-visual-representations-that-transfer||neurips-2023-workshop-66514-visual-representations-that-transfer.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"neurips-2023-workshop-66530-heavy-tailed-self-self-regularization-in-dnns||neurips-2023-workshop-66530-heavy-tailed-self-self-regularization-in-dnns.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"neurips-2023-workshop-66542-logic-automata-and-games-in-linear-temporal-logics-on-finite||neurips-2023-workshop-66542-logic-automata-and-games-in-linear-temporal-logics-o.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2024-workshop-wbayesian-decision-making-funbo-discovering-acquisition-functions-for-b||bdu2024_aglietti.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2024-workshop-wmultimodal-algorithmic-r-llm-posteriors-over-functions-as-a-new-output||mar2024_duvenaud.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||01_ACL_2025_Tutorial_LLM_Guardrails_Security_Content_Safety.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||02_ACL_2025_Tutorial_LLM_Guardrails_Security_LLMSec.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"paragraph"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||03_ACL_2025_Tutorial_LLM_Guardrails_Security_Alignment_Attacks.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"shared_limits"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||04_ACL_2025_Tutorial_LLM_Guardrails_Security_Dialogue_Rails.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||05_ACL_2025_Tutorial_LLM_Guardrails_Security_Multilingual_Safety.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||06_ACL_2025_Tutorial_LLM_Guardrails_Security_Inference_Steering.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T003_guardrails-and-security-for-large-language-models||07_ACL_2025_Tutorial_LLM_Guardrails_Security_Agent_Safety.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T004_navigating-ethical-challenges-in-nlp||01_drive_1x7loTQ_Ba.pdf": {
+"narrative_style": "topic",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T004_navigating-ethical-challenges-in-nlp||02_drive_1PGFVu0gai.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"T004_navigating-ethical-challenges-in-nlp||03_drive_1gVG2Mz3EN.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"paragraph"
+]
+},
+"T023_human-ai-interaction-in-the-age-of-llms||gslides_1JaexfDN3Q.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T029_denoising-diffusion-models-a-generative-learning-big-bang||00_drive_1iZtjIwjrT.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T029_denoising-diffusion-models-a-generative-learning-big-bang||01_drive_11iVKq3BUw.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T029_denoising-diffusion-models-a-generative-learning-big-bang||02_drive_18KfSKzS7d.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||01_drive_1xtXj95tJe.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||02_drive_1JzByYECmz.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||03_drive_1Vku7SqKQi.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||06_drive_1A_brIgLDT.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||07_drive_13c4sS80N6.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||08_drive_1Wazw91eU3.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"visual_focused",
+"split",
+"title_body"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"T037_tutorial-on-multimodal-machine-learning||10_drive_1Df0uS61_a.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"T071_knowledge-enriched-natural-language-generation||02_part1.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T071_knowledge-enriched-natural-language-generation||03_part2.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T071_knowledge-enriched-natural-language-generation||04_part3.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T071_knowledge-enriched-natural-language-generation||05_part4.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T071_knowledge-enriched-natural-language-generation||06_part5.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T071_knowledge-enriched-natural-language-generation||07_part6.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"paragraph"
+]
+},
+"T081_reviewing-natural-language-processing-research||ACL-Tutorial-Reviewing-Part3_ReviewingConclusions_KBC.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"qa"
+]
+},
+"acl-2016-invited_talk-invited-talk-ii-mark-steedman||acl-2016-invited_talk-invited-talk-ii-mark-steedman.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"acl-2018-workshop-wworkshop-on-machine-read-reading-and-reasoning-with-neural-program-int||mrqa2018_sebastian.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"paragraph",
+"bullet",
+"phrase"
+]
+},
+"acl-2022-invited_talk-the-devil-s-in-the-data-mapping-and-generating-datasets||swabha_acl2022_devils_data.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"acl-2024-workshop-wfourth-workshop-on-schol-how-to-intertext-elevating-nlp-to-the-cross-d||sdp2024_acl_gurevych.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2019-workshop-wimage-matching-local-fea-in-defense-of-local-features-for-visual-local||cvpr2019_imw_sattler_local_features.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"visual_focused",
+"title_body",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2020-workshop-wactivitynet-large-scale-learning-visual-representations-from-internet||cvpr2020_activitynet_sivic_learning_visual_representations.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"cvpr-2020-workshop-wvisual-question-answerin-scene-text-vqa-modelling-the-interplay-betwee||vqa2020_karatzas.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence",
+"qa"
+]
+},
+"cvpr-2021-workshop-wvisual-question-answerin-connecting-vision-and-language-with-localized||vqa2021_ferrari.pdf": {
+"narrative_style": "topic",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2022-workshop-wimage-matching-local-fea-superpoint-and-superglue-lessons-learned||imw2022_malisiewicz.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-re-thinking-computing-with-neuro-inspired-learning-algorithm||cvpr-2023-workshop-w4th-international-worksh-re-thinking-computing-with-neuro-in.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"cvpr-2023-workshop-w8th-new-trends-in-image-burst-image-restoration-and-enhancement||cvpr-2023-workshop-w8th-new-trends-in-image-burst-image-restoration-and-enhancem.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"cvpr-2024-workshop-wdomain-adaptation-explai-invited-talk-ronald-m-summers||cvpr-2024-workshop-wdomain-adaptation-explai-invited-talk-ronald-m-summers.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2024-workshop-wmultimodal-algorithmic-r-abstraction-in-humans-and-machines||cvpr-2024-workshop-wmultimodal-algorithmic-r-abstraction-in-humans-and-machines.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2024-workshop-wthird-workshop-of-mobile-towards-a-better-camera-in-the-app-and-ar-glass||cvpr-2024-workshop-wthird-workshop-of-mobile-towards-a-better-camera-in-the-app-.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-computational-imaging-with-event-cameras||cvpr-2025-workshop-w5th-international-worksh-computational-imaging-with-event-ca.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-neuromorphic-vision-in-aerospace-automation||cvpr-2025-workshop-w5th-international-worksh-neuromorphic-vision-in-aerospace-au.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-after-diffusion-models||cvpr-2025-workshop-wvisual-generative-modeli-after-diffusion-models.pdf": {
+"narrative_style": "comparison",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-still-training-gans-in-2025||cvpr-2025-workshop-wvisual-generative-modeli-still-training-gans-in-2025.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2026-workshop-wgrail-v-grounded-retriev-ai-for-data-and-data-for-ai||cvpr-2026-workshop-wgrail-v-grounded-retriev-ai-for-data-and-data-for-ai.pptx": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2020-workshop-w2nd-advances-in-image-ma-reflected-light-and-doors-in-the-sky-rewritin||aim2020_eccv_davidbau.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"qa"
+]
+},
+"eccv-2024-workshop-w5th-advances-in-image-ma-on-the-compression-and-design-of-foundation-models||eccv-2024-workshop-w5th-advances-in-image-ma-on-the-compression-and-design-of-fo.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"eccv-2024-workshop-wmap-free-visual-relocali-grounding-image-matching-in-3d-with-mast3r||eccv-2024-workshop-wmap-free-visual-relocali-grounding-image-matching-in-3d-with.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2024-workshop-wself-supervised-learning-from-unsupervised-object-localization-to-open-vocabulary-sem||eccv-2024-workshop-wself-supervised-learning-from-unsupervised-object-localizati.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"new_directions",
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"visual_focused",
+"title_body",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2024-workshop-wworkshop-on-neuromorphic-heading-towards-comprehensive-neuromorphic-vision||eccv-2024-workshop-wworkshop-on-neuromorphic-heading-towards-comprehensive-neuro.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions",
+"comparative"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"emnlp-2018-keynote-understanding-the-news-that-moves-markets||emnlp-2018-keynote-understanding-the-news-that-moves-markets.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"emnlp-2020-workshop-w1st-workshop-on-scholarl-the-future-of-arxiv-and-knowledge-discovery-i||sdp2020_emnlp_steinn_sigurdsson.pdf": {
+"narrative_style": "topic",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"emnlp-2021-workshop-wthe-2nd-workshop-on-eval-towards-trustworthy-evaluation-and-interpreta||emnlp2021_eval4nlp_wu_trustworthy-eval-summ-dialogue.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"emnlp-2023-workshop-wthe-big-picture-crafting-is-attention-explanation-past-present-future||emnlp2023_bigpicture_jain-wiegreffe_attention-explanation.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"iccv-2019-workshop-wscene-graph-representati-commonsense-modeling-with-commonsense-graphs||sgrl2019_iccv_yejinchoi.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa",
+"phrase"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-gancraft-an-unsupervised-3d-neural-method-for||aim2021_iccv_arunmallya.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-neural-rendering-and-beyond||aim2021_iccv_matthiasniessner.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"qa"
+]
+},
+"iccv-2023-workshop-wbigmac-big-model-adaptat-ssl-helps-multimodal-pretraining-scale-to-more-modalities-an||iccv-2023-workshop-wbigmac-big-model-adaptat-ssl-helps-multimodal-pretraining-sc.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2023-workshop-wrobot-learning-and-slam-from-slam-to-spatial-perception-hierarchical-models-certific||iccv-2023-workshop-wrobot-learning-and-slam-from-slam-to-spatial-perception-hier.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2025-workshop-wcamera-calibration-and-p-invited-talk-iv-fredrik-kahl||iccv-2025-workshop-wcamera-calibration-and-p-invited-talk-iv-fredrik-kahl.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"iclr-2017-keynote-high-dimensional-feature-selection-in-precision-medicin||iclr2017_azencott.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"iclr-2018-invited_talk-visual-learning-with-unlabeled-video-and-look-around-policie||iclr-2018-invited_talk-visual-learning-with-unlabeled-video-and-look-around-poli.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"iclr-2021-invited_talk-self-supervision-for-learning-from-the-bottom-up||iclr-2021-invited_talk-self-supervision-for-learning-from-the-bottom-up.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"iclr-2024-keynote-prescient-design-s-lab-in-the-loop-therapeutic-antibody||iclrmain_cho_2024.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"icml-2016-keynote-causal-inference-for-policy-evaluation||icmlmain_athey_2016.pptx": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"icml-2020-invited_talk-doing-some-good-with-machine-learning||icml-2020-invited_talk-doing-some-good-with-machine-learning.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"independent",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"icml-2022-workshop-wai-for-science-ai4scienc-developing-reduced-order-pdes-with-machine-le||wkc_han_icml2022.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2016-workshop-wmachine-intelligence-wor-human-like-dialogue-key-challenges-for-ai||main2016_fernandez.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"neurips-2016-workshop-wprivate-multi-party-mach-secure-function-evaluation-at-scale||pmpml16_ioannidis.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2017-workshop-wdeep-learning-for-physic-quantum-machine-learning||dlps2017_vonlilienfeld.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-sample-and-computationally-efficient-active-l||lld2017_balcan.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2018-keynote-reproducible-reusable-and-robust-reinforcement-learning||neurips-2018-keynote-reproducible-reusable-and-robust-reinforcement-learning.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2023-workshop-66514-modern-self-supervised-image-learning-from-videos||neurips-2023-workshop-66514-modern-self-supervised-image-learning-from-videos.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"neurips-2023-workshop-66521-variational-inference-via-wasserstein-gradient-flows||neurips-2023-workshop-66521-variational-inference-via-wasserstein-gradient-flows.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2023-workshop-66530-overparameterization-and-the-power-law-paradigm||neurips-2023-workshop-66530-overparameterization-and-the-power-law-paradigm.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"neurips-2023-workshop-66542-value-based-abstractions-for-planning||neurips-2023-workshop-66542-value-based-abstractions-for-planning.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"neurips-2024-workshop-wbayesian-decision-making-open-problems-in-gaussian-process-approximati||bdu2024_vanderwilk.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2024-workshop-wmultimodal-algorithmic-r-prioritizing-perception-in-multimodal-languag||mar2024_krishna.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T025_complex-reasoning-in-natural-language||00_1.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T025_complex-reasoning-in-natural-language||01_2.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"T025_complex-reasoning-in-natural-language||02_3.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T025_complex-reasoning-in-natural-language||03_4.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T025_complex-reasoning-in-natural-language||04_5.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T025_complex-reasoning-in-natural-language||05_6.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T025_complex-reasoning-in-natural-language||06_7.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T026_goal-awareness-for-conversational-ai-proactivity-non-collabo||ACL2023-Tutorial-ConvAI.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T036_security-challenges-in-natural-language-processing-models||00_emnlp23_tutorial_backdoor.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"T036_security-challenges-in-natural-language-processing-models||01_emnlp23_tutorial_model_extraction.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T036_security-challenges-in-natural-language-processing-models||02_emnlp23_tutorial_privacy_leakage.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T044_knowledge-augmented-methods-for-natural-language-processing||PART1_Introduction.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T044_knowledge-augmented-methods-for-natural-language-processing||PART2_Knowledge_NLU.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T044_knowledge-augmented-methods-for-natural-language-processing||PART3_Knowledge_NLG.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T044_knowledge-augmented-methods-for-natural-language-processing||PART4_Knowledge_CR.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T044_knowledge-augmented-methods-for-natural-language-processing||PART5_Conclusion.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T047_non-autoregressive-sequence-generation||01_part-i-introduction.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"T047_non-autoregressive-sequence-generation||02_part-ii-methods.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T047_non-autoregressive-sequence-generation||03_part-iii-applications.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T047_non-autoregressive-sequence-generation||04_part-iv-open-problems.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||01_part-1-introduction.pdf": {
+"narrative_style": "topic",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||02_part-2-prompting-in-context-learning.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||03_part-3-gradient-based-lm-task-adaptation.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||04_part-4-other-methods-for-defining-a-task.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||05_part-5-evaluation-benchmarks.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||06_part-6-meta-training.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T049_zero-and-few-shot-nlp-with-pretrained-language-models||07_part-7-pretraining-considerations-for-ze.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T085_fact-checking-fake-news-propaganda-and-media-bias-truth-seek||00_drive_1GeTZIFW0Q.pptx": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"acl-2017-keynote-squashing-computational-linguistics||smith-acl2017.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"visual_focused",
+"title_body"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"acl-2019-workshop-wfourth-conference-on-mac-semantic-style-other-data-divergences-in-neur||wmt19_carpuat.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"acl-2023-workshop-w4th-workshop-on-computat-bridging-resolution-a-journey-towards-modelli||codi2023_acl_yufanghou_bridging-resolution.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"acl-2024-workshop-wfourth-workshop-on-schol-large-language-models-as-research-assistants||sdp2024_acl_rogers.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"paragraph"
+]
+},
+"cvpr-2019-workshop-wimage-matching-local-fea-on-the-art-of-establishing-correspondence||cvpr2019_imw_matas_correspondence.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"cvpr-2020-workshop-wearthvision-large-scale-a-new-workflow-for-collaborative-machine-lear||ev2020_belongie.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2021-workshop-wactivitynet-large-scale-is-space-time-attention-all-you-need-for-vide||cvpr2021_activitynet_bertasius_spacetime_attention.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"cvpr-2021-workshop-wvisual-question-answerin-knowledgeable-spatio-temporal-vision-language||vqa2021_bansal.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2023-keynote-an-ai-odyssey-the-dark-matter-of-intelligence||cvpr-2023-keynote-an-ai-odyssey-the-dark-matter-of-intelligence.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-real-time-speed-invariant-vision-for-robotics||cvpr-2023-workshop-w4th-international-worksh-real-time-speed-invariant-vision-fo.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"shared_limits",
+"insights"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2023-workshop-wimage-matching-local-fea-pose-estimation-beyond-feature-matching||imw2023_brachmann.pdf": {
+"narrative_style": "comparison",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2024-workshop-wfoundation-models-for-au-foundation-models-as-real-world-simulators||cvpr-2024-workshop-wfoundation-models-for-au-foundation-models-as-real-world-sim.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"cvpr-2024-workshop-wmultimodal-algorithmic-r-embracing-multimodality-in-neural-algorithmic-reasoning||cvpr-2024-workshop-wmultimodal-algorithmic-r-embracing-multimodality-in-neural-a.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"cvpr-2024-workshop-wvisual-perception-via-le-open-issues-in-open-world-learning||cvpr-2024-workshop-wvisual-perception-via-le-open-issues-in-open-world-learning.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-event-based-non-rigid-3d-reconstruction-and-novel-view-synth||cvpr-2025-workshop-w5th-international-worksh-event-based-non-rigid-3d-reconstruc.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-real-world-event-camera-applications-towards-visible-light-c||cvpr-2025-workshop-w5th-international-worksh-real-world-event-camera-application.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-beyond-diffusion-a-journey-toward-efficient-generative-model||cvpr-2025-workshop-wvisual-generative-modeli-beyond-diffusion-a-journey-toward-e.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-towards-end-to-end-generative-modeling||cvpr-2025-workshop-wvisual-generative-modeli-towards-end-to-end-generative-model.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2026-workshop-wgrail-v-grounded-retriev-metaclip-open-scalable-data-curation-for-vision-language-mod||cvpr-2026-workshop-wgrail-v-grounded-retriev-metaclip-open-scalable-data-curatio.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2022-workshop-w4th-advances-in-image-ma-efficient-neural-scene-representation-renderi||aim2022_eccv_gordonwetzstein.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"eccv-2024-workshop-wavgenl-audio-visual-gene-invited-talk-chenliang-xu||eccv-2024-workshop-wavgenl-audio-visual-gene-invited-talk-chenliang-xu.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2024-workshop-wmap-free-visual-relocali-rethinking-camera-parametrization-for-pose-prediction||eccv-2024-workshop-wmap-free-visual-relocali-rethinking-camera-parametrization-f.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"eccv-2024-workshop-wself-supervised-learning-listening-to-the-data-visual-learning-from-the-bottom-up||eccv-2024-workshop-wself-supervised-learning-listening-to-the-data-visual-learni.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"eccv-2024-workshop-wworkshop-on-neuromorphic-scidvs-a-scientific-event-camera||eccv-2024-workshop-wworkshop-on-neuromorphic-scidvs-a-scientific-event-camera.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"emnlp-2019-workshop-w2nd-workshop-on-machine-better-generation-and-knowledge-fetching-for||mrqa2019_antoine_bordes.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"paragraph",
+"bullet",
+"phrase"
+]
+},
+"emnlp-2021-workshop-wfourth-workshop-on-compu-modeling-informational-relations-across-multi||emnlp2021_crac_dagan_informational-relations-multiple-texts.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"emnlp-2022-keynote-emnlp-2022-keynote-nazneen-rajani||emnlp-2022-keynote-emnlp-2022-keynote-nazneen-rajani.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"emnlp-2023-workshop-wthe-big-picture-crafting-the-role-of-demonstrations-what-in-context-le||emnlp2023_bigpicture_min-kim_role-of-demonstrations-icl.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"iccv-2019-workshop-wscene-graph-representati-graphs-for-scenes-and-shapes||sgrl2019_iccv_justinjohnson.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-generative-data-as-a-substrate-for-visual-ana||aim21_isola.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"iccv-2023-workshop-wbigmac-big-model-adaptat-controlling-text-to-image-diffusion-models||iccv-2023-workshop-wbigmac-big-model-adaptat-controlling-text-to-image-diffusion.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"iccv-2023-workshop-wlow-bit-quantized-neural-quantization-perspective-from-industry||iccv-2023-workshop-wlow-bit-quantized-neural-quantization-perspective-from-indus.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"iccv-2023-workshop-wrobot-learning-and-slam-robust-multi-sensor-slam-with-learning-and-sensor-fusion||iccv-2023-workshop-wrobot-learning-and-slam-robust-multi-sensor-slam-with-learni.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"comparative"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"visual_focused",
+"title_body",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2025-workshop-wmulti-modal-localization-keynote-talk-ayoung-kim||iccv-2025-workshop-wmulti-modal-localization-keynote-talk-ayoung-kim.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"visual_focused",
+"title_body",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"iclr-2017-keynote-learning-by-local-entropy-maximization-the-effective-la||iclr2017_zecchina.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"iclr-2019-invited_talk-adversarial-machine-learning||iclr-2019-invited_talk-adversarial-machine-learning.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"iclr-2022-workshop-wmachine-learning-for-dru-teaching-molecular-simulations-to-learn||chodera_iclr2022_mldd.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"iclr-2025-keynote-pursuing-the-nature-of-intelligence||iclrmain_ma_2025.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"icml-2016-keynote-laplacian-matrices-of-graphs-algorithms-and-application||spielman_icml2016.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"icml-2020-workshop-wworkshop-on-retrospectiv-retrospective-role-of-tensors-in-machine-lear||wkc_anandkumar_icml2020.pptx": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"icml-2023-invited_talk-machine-learning-with-social-purpose||icml-2023-invited_talk-machine-learning-with-social-purpose.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"neurips-2016-workshop-wmachine-intelligence-wor-learning-how-to-learn-learning-algorithms-rec||main2016_schmidhuber.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2017-workshop-wdeep-learning-for-physic-a-machine-learning-perspective-on-the-many-bo||dlps2017_carrasquilla.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-forcing-neural-link-predictors-to-play-by-the||lld2017_riedel.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-tales-from-fmri-learning-from-limited-labeled||lld2017_varoquaux.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2022-invited_talk-could-a-large-language-model-be-conscious||neurips-2022-invited_talk-could-a-large-language-model-be-conscious.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2023-workshop-66514-self-improvement-with-large-language-models||neurips-2023-workshop-66514-self-improvement-with-large-language-models.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"neurips-2023-workshop-66522-ai-can-learn-from-data-but-can-it-learn-to-reason||neurips-2023-workshop-66522-ai-can-learn-from-data-but-can-it-learn-to-reason.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2023-workshop-66542-causal-dynamics-learning-for-task-independent-state-abstract||neurips-2023-workshop-66542-causal-dynamics-learning-for-task-independent-state-.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2023-workshop-66550-universal-jailbreak-backdoors-from-poisoned-human-feedback||neurips-2023-workshop-66550-universal-jailbreak-backdoors-from-poisoned-human-fe.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"neurips-2024-workshop-wbayesian-decision-making-we-need-to-talk-more-about-uncertainty-in-geo||bdu2024_rolf.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"neurips-2024-workshop-wmultimodal-algorithmic-r-training-robots-to-think-harder||mar2024_levine.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T028_retrieval-based-language-models-and-applications||00_1-intro.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T028_retrieval-based-language-models-and-applications||01_2-definition.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"T028_retrieval-based-language-models-and-applications||02_3-architecture.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"T028_retrieval-based-language-models-and-applications||03_4-training.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"T028_retrieval-based-language-models-and-applications||04_5-application.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T028_retrieval-based-language-models-and-applications||05_6-extension.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T028_retrieval-based-language-models-and-applications||06_7-conclusion.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T034_designing-evaluating-and-learning-from-humans-interacting-wi||01_gslides_1JaexfDN3Q.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T048_towards-reproducible-machine-learning-research-in-natural-la||01_Final-Combined-Tutorial-Part-1.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T048_towards-reproducible-machine-learning-research-in-natural-la||02_Final-Combined-Tutorial-Part-2.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T048_towards-reproducible-machine-learning-research-in-natural-la||03_Final-Combined-Tutorial-Part-3.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T048_towards-reproducible-machine-learning-research-in-natural-la||04_Final-Combined-Tutorial-Part-4.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T060_meta-learning-and-its-applications-to-natural-language-proce||01_part-i-basic-idea-of-meta-learning.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T060_meta-learning-and-its-applications-to-natural-language-proce||02_part-ii-meta-learning-to-human-language.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T060_meta-learning-and-its-applications-to-natural-language-proce||03_part-iii-advanced-topics-in-meta-learnin.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T080_open-domain-question-answering||part1-introduction.pdf": {
+"narrative_style": "topic",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T080_open-domain-question-answering||part2-history.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"insights",
+"shared_limits"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T080_open-domain-question-answering||part3-dataset-evaluation.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T080_open-domain-question-answering||part4-retriever-reader.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T080_open-domain-question-answering||part5-dense-retriever-e2e-training.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T080_open-domain-question-answering||part6-retrieval-free.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T080_open-domain-question-answering||part7-kb-text.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T088_the-amazing-world-of-neural-language-generation||00_Part-I-Intro.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T088_the-amazing-world-of-neural-language-generation||01_Part-II-Modeling.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"T088_the-amazing-world-of-neural-language-generation||02_Part-III-Decoding-Learning.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T088_the-amazing-world-of-neural-language-generation||03_Part-IV-Evaluation.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T088_the-amazing-world-of-neural-language-generation||04_Part-V-Systems.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T089_computational-analysis-of-political-texts-bridging-research||00_gslides_1Pm2obVYPj.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"acl-2018-workshop-wworkshop-on-machine-read-data-driven-reading-comprehension-successes-a||mrqa2018_phil.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"acl-2021-keynote-reliable-characterizations-of-nlp-systems-as-a-social-r||potts-acl2021.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"acl-2023-workshop-w8th-workshop-on-represen-contextualizing-representations-in-varied-ann||swabha_repl4nlp_acl2023.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"qa"
+]
+},
+"acl-2025-workshop-wfifth-workshop-on-schola-towards-an-artificial-muse-for-new-ideas-in-s||krenn_sdp2025_acl.pptx": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"cvpr-2019-workshop-wvisual-question-answerin-making-the-l-in-vqa-matter-elevating-the-role||vqa2019_manning.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"cvpr-2020-workshop-wearthvision-large-scale-linking-machine-learning-and-physical-biologi||ev2020_reichstein.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2021-workshop-wactivitynet-large-scale-predicting-unpredictability||cvpr2021_activitynet_vondrick_predicting_unpredictability.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2021-workshop-wvisual-question-answerin-towards-better-multimodal-pretraining||vqa2021_nematzadeh.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"qa"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-efficient-event-processing-with-geometric-deep-learning||cvpr-2023-workshop-w4th-international-worksh-efficient-event-processing-with-geo.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-the-interplay-between-events-and-frames-a-comprehensive-expl||cvpr-2023-workshop-w4th-international-worksh-the-interplay-between-events-and-fr.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2023-workshop-wsecond-workshop-of-mobil-how-to-build-a-smart-camera-system||cvpr-2023-workshop-wsecond-workshop-of-mobil-how-to-build-a-smart-camera-system.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"cvpr-2024-workshop-wfoundation-models-for-au-foundation-models-in-the-automotive-industry||cvpr-2024-workshop-wfoundation-models-for-au-foundation-models-in-the-automotive.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"cvpr-2024-workshop-wmultimodal-algorithmic-r-recent-advances-in-multimodal-foundation-models||cvpr-2024-workshop-wmultimodal-algorithmic-r-recent-advances-in-multimodal-found.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"paragraph"
+]
+},
+"cvpr-2025-workshop-w10th-new-trends-in-image-3d-reconstruction-with-gaussian-splatting||cvpr-2025-workshop-w10th-new-trends-in-image-3d-reconstruction-with-gaussian-spl.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-event-based-optical-tactile-sensing-for-robotic-manipulation||cvpr-2025-workshop-w5th-international-worksh-event-based-optical-tactile-sensing.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-seeing-through-space-and-time-asynchronous-event-blob-tracki||cvpr-2025-workshop-w5th-international-worksh-seeing-through-space-and-time-async.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-controllable-intuitive-generation-of-4d-objects-and-scenes||cvpr-2025-workshop-wvisual-generative-modeli-controllable-intuitive-generation-o.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-unlocking-discontinuities-in-flow-models-jumps-control-flow||cvpr-2025-workshop-wvisual-generative-modeli-unlocking-discontinuities-in-flow-m.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"cvpr-2026-workshop-wthe-5th-explainable-ai-f-learning-by-comparison-case-based-reasoning-for-interpretabl||cvpr-2026-workshop-wthe-5th-explainable-ai-f-learning-by-comparison-case-based-r.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"eccv-2022-workshop-w4th-advances-in-image-ma-neural-inverse-rendering||aim22_pratul_srinivasan.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"visual_focused",
+"title_body",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"eccv-2024-workshop-wavgenl-audio-visual-gene-invited-talk-konstantinos-vougioukas||eccv-2024-workshop-wavgenl-audio-visual-gene-invited-talk-konstantinos-vougiouka.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"eccv-2024-workshop-wmap-free-visual-relocali-scene-representations-for-visual-localization||eccv-2024-workshop-wmap-free-visual-relocali-scene-representations-for-visual-lo.pdf": {
+"narrative_style": "comparison",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"eccv-2024-workshop-wself-supervised-learning-vision-foundation-models-with-academic-compute||eccv-2024-workshop-wself-supervised-learning-vision-foundation-models-with-acade.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"emnlp-2015-workshop-wtenth-workshop-on-statis-a-practical-guide-to-real-time-neural-transla||wmt15_invited_devlin.pptx": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"emnlp-2019-workshop-w2nd-workshop-on-machine-how-will-we-know-when-machines-can-read||mrqa2019_matt_gardner.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"qa"
+]
+},
+"emnlp-2021-workshop-wthe-2nd-workshop-on-eval-challenges-and-opportunities-in-multilingual||emnlp2021_eval4nlp_ruder_multilingual-evaluation.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"emnlp-2022-workshop-wseventh-conference-on-ma-speech-translation-when-two-superhuman-techno||wmt22_bojar.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"emnlp-2023-workshop-wthe-big-picture-crafting-the-vision-thing-finding-and-pursuing-your-re||emnlp2023_bigpicture_mooney_the-vision-thing.pptx": {
+"narrative_style": "reasoning",
+"content_pref": [],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"iccv-2019-workshop-wscene-graph-representati-scene-navigation-by-knowledge-graph-and-inter||sgrl_mohammad.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"independent"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-human-in-the-loop-model-creation||aim2021_iccv_junyanzhu.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"iccv-2023-workshop-wbigmac-big-model-adaptat-large-models-as-world-representations-for-robotic-downstream||iccv-2023-workshop-wbigmac-big-model-adaptat-large-models-as-world-representatio.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2023-workshop-wlow-bit-quantized-neural-zeroquant-series-towards-llm-post-training-quantization||iccv-2023-workshop-wlow-bit-quantized-neural-zeroquant-series-towards-llm-post-t.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2023-workshop-wrobot-learning-and-slam-visual-localization-and-mapping-from-classical-to-modern||iccv-2023-workshop-wrobot-learning-and-slam-visual-localization-and-mapping-from.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"iccv-2025-workshop-wmulti-modal-localization-keynote-talk-yannick-burkhardt||iccv-2025-workshop-wmulti-modal-localization-keynote-talk-yannick-burkhardt.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iclr-2017-keynote-moving-beyond-supervised-realm||iclr2017_barzilay.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iclr-2019-invited_talk-learning-representations-using-causal-invariance||iclr-2019-invited_talk-learning-representations-using-causal-invariance.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"iclr-2024-invited_talk-copyright-fundamentals-for-ai-researchers||iclr-2024-invited_talk-copyright-fundamentals-for-ai-researchers.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"paragraph"
+]
+},
+"iclr-2025-workshop-wworkshop-on-representati-representations-with-a-purpose-grounding-alig||wkd_schrimpf_iclr2025.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"icml-2016-keynote-mining-large-graphs-patterns-anomalies-and-fraud-detect||icmlmain_faloutsos_2016.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa",
+"phrase"
+]
+},
+"icml-2022-invited_talk-synthetic-control-methods-and-difference-in-differences||icml-2022-invited_talk-synthetic-control-methods-and-difference-in-differences.pdf": {
+"narrative_style": "comparison",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"icml-2024-invited_talk-machine-learning-opportunities-for-the-next-generation-of-pa||icml-2024-invited_talk-machine-learning-opportunities-for-the-next-generation-of.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2016-workshop-wprivate-multi-party-mach-an-introduction-to-practical-mpc||pmpml16_doerner.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wdeep-learning-for-physic-adversarial-games-for-particle-physics||dlps2017_louppe.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-learning-from-limited-labeled-data-but-a-lot||lld2017_mitchell.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-that-doesn-t-make-sense-a-case-study-in-activ||lld2017_singh.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"neurips-2023-workshop-66497-extrapolation-in-regression-and-representation-learning||neurips-2023-workshop-66497-extrapolation-in-regression-and-representation-learn.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2023-workshop-66514-the-revolution-will-not-be-supervised-almost-10-years-later||neurips-2023-workshop-66514-the-revolution-will-not-be-supervised-almost-10-year.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"neurips-2023-workshop-66530-a-dynamical-view-of-learners-samplers-and-forecasters||neurips-2023-workshop-66530-a-dynamical-view-of-learners-samplers-and-forecaster.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2023-workshop-66542-in-context-learning-of-sequential-decision-making-tasks||neurips-2023-workshop-66542-in-context-learning-of-sequential-decision-making-ta.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"bullet"
+]
+},
+"neurips-2024-invited_talk-from-diffusion-models-to-schrodinger-bridges||neurips-2024-invited_talk-from-diffusion-models-to-schrodinger-bridges.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2024-workshop-wbayesian-decision-making-what-i-learned-while-writing-the-bayesopt-boo||bdu2024_garnett.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence",
+"qa"
+]
+},
+"T013_language-agents-foundations-prospects-and-risks||00_I-Introduction.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T013_language-agents-foundations-prospects-and-risks||01_II-Foundations-Reasoning-Memory.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T013_language-agents-foundations-prospects-and-risks||02_II-Foundations-Planning.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T013_language-agents-foundations-prospects-and-risks||03_III-Applications-Data-Evaluation.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T013_language-agents-foundations-prospects-and-risks||04_IV-Emerging-Topics.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T013_language-agents-foundations-prospects-and-risks||05_V-Final-Remarks.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||00_drive_1YEb835UIT.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||01_drive_1Qqv3Mdu3w.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||02_drive_1Aj1-uxiGN.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||03_drive_1CJl21fZVp.pdf": {
+"narrative_style": "step",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||04_drive_1ap_MYDl-V.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||05_drive_1GcSepTaRJ.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"T035_llm-driven-instruction-following-progresses-and-concerns||06_drive_1lFg9Nya95.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T045_learning-with-limited-text-data||03_drive_1tjeZz8xbE.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T053_non-autoregressive-models-for-fast-sequence-generation||01_part-i-introduction.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T053_non-autoregressive-models-for-fast-sequence-generation||02_part-ii-methods.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T053_non-autoregressive-models-for-fast-sequence-generation||03_part-iii-applications.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T053_non-autoregressive-models-for-fast-sequence-generation||04_part-iv-open-problems.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet"
+]
+},
+"T059_event-centric-natural-language-processing||01_1-IE1.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T059_event-centric-natural-language-processing||02_2-IE2.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"T059_event-centric-natural-language-processing||03_3-Prediction.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"T059_event-centric-natural-language-processing||04_4-KA.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T059_event-centric-natural-language-processing||05_5-Summarization.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"T059_event-centric-natural-language-processing||06_6-Conclusion.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T087_representation-learning-and-reasoning-on-spatial-language-fo||00_SpRL-Tutorial-Part1_Parisa.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"T087_representation-learning-and-reasoning-on-spatial-language-fo||01_SpRL-Tutorial-Part2-Pustejovsky.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"T087_representation-learning-and-reasoning-on-spatial-language-fo||02_SpRL-Tutorial-Part3_Sien.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"acl-2015-workshop-wfirst-workshop-on-noisy-are-minority-dialects-noisy-text-implications||wnut2015_acl_oconnor.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet"
+]
+},
+"acl-2018-workshop-wworkshop-on-machine-read-multi-step-reasoning-neural-networks-for-ques||mrqa2018_jianfeng.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"acl-2021-workshop-wworkshop-on-interactive-reasoning-for-communicating-with-agents||roth_internlp_acl2021.pptx": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"qa"
+]
+},
+"acl-2024-keynote-can-llms-reason-and-plan||acl-2024-keynote-can-llms-reason-and-plan.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"cvpr-2019-workshop-wactivitynet-large-scale-towards-embodied-action-understanding||cvpr2019_activitynet_laptev_embodied_action_understanding.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"independent",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"qa",
+"bullet"
+]
+},
+"cvpr-2019-workshop-wvisual-question-answerin-three-challenging-research-avenues-in-languag||vqa2019_artzi.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"cvpr-2020-workshop-wearthvision-large-scale-the-contours-of-a-trillion-pixel-digital-twin||ev2020_loekken.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"paragraph",
+"bullet"
+]
+},
+"cvpr-2021-workshop-wactivitynet-large-scale-toward-compositional-action-recognition-using||cvpr2021_activitynet_xu_compositional_action_scene_graphs.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2021-workshop-wvisual-question-answerin-visual-question-answering-with-3d-visual-feat||vqa2021_fragkiadaki.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"bullet",
+"phrase"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-event-based-robot-vision-for-autonomous-systems-and-animal-o||cvpr-2023-workshop-w4th-international-worksh-event-based-robot-vision-for-autono.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence"
+]
+},
+"cvpr-2023-workshop-w4th-international-worksh-visual-processing-with-loihi-2||cvpr-2023-workshop-w4th-international-worksh-visual-processing-with-loihi-2.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2023-workshop-wsecond-workshop-of-mobil-low-light-image-enhancement-for-intelligent-analytics-in-sma||cvpr-2023-workshop-wsecond-workshop-of-mobil-low-light-image-enhancement-for-int.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2024-workshop-wfoundation-models-for-au-robotic-foundation-models||cvpr-2024-workshop-wfoundation-models-for-au-robotic-foundation-models.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase"
+]
+},
+"cvpr-2024-workshop-wrepresentation-learning-n-0-learning-vision-with-zero-visual-data||cvpr-2024-workshop-wrepresentation-learning-n-0-learning-vision-with-zero-visual.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-a-neuromorphic-approach-to-event-based-vision-from-encoding||cvpr-2025-workshop-w5th-international-worksh-a-neuromorphic-approach-to-event-ba.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"cvpr-2025-workshop-w5th-international-worksh-event-based-visual-sensing-matching-performance-to-applicati||cvpr-2025-workshop-w5th-international-worksh-event-based-visual-sensing-matching.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"phrase",
+"bullet"
+]
+},
+"cvpr-2025-workshop-wembodied-intelligence-fo-foundation-models-for-autonomous-driving||cvpr-2025-workshop-wembodied-intelligence-fo-foundation-models-for-autonomous-dr.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-diffusion-dialed-in-light-and-heavy-adaptations-of-diffusion||cvpr-2025-workshop-wvisual-generative-modeli-diffusion-dialed-in-light-and-heavy.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"cvpr-2025-workshop-wvisual-generative-modeli-what-s-wrong-with-diffusion||cvpr-2025-workshop-wvisual-generative-modeli-what-s-wrong-with-diffusion.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"qa"
+]
+},
+"cvpr-2026-workshop-wthe-5th-explainable-ai-f-vision-language-models-with-explain||cvpr-2026-workshop-wthe-5th-explainable-ai-f-vision-language-models-with-explain.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"qa",
+"sentence",
+"bullet"
+]
+},
+"eccv-2022-workshop-w4th-advances-in-image-ma-the-differentiable-camera-designing-cameras-t||aim2022_eccv_felixheide.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"eccv-2024-workshop-wavgenl-audio-visual-gene-invited-talk-sangpil-kim||eccv-2024-workshop-wavgenl-audio-visual-gene-invited-talk-sangpil-kim.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"eccv-2024-workshop-wself-supervised-learning-data-curation-is-the-next-frontier-of-self-supervised-learni||eccv-2024-workshop-wself-supervised-learning-data-curation-is-the-next-frontier-.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"eccv-2024-workshop-wthe-dark-side-of-generat-invited-talk-quentin-bertrand||eccv-2024-workshop-wthe-dark-side-of-generat-invited-talk-quentin-bertrand.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"qa"
+]
+},
+"emnlp-2018-keynote-the-moment-of-meaning-and-the-future-of-computational-semant||emnlp-2018-keynote-the-moment-of-meaning-and-the-future-of-computational-semant.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"emnlp-2019-workshop-w2nd-workshop-on-machine-interpretability-and-robustness-for-multi-hop||mrqa2019_mohit_bansal.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"independent",
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"emnlp-2021-workshop-wthe-2nd-workshop-on-eval-evaluating-evaluation||emnlp2021_eval4nlp_roth_evaluating-evaluation.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"emnlp-2023-workshop-wcrac-2023-the-sixth-work-multilingual-coreference-resolution-with-innovative-seq2seq||emnlp-2023-workshop-wcrac-2023-the-sixth-work-multilingual-coreference-resolutio.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"emnlp-2024-workshop-wseventh-workshop-on-comp-reference-at-the-heart-of-natural-language-pr||emnlp2024_crac_cheung_reference-heart-nlp.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-correspondences-for-video-processing||aim21_oliverwang.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2021-workshop-w3rd-advances-in-image-ma-image-decomposition-in-image-restoration-bad||aim21_robbytan.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"bullet",
+"sentence"
+]
+},
+"iccv-2023-workshop-wbigmac-big-model-adaptat-rethinking-fine-tuning-to-mitigate-feature-distortion||iccv-2023-workshop-wbigmac-big-model-adaptat-rethinking-fine-tuning-to-mitigate-.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"qa",
+"sentence",
+"bullet"
+]
+},
+"iccv-2023-workshop-wrobot-learning-and-slam-advancing-slam-with-learning-integrating-high-level-scene-un||iccv-2023-workshop-wrobot-learning-and-slam-advancing-slam-with-learning-integra.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iccv-2025-workshop-wcamera-calibration-and-p-invited-talk-ii-gabriela-csurka||iccv-2025-workshop-wcamera-calibration-and-p-invited-talk-ii-gabriela-csurka.pdf": {
+"narrative_style": "source",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iclr-2016-keynote-beyond-backpropagation-uncertainty-propagation||iclr-2016-keynote-beyond-backpropagation-uncertainty-propagation.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"iclr-2017-keynote-new-directions-for-recurrent-neural-networks||iclr2017_graves.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"paragraph",
+"bullet",
+"phrase"
+]
+},
+"iclr-2020-workshop-wtowards-trustworthy-ml-r-context-research-refusal-perspectives-on-abst||gangadharan_iclr2020_trustworthyml.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"sentence",
+"phrase",
+"bullet"
+]
+},
+"iclr-2024-invited_talk-the-chatglm-s-road-to-agi||iclr-2024-invited_talk-the-chatglm-s-road-to-agi.pdf": {
+"narrative_style": "time",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"iclr-2026-workshop-wcatch-adapt-and-operate-optimized-mmd-for-detecting-distribution-shif||gretton_iclr2026_cao.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"icml-2017-workshop-wworkshop-on-visualizatio-quantifying-the-interpretability-of-deep-visu||zhou_icml2017_viz.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase",
+"qa"
+]
+},
+"icml-2022-invited_talk-towards-a-mathematical-theory-of-machine-learning||icml-2022-invited_talk-towards-a-mathematical-theory-of-machine-learning.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"grid"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"paragraph",
+"bullet"
+]
+},
+"icml-2026-workshop-wworkshop-on-hypothesis-t-statistical-tests-of-dependence-and-condition||gretton_icml2026_testing.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"shared_limits",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"grid"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+},
+"neurips-2016-workshop-wprivate-multi-party-mach-confidential-computing-federated-private-data||pmpml16_nock.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase",
+"sentence"
+]
+},
+"neurips-2017-workshop-wdeep-learning-for-physic-deep-recurrent-inverse-modeling-for-radio-ast||dlps2017_welling.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-light-supervision-of-structured-prediction-en||lld2017_mccallum.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"visual_focused",
+"split"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2017-workshop-wlearning-with-limited-la-what-s-so-hard-about-natural-language-underst||lld2017_ritter.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"qa"
+]
+},
+"neurips-2023-workshop-66498-empowering-instruction-following-research-with-language-mode||neurips-2023-workshop-66498-empowering-instruction-following-research-with-langu.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"new_directions",
+"insights"
+],
+"visual_background": "colored_graphic",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"neurips-2023-workshop-66514-updating-language-models-without-human-supervision||neurips-2023-workshop-66514-updating-language-models-without-human-supervision.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"new_directions",
+"comparative"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"qa",
+"sentence",
+"bullet"
+]
+},
+"neurips-2023-workshop-66530-an-introduction-to-heavy-tails-for-ml-researchers-conspiraci||neurips-2023-workshop-66530-an-introduction-to-heavy-tails-for-ml-researchers-co.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence",
+"phrase"
+]
+},
+"neurips-2023-workshop-66542-learning-general-policies-and-sketches||neurips-2023-workshop-66542-learning-general-policies-and-sketches.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"comparative",
+"insights",
+"new_directions"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split"
+],
+"visual_content": "text_focused",
+"textual_style": [
+"bullet",
+"phrase"
+]
+},
+"neurips-2024-workshop-wbayesian-decision-making-bayesian-optimization-needs-better-deep-learn||bdu2024_gardner.pdf": {
+"narrative_style": "reasoning",
+"content_pref": [
+"insights",
+"comparative",
+"shared_limits",
+"new_directions"
+],
+"visual_background": "mixed",
+"visual_layout": [
+"title_body",
+"split",
+"grid",
+"visual_focused"
+],
+"visual_content": "visual_focused",
+"textual_style": [
+"phrase",
+"sentence",
+"bullet"
+]
+},
+"neurips-2024-workshop-wmultimodal-algorithmic-r-learning-algorithms-with-gnns-and-transformer||mar2024_jegelka.pdf": {
+"narrative_style": "topic",
+"content_pref": [
+"comparative",
+"insights"
+],
+"visual_background": "plain",
+"visual_layout": [
+"title_body",
+"split",
+"visual_focused"
+],
+"visual_content": "balanced",
+"textual_style": [
+"bullet",
+"sentence"
+]
+}
+}

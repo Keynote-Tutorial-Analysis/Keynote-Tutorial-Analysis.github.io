@@ -8,8 +8,8 @@ const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
 const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-const state = { units: [], filtered: [], taxonomy: { categories: [] },
-  current: null, rating: "", tax: {}, done: false, refs: [] };
+const state = { units: [], filtered: [], taxonomy: { categories: [] }, aiTax: {},
+  current: null, rating: "", tax: {}, aiCur: null, done: false, refs: [] };
 const viewer = { doc: null, pages: [], observer: null, onScroll: null };
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "vendor/pdf.worker.min.js";
 
@@ -51,6 +51,7 @@ function pdfURL(u) { return CFG.HF_BASE + u.rel_path + "deck/" + encodeURICompon
 async function init() {
   wire();
   try { state.taxonomy = JSON.parse(await fetchText(CFG.DATA + "taxonomy.json")); } catch (e) { state.taxonomy = { categories: [] }; }
+  try { state.aiTax = JSON.parse(await fetchText(CFG.DATA + "ai_taxonomy.json")); } catch (e) { state.aiTax = {}; }
   try { state.units = csvObjects(await fetchText(CFG.DATA + "units.csv")); }
   catch (e) { $("#deck-list").innerHTML = `<div class="di-empty">Couldn't load data/units.csv</div>`; return; }
   const venues = [...new Set(state.units.map(u => u.venue).filter(Boolean))].sort();
@@ -135,6 +136,7 @@ async function selectUnit(u) {
   state.rating = ann.rating || "";
   state.tax = {};
   (state.taxonomy.categories || []).forEach(c => { state.tax[c.key] = new Set((ann.tax && ann.tax[c.key]) || []); });
+  state.aiCur = state.aiTax[uid(u)] || null;   // AI preliminary picks for this unit (hints only)
   state.done = !!ann.done;
   state.refs = (ann.references && ann.references.length) ? ann.references.map(r => ({ ...r })) : null; // null = seed from bundled
 
@@ -295,6 +297,15 @@ function taxBlocks() {
   return blocks;
 }
 function modeLabel(c) { return c.single ? `<span class="tgh-mode">pick one</span>` : `<span class="tgh-mode">select all</span>`; }
+function conceptLabel(c, id) { const x = (c.concepts || []).find(x => String(x.id) === String(id)); return x ? (x.label || x.id) : id; }
+function aiHintHTML(c) {                       // faint "AI: …" suggestion (not pre-filled)
+  if (!state.aiCur) return "";
+  const v = state.aiCur[c.key];
+  const ids = Array.isArray(v) ? v : (v ? [v] : []);
+  if (!ids.length) return `<span class="tax-ai-hint" title="AI preliminary suggestion — not applied">AI: —</span>`;
+  const labels = ids.map(id => conceptLabel(c, id)).join(", ");
+  return `<span class="tax-ai-hint" title="AI preliminary suggestion — select your own answer">AI: ${esc(labels)}</span>`;
+}
 function chipsHTML(c) {
   const sel = state.tax[c.key] || new Set();
   return `<div class="tax-chips">` + (c.concepts || []).map(x =>
@@ -310,7 +321,7 @@ function catBlock(c) {
   const sel = state.tax[c.key] || new Set();
   return `<div class="tax-group" data-key="${esc(c.key)}">
     <div class="tax-group-head${sel.size ? " filled" : ""}"><span class="tgh-label">${esc(c.label || c.key)}</span>
-      <span class="tgh-count" data-key="${esc(c.key)}">${sel.size}</span>${modeLabel(c)}
+      <span class="tgh-count" data-key="${esc(c.key)}">${sel.size}</span>${modeLabel(c)}${aiHintHTML(c)}
       ${c.desc ? `<span class="tgh-desc">${esc(c.desc)}</span>` : ""}</div>
     ${chipsHTML(c)}${descsHTML(c)}</div>`;
 }
@@ -320,7 +331,7 @@ function groupBlock(b) {
     const sel = state.tax[c.key] || new Set();
     return `<div class="tax-sub" data-key="${esc(c.key)}">
       <div class="tax-sub-head${sel.size ? " filled" : ""}"><span class="tgh-sublabel">${esc(c.tab || c.label)}</span>
-        <span class="tgh-count" data-key="${esc(c.key)}">${sel.size}</span>${modeLabel(c)}
+        <span class="tgh-count" data-key="${esc(c.key)}">${sel.size}</span>${modeLabel(c)}${aiHintHTML(c)}
         ${c.desc ? `<span class="tgh-desc">${esc(c.desc)}</span>` : ""}</div>
       ${chipsHTML(c)}${descsHTML(c)}</div>`;
   }).join("");
