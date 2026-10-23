@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Slide-Deck Annotation</title>
-  <link rel="stylesheet" href="styles.css?v=5">
+  <link rel="stylesheet" href="styles.css?v=8">
 </head>
 <body>
   <aside id="sidebar">
@@ -13,7 +13,7 @@
       <div id="overall" class="overall"></div>
       <input id="reviewer-id" class="reviewer-id" placeholder="your name / email" autocomplete="off">
       <div class="local-note" title="Saved in your browser; also sent to the shared sheet if one is configured.">
-        <span id="sync-note">Saved in your browser</span> · <button id="btn-export" class="linklike">Export</button>
+        <span id="sync-note">Saved in your browser</span> · <button id="btn-export" class="linklike">Export</button> · <button id="btn-scan-dups" class="linklike">Scan duplicate refs</button>
       </div>
     </header>
     <div class="filters">
@@ -94,6 +94,8 @@
               <div class="refs-summary" id="refs-summary"></div>
               <button id="btn-add-ref" class="btn btn-sm">+ Add reference</button>
             </div>
+            <div id="refs-warning" class="refs-warning" hidden></div>
+            <div class="refs-hint">Click a reference to select it · drag the <span class="rh-grip">⠿</span> handle to reorder · press <kbd>+</kbd> to add one below.</div>
             <div id="refs-table" class="refs-table"></div>
           </div>
           <section id="tax-panel" class="tax-panel">
@@ -109,8 +111,19 @@
     </section>
   </main>
 
-  <script src="config.js?v=5"></script>
+  <div id="dup-modal" class="dup-modal" hidden>
+    <div class="dm-backdrop" id="dm-backdrop"></div>
+    <div class="dm-dialog" role="dialog" aria-modal="true" aria-labelledby="dm-title">
+      <div class="dm-head">
+        <h2 id="dm-title">Duplicate-reference scan</h2>
+        <button id="dm-close" class="dm-close" type="button" aria-label="Close">✕</button>
+      </div>
+      <div id="dm-body" class="dm-body"></div>
+    </div>
+  </div>
+
+  <script src="config.js?v=8"></script>
   <script src="vendor/pdf.min.js"></script>
-  <script src="app.js?v=5"></script>
+  <script src="app.js?v=8"></script>
 </body>
 </html>

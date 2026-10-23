@@ -9,8 +9,10 @@ const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 const state = { units: [], filtered: [], taxonomy: { categories: [] }, aiTax: {},
-  current: null, rating: "", tax: {}, aiCur: null, done: false, refs: [] };
+  current: null, rating: "", tax: {}, aiCur: null, done: false, refs: [], selRef: null };
 const viewer = { doc: null, pages: [], observer: null, onScroll: null };
+let dragFrom = null;                 // index of the reference row currently being dragged
+const refsCache = new Map();         // deck_id -> parsed bundled refs (speeds up the all-units scan)
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "vendor/pdf.worker.min.js";
 
 // ---------- helpers ----------
@@ -66,6 +68,16 @@ function wire() {
   $("#f-scope").addEventListener("change", applyFilters);
   $("#btn-add-ref").addEventListener("click", addRef);
   $("#btn-export").addEventListener("click", exportAnnotations);
+  $("#btn-scan-dups").addEventListener("click", scanAllUnits);
+  // "+" on a selected reference row (not while typing in a field) inserts a new row directly below it
+  $("#refs-table").addEventListener("keydown", e => {
+    if (e.key !== "+" && !(e.key === "=" && e.shiftKey)) return;
+    if (isTextTarget(e.target) || state.selRef == null) return;
+    e.preventDefault(); insertRefBelow(state.selRef);
+  });
+  $("#dm-close").addEventListener("click", closeDupModal);
+  $("#dm-backdrop").addEventListener("click", closeDupModal);
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("#dup-modal").hidden) closeDupModal(); });
   $("#btn-save").addEventListener("click", () => sendToSheet(persist(false), "Saved"));
   $("#btn-submit").addEventListener("click", submitReview);
   const rid = $("#reviewer-id");
@@ -139,6 +151,7 @@ async function selectUnit(u) {
   state.aiCur = state.aiTax[uid(u)] || null;   // AI preliminary picks for this unit (hints only)
   state.done = !!ann.done;
   state.refs = (ann.references && ann.references.length) ? ann.references.map(r => ({ ...r })) : null; // null = seed from bundled
+  state.selRef = null;
 
   $("#empty").hidden = true; $("#review").hidden = false;
   const catLabel = u.category === "tutorial" ? "Tutorial" : u.category === "keynote" ? "Keynote" : "Invited talk";
@@ -177,29 +190,144 @@ async function renderRefs(u) {
   }
   drawRefs();
 }
+function blankRef() { return { title: "", authors: "", year: "", arxiv_id: "", link: "", verified: "" }; }
+function isTextTarget(el) { return !!el && (el.tagName === "INPUT" || el.tagName === "TEXTAREA" || el.isContentEditable); }
+// normalized title used for "same name" comparisons (case/space/trailing-punctuation insensitive)
+function normTitle(t) { return String(t == null ? "" : t).toLowerCase().replace(/\s+/g, " ").trim().replace(/[.,;:]+$/, ""); }
+// titles (normalized) that appear more than once in the given rows -> Set of those keys
+function dupKeysOf(refs) {
+  const counts = new Map();
+  refs.forEach(r => { const k = normTitle(r.title); if (k) counts.set(k, (counts.get(k) || 0) + 1); });
+  const out = new Set(); counts.forEach((n, k) => { if (n > 1) out.add(k); }); return out;
+}
+
 function drawRefs() {
   const box = $("#refs-table"); const n = state.refs.length;
   $("#refs-summary").textContent = `${n} reference${n === 1 ? "" : "s"}`;
+  if (state.selRef != null && state.selRef >= n) state.selRef = null;
+  renderRefWarning();
   if (!n) { box.innerHTML = '<div class="di-empty">No references — use “+ Add reference”.</div>'; return; }
-  box.innerHTML = state.refs.map((r, i) => `
-    <div class="ref-row" data-i="${i}">
-      <input class="rr-f rr-title" data-k="title" value="${esc(r.title)}" placeholder="paper title">
-      <div class="rr-sub">
-        <input class="rr-f rr-link" data-k="link" value="${esc(r.link)}" placeholder="link / arXiv / DOI">
+  const dups = dupKeysOf(state.refs);
+  box.innerHTML = state.refs.map((r, i) => {
+    const dup = dups.has(normTitle(r.title)), sel = state.selRef === i;
+    return `
+    <div class="ref-row${sel ? " selected" : ""}${dup ? " ref-dup" : ""}" data-i="${i}" tabindex="0">
+      <div class="rr-grip" title="Drag to reorder">⠿</div>
+      <div class="rr-fields">
+        <input class="rr-f rr-title" data-k="title" value="${esc(r.title)}" placeholder="paper title">
+        <div class="rr-sub">
+          <input class="rr-f rr-link" data-k="link" value="${esc(r.link)}" placeholder="link / arXiv / DOI">
+        </div>
+        <div class="rr-dup-tag"${dup ? "" : " hidden"}>⚠ duplicate title in this deck</div>
       </div>
       <div class="rr-controls">
         <button type="button" class="rr-del" title="Remove this reference">✕</button>
       </div>
-    </div>`).join("");
+    </div>`;
+  }).join("");
   $$(".ref-row", box).forEach(row => {
     const i = +row.dataset.i;
-    $$(".rr-f", row).forEach(inp => inp.addEventListener("input", () => { state.refs[i][inp.dataset.k] = inp.value; persist(false); }));
-    row.querySelector(".rr-del").addEventListener("click", () => { state.refs.splice(i, 1); drawRefs(); persist(false); });
+    // click the row body to select; click the already-selected row again to unselect
+    // (inputs, the delete button and the grip are handled separately)
+    row.addEventListener("mousedown", e => { if (!e.target.closest(".rr-f, .rr-del, .rr-grip")) toggleRef(i); });
+    $$(".rr-f", row).forEach(inp => {
+      inp.addEventListener("focus", () => selectRef(i, true));
+      inp.addEventListener("input", () => {
+        state.refs[i][inp.dataset.k] = inp.value;
+        if (inp.dataset.k === "title") refreshDupUI();   // live, without re-rendering (keeps caret)
+        persist(false);
+      });
+    });
+    row.querySelector(".rr-del").addEventListener("click", () => {
+      state.refs.splice(i, 1);
+      if (state.selRef === i) state.selRef = null; else if (state.selRef > i) state.selRef--;
+      drawRefs(); persist(false);
+    });
+    // drag to reorder — only initiated from the grip so text selection in inputs is unaffected
+    // ("+"-to-insert is handled once at the #refs-table level in wire(), using state.selRef)
+    const grip = row.querySelector(".rr-grip");
+    let gripDragged = false;
+    grip.addEventListener("mousedown", () => {
+      gripDragged = false; row.setAttribute("draggable", "true");
+      // if the press doesn't turn into a drag, drop the draggable flag again so inputs stay selectable
+      document.addEventListener("mouseup", () => row.removeAttribute("draggable"), { once: true });
+    });
+    // a plain grip click (no drag) toggles selection, just like clicking the row body
+    grip.addEventListener("click", () => { if (gripDragged) { gripDragged = false; return; } toggleRef(i); });
+    row.addEventListener("dragstart", e => {
+      if (row.getAttribute("draggable") !== "true") { e.preventDefault(); return; }
+      gripDragged = true; dragFrom = i; row.classList.add("dragging");
+      e.dataTransfer.effectAllowed = "move";
+      try { e.dataTransfer.setData("text/plain", String(i)); } catch (_) {}
+    });
+    row.addEventListener("dragover", e => {
+      if (dragFrom == null) return;
+      e.preventDefault(); e.dataTransfer.dropEffect = "move";
+      const before = (e.clientY - row.getBoundingClientRect().top) < row.offsetHeight / 2;
+      clearDropMarks(); row.classList.add(before ? "drop-before" : "drop-after");
+    });
+    row.addEventListener("drop", e => {
+      if (dragFrom == null) return;
+      e.preventDefault();
+      const before = (e.clientY - row.getBoundingClientRect().top) < row.offsetHeight / 2;
+      moveRef(dragFrom, before ? i : i + 1); dragFrom = null; clearDropMarks();
+    });
+    row.addEventListener("dragend", () => { dragFrom = null; row.removeAttribute("draggable"); row.classList.remove("dragging"); clearDropMarks(); });
   });
+}
+function clearDropMarks() { $$("#refs-table .ref-row").forEach(r => r.classList.remove("drop-before", "drop-after")); }
+function selectRef(i, fromInput) {
+  state.selRef = i;
+  $$("#refs-table .ref-row").forEach(r => r.classList.toggle("selected", +r.dataset.i === i));
+  if (!fromInput) { const row = $(`#refs-table .ref-row[data-i="${i}"]`); if (row) row.focus(); }
+}
+function deselectRef() {
+  state.selRef = null;
+  $$("#refs-table .ref-row").forEach(r => r.classList.remove("selected"));
+  if (document.activeElement && document.activeElement.classList && document.activeElement.classList.contains("ref-row")) document.activeElement.blur();
+}
+function toggleRef(i) { if (state.selRef === i) deselectRef(); else selectRef(i); }
+function moveRef(from, to) {
+  if (from == null || from < 0 || from >= state.refs.length) return;
+  const [it] = state.refs.splice(from, 1);
+  if (to > from) to--;                 // removing `from` shifts later indices down by one
+  to = Math.max(0, Math.min(to, state.refs.length));
+  state.refs.splice(to, 0, it); state.selRef = to;
+  drawRefs(); persist(false);
+}
+function insertRefBelow(i) {
+  if (!state.current || !Array.isArray(state.refs)) return;
+  const at = Math.min(i + 1, state.refs.length);
+  state.refs.splice(at, 0, blankRef()); state.selRef = at;
+  drawRefs(); persist(false);
+  const row = $(`#refs-table .ref-row[data-i="${at}"]`); if (row) row.querySelector(".rr-title").focus();
+}
+// live duplicate re-flagging while typing a title, without a full redraw (so the caret stays put)
+function refreshDupUI() {
+  const dups = dupKeysOf(state.refs);
+  $$("#refs-table .ref-row").forEach(row => {
+    const i = +row.dataset.i, dup = dups.has(normTitle(state.refs[i].title));
+    row.classList.toggle("ref-dup", dup);
+    const tag = row.querySelector(".rr-dup-tag"); if (tag) tag.hidden = !dup;
+  });
+  renderRefWarning();
+}
+function renderRefWarning() {
+  const el = $("#refs-warning"); if (!el) return;
+  const counts = new Map(), label = new Map();
+  (state.refs || []).forEach(r => { const k = normTitle(r.title); if (!k) return; counts.set(k, (counts.get(k) || 0) + 1); if (!label.has(k)) label.set(k, r.title); });
+  const dups = [...counts.entries()].filter(([, n]) => n > 1);
+  if (!dups.length) { el.hidden = true; el.innerHTML = ""; return; }
+  const items = dups.map(([k, n]) => `<li><b>${esc(label.get(k))}</b> <span class="rw-x">×${n}</span></li>`).join("");
+  el.innerHTML = `<span class="rw-icon" aria-hidden="true">⚠</span><div class="rw-body">` +
+    `<div class="rw-title">${dups.length} duplicate reference title${dups.length === 1 ? "" : "s"} in this deck</div>` +
+    `<ul class="rw-list">${items}</ul></div>`;
+  el.hidden = false;
 }
 function addRef() {
   if (!state.current || state.refs === null) return;
-  state.refs.push({ title: "", authors: "", year: "", arxiv_id: "", link: "", verified: "" });
+  if (state.selRef != null) { insertRefBelow(state.selRef); return; }   // add just below the selected ref
+  state.refs.push(blankRef()); state.selRef = state.refs.length - 1;     // nothing selected -> append at end
   drawRefs(); persist(false);
   const rows = $$("#refs-table .ref-row"); const last = rows[rows.length - 1];
   if (last) last.querySelector(".rr-title").focus();
@@ -442,6 +570,72 @@ function toast(msg) {
   let t = $("#toast"); if (!t) { t = document.createElement("div"); t.id = "toast"; document.body.appendChild(t); }
   t.textContent = msg; t.className = "show"; clearTimeout(toastTimer);
   toastTimer = setTimeout(() => { t.className = ""; }, 2200);
+}
+
+// ---------- all-units duplicate-reference scan ----------
+function openDupModal() { $("#dup-modal").hidden = false; document.body.classList.add("modal-open"); }
+function closeDupModal() { $("#dup-modal").hidden = true; document.body.classList.remove("modal-open"); }
+function setDupBody(html) { $("#dm-body").innerHTML = html; }
+function filterCentral(all, u) {
+  return all.filter(r => (r.provenance || "").endsWith(":central") && (!r.slide_file || r.slide_file === u.file))
+    .filter(r => (r.title || "").trim() || (r.link || "").trim())
+    .map(r => ({ title: r.title || "", link: r.link || "" }));
+}
+// references for one unit: the reviewer's saved edits when present, else the bundled central refs (cached)
+async function unitRefs(u) {
+  const ann = loadAnn(u);
+  if (ann && Array.isArray(ann.references) && ann.references.length) return ann.references;
+  if (refsCache.has(u.deck_id)) return filterCentral(refsCache.get(u.deck_id), u);
+  const all = csvObjects(await fetchText(CFG.DATA + "refs/" + u.deck_id + "/references.csv"));
+  refsCache.set(u.deck_id, all);
+  return filterCentral(all, u);
+}
+function dupTitlesOf(refs) {
+  const counts = new Map(), label = new Map();
+  refs.forEach(r => { const k = normTitle(r.title); if (!k) return; counts.set(k, (counts.get(k) || 0) + 1); if (!label.has(k)) label.set(k, r.title); });
+  const out = []; counts.forEach((n, k) => { if (n > 1) out.push({ title: label.get(k), n }); });
+  return out.sort((a, b) => b.n - a.n);
+}
+let scanning = false;
+async function scanAllUnits() {
+  if (scanning) return; scanning = true;
+  const units = state.units.filter(u => !(u.scope && u.scope !== "in"));   // target (in-scope) decks
+  openDupModal();
+  setDupBody(`<div class="dm-progress"><div class="dm-spin"></div><div>Scanning <b id="dm-count">0</b> / ${units.length} decks…</div></div>`);
+  const results = []; let done = 0, idx = 0;
+  const bump = () => { const c = $("#dm-count"); if (c) c.textContent = done; };
+  async function worker() {
+    while (idx < units.length) {
+      const u = units[idx++];
+      try { const dups = dupTitlesOf(await unitRefs(u)); if (dups.length) results.push({ u, dups }); } catch (_) {}
+      done++; if (done % 4 === 0 || done === units.length) bump();
+    }
+  }
+  await Promise.all(Array.from({ length: 8 }, worker));
+  scanning = false;
+  renderDupReport(results, units.length);
+}
+function renderDupReport(results, total) {
+  const affected = results.length, totalDup = results.reduce((s, r) => s + r.dups.length, 0);
+  results.sort((a, b) => b.dups.length - a.dups.length || (a.u.title || "").localeCompare(b.u.title || ""));
+  let html = `<div class="dm-summary">Scanned <b>${total}</b> target decks. ` + (affected
+    ? `<b class="dm-bad">${affected}</b> deck${affected === 1 ? "" : "s"} list a reference title more than once (<b>${totalDup}</b> repeated title${totalDup === 1 ? "" : "s"} in total). Click a deck to open it.</div>`
+    : `<b class="dm-ok">No deck</b> lists the same reference title more than once.</div>`);
+  if (affected) {
+    html += `<div class="dm-list">` + results.map(r => `
+      <div class="dm-unit" data-uid="${esc(uid(r.u))}">
+        <div class="dm-unit-head">
+          <span class="dm-unit-title">${esc(r.u.title)}</span>
+          <span class="dm-unit-meta">${esc(r.u.venue)} ${esc(r.u.year)} · ${r.dups.length} dup${r.dups.length === 1 ? "" : "s"}</span>
+        </div>
+        <ul class="dm-dups">${r.dups.map(d => `<li><b>${esc(d.title)}</b> <span class="rw-x">×${d.n}</span></li>`).join("")}</ul>
+      </div>`).join("") + `</div>`;
+  }
+  setDupBody(html);
+  $$("#dm-body .dm-unit").forEach(el => el.addEventListener("click", () => {
+    const u = state.units.find(x => uid(x) === el.dataset.uid);
+    if (u) { closeDupModal(); selectUnit(u); }
+  }));
 }
 
 init();
